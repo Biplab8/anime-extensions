@@ -196,12 +196,11 @@ class AnikotoExtractor(private val theme: AnikotoTheme) {
         embedUrl: String,
         server: AnikotoTheme.VideoData,
     ): ExtractionResult {
-        val streamType = try {
-            embedUrl.toHttpUrl().pathSegments.lastOrNull()
-                ?.takeIf { it == "sub" || it == "dub" }
-        } catch (_: Exception) {
-            null
-        } ?: ""
+        val streamType = when {
+            server.type.contains("dub", ignoreCase = true) -> "dub"
+            server.type.contains("sub", ignoreCase = true) -> "sub"
+            else -> ""
+        }
 
         val apiHeaders = theme.headers.newBuilder().apply {
             add("Accept", "*/*")

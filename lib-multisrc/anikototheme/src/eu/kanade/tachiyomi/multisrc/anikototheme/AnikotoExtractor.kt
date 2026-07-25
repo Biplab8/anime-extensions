@@ -253,7 +253,7 @@ class AnikotoExtractor(private val theme: AnikotoTheme) {
                     if (!response.isSuccessful) throw Exception("getSources failed: HTTP ${response.code}")
                     response.parseAs<SourceResponseDto>()
                 }
-            data to false
+            data to true
         } catch (_: Exception) {
             null
         }

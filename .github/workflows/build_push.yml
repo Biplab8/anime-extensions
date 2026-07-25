@@ -192,13 +192,13 @@ jobs:
         env:
           DELETE: ${{ needs.prepare.outputs.delete }}
         run: |
-          cd repo
-          python ../${{ github.ref_name }}/.github/scripts/merge-repo.py "$DELETE" '${{ github.ref_name }}/repo'
+          cd anime-repo
+          python ../${{ github.ref_name }}/.github/scripts/merge-repo.py "$DELETE" '${{ github.ref_name }}/anime-repo'
 
       - name: Deploy repo
         uses: EndBug/add-and-commit@290ea2c423ad77ca9c62ae0f5b224379612c0321 # v10.0.0
         with:
           message: "${{ needs.prepare.outputs.latestCommitMessage }}"
-          cwd: "./repo"
+          cwd: "./anime-repo"
           # committer_name: github-actions[bot]
           # committer_email: github-actions[bot]@users.noreply.github.com

@@ -184,7 +184,7 @@ jobs:
           repository: Biplab8/anime-extensions
           token: ${{ secrets.ANIMAN }}
           ref: master
-          path: anime-repo
+          path: origin/anime-repo
           fetch-depth: 0
           persist-credentials: true
 

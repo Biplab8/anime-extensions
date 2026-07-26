@@ -42,8 +42,29 @@ for item in index:
     for source in item["sources"]:
         source.pop("versionId", None)
 
+# --- NEW META FORMAT FOR INDEX.MIN.JSON ---
+v2_extensions = []
+for entry in index:
+    v2_entry = entry.copy()
+    if "apk" in v2_entry and not v2_entry["apk"].startswith("apk/"):
+        v2_entry["apk"] = "apk/" + v2_entry["apk"]
+    v2_extensions.append(v2_entry)
+
+v2_index_data = {
+    "meta": {
+        "name": "Biplab8 Anime Repo",
+        "badgeLabel": "Biplab8",
+        "contact": {
+            "website": "https://github.com/Biplab8/anime-extensions"
+        },
+        "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99"
+    },
+    "extensions": v2_extensions
+}
+
 with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index_min_file:
-    json.dump(index, index_min_file, ensure_ascii=False, separators=(",", ":"))
+    json.dump(v2_index_data, index_min_file, ensure_ascii=False, separators=(",", ":"))
+# ------------------------------------------
 
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_html_file:
     index_html_file.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
@@ -52,23 +73,3 @@ with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_htm
         name_escaped = html.escape(entry["name"])
         index_html_file.write(f'<a href="{apk_escaped}">{name_escaped}</a>\n')
     index_html_file.write('</pre>\n</body>\n</html>\n')
-
-# --- V2 REPO.JSON GENERATOR ---
-v2_extensions = []
-for entry in index:
-    v2_entry = entry.copy()
-    if "apk" in v2_entry and not v2_entry["apk"].startswith("apk/"):
-        v2_entry["apk"] = "apk/" + v2_entry["apk"]
-    v2_extensions.append(v2_entry)
-
-repo_data = {
-    "name": "Biplab8 Anime Repo",
-    "badgeLabel": "Biplab8",
-    "contact": {
-        "website": "https://github.com/Biplab8/anime-extensions"
-    },
-    "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99",
-    "extensions": v2_extensions
-}
-with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
-    json.dump(repo_data, repo_file, ensure_ascii=False, indent=2)

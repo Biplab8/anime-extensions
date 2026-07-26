@@ -56,14 +56,13 @@ with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index
     json.dump(index, index_min_file, ensure_ascii=False, separators=(",", ":"))
 
 # --- NEW CODE: Automatically generate V2 repo.json for Animetail ---
+# --- NEW CODE: Automatically generate V2 repo.json for Animetail ---
 repo_data = {
-    "info": {
-        "name": "Biplab8 Anime Repo",
-        "shortName": "Biplab8",
-        "description": "Custom anime extensions repository",
-        "website": "https://github.com/Biplab8/anime-extensions"
-    },
-    "extensions": index
+    "name": "Biplab8 Anime Repo",
+    "badgeLabel": "Biplab8",
+    "contact": "https://github.com/Biplab8/anime-extensions",
+    "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99", 
+    "extensions": index 
 }
 
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:

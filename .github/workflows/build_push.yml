@@ -181,7 +181,7 @@ jobs:
       - name: Checkout repo branch
         uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
-          repository: Biplab8/anime-extensions
+          repository: ${{ github.repository }}
           token: ${{ secrets.ANIMAN }}
           ref: anime-repo
           path: anime-repo

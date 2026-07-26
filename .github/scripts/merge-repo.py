@@ -22,7 +22,6 @@ for module in to_delete:
 shutil.copytree(src=LOCAL_REPO.joinpath("apk"), dst=REMOTE_REPO.joinpath("apk"), dirs_exist_ok = True)
 shutil.copytree(src=LOCAL_REPO.joinpath("icon"), dst=REMOTE_REPO.joinpath("icon"), dirs_exist_ok = True)
 
-# --- FIX: Type-checking to ensure JSON structure is strictly valid ---
 try:
     with REMOTE_REPO.joinpath("index.json").open() as remote_index_file:
         remote_index = json.load(remote_index_file)
@@ -32,20 +31,16 @@ try:
 except (json.JSONDecodeError, FileNotFoundError):
     print("Warning: Remote index.json is empty, corrupt, or missing. Defaulting to an empty list.")
     remote_index = []
-# -------------------------------------------------------------------
 
 with LOCAL_REPO.joinpath("index.min.json").open() as local_index_file:
     local_index = json.load(local_index_file)
 
-# SAFELY filter the items by ensuring they are dictionaries containing the "pkg" key
 index = [
     item for item in remote_index
     if isinstance(item, dict) and "pkg" in item and not any(item["pkg"].endswith(f".{module}") for module in to_delete)
 ]
 
 index.extend(local_index)
-
-# Safely sort using .get() to prevent crashes if an item is missing the pkg key
 index.sort(key=lambda x: x.get("pkg", ""))
 
 with REMOTE_REPO.joinpath("index.json").open("w", encoding="utf-8") as index_file:
@@ -59,6 +54,11 @@ for item in index:
 
 with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index_min_file:
     json.dump(index, index_min_file, ensure_ascii=False, separators=(",", ":"))
+
+# --- NEW CODE: Automatically generate repo.json for Animetail ---
+with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
+    json.dump(index, repo_file, ensure_ascii=False, indent=2)
+# ----------------------------------------------------------------
 
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_html_file:
     index_html_file.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')

@@ -5,7 +5,10 @@ from pathlib import Path
 
 # Get arguments
 delete_list = sys.argv[1].split(",") if len(sys.argv) > 1 and sys.argv[1] else []
-new_repo_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("repo")
+
+# Fix: The Action passes 'master/repo', but we are inside 'anime-repo'. We need to step back one folder using ".."
+new_repo_arg = sys.argv[2] if len(sys.argv) > 2 else "repo"
+new_repo_dir = Path("..").joinpath(new_repo_arg)
 
 REMOTE_REPO = Path(".")
 

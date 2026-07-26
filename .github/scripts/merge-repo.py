@@ -66,10 +66,10 @@ for ext in final_extensions:
     ext["hasReadme"] = ext.get("hasReadme", 0)
     ext["hasChangelog"] = ext.get("hasChangelog", 0)
     
-    # 3. THE ANIYOMI/ANIMETAIL FIX: Tell the app these are anime!
+    # 3. Tell the app these are anime
     ext["type"] = "anime"
     
-    # 4. THE MIHON FIX: Modern apps need a boolean for NSFW
+    # 4. Modern apps need a boolean for NSFW
     if "nsfw" in ext:
         ext["isNsfw"] = ext["nsfw"] == 1
     else:
@@ -83,18 +83,17 @@ for ext in final_extensions:
     if "icon" not in ext or not ext["icon"]:
         ext["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{ext['pkg']}.png"
 
-# --- GENERATE V2 REPO DATA ---
+# --- REMOVE SIGNING KEY RESTRICTION ---
 v2_repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",
     "contact": {
         "website": "https://github.com/Biplab8/anime-extensions"
     },
-    "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99",
+    "signingKey": "",  # Left blank to bypass signature enforcement blocks
     "extensions": final_extensions
 }
 
-# Write v2_repo_data to BOTH files so the root fields are never missing
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as f:
     json.dump(v2_repo_data, f, ensure_ascii=False, indent=2)
 

@@ -93,15 +93,15 @@ with REPO_DIR.joinpath("index.json").open("w", encoding="utf-8") as index_file:
     json.dump(index_min_data, index_file, ensure_ascii=False, indent=2)
 
 # --- NEW CODE: Generate V2 repo.json natively ---
+# --- NEW CODE: Automatically generate V2 repo.json for Animetail ---
 repo_data = {
-    "info": {
-        "name": "Biplab8 Anime Repo",
-        "shortName": "Biplab8",
-        "description": "Custom anime extensions repository",
-        "website": "https://github.com/Biplab8/anime-extensions"
-    },
-    "extensions": index_min_data
+    "name": "Biplab8 Anime Repo",
+    "badgeLabel": "Biplab8",
+    "contact": "https://github.com/Biplab8/anime-extensions",
+    "signingKey": "PLACEHOLDER_KEY", 
+    "extensions": index # NOTE: Use index_min_data in create-repo.py
 }
 
-with REPO_DIR.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
+with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
     json.dump(repo_data, repo_file, ensure_ascii=False, indent=2)
+# -------------------------------------------------------------------

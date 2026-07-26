@@ -6,13 +6,13 @@ from pathlib import Path
 # Get arguments
 delete_list = sys.argv[1].split(",") if len(sys.argv) > 1 and sys.argv[1] else []
 
-# Correctly step back into the master branch folder
+# Step back into the master branch folder
 new_repo_arg = sys.argv[2] if len(sys.argv) > 2 else "repo"
 new_repo_dir = Path("..").joinpath(new_repo_arg)
 
 REMOTE_REPO = Path(".")
 
-# BULLETPROOF EXTRACTOR: Safely handles both raw lists and V2 dictionaries
+# Safely extract extensions list
 def extract_extensions(data):
     if isinstance(data, dict):
         return data.get("extensions", [])
@@ -20,7 +20,7 @@ def extract_extensions(data):
         return data
     return []
 
-# Load existing extensions safely
+# Load existing extensions
 existing_extensions = []
 existing_index_path = REMOTE_REPO.joinpath("index.min.json")
 if existing_index_path.exists():
@@ -30,7 +30,7 @@ if existing_index_path.exists():
     except Exception:
         pass
 
-# Load new extensions safely
+# Load new extensions
 new_extensions = []
 try:
     with new_repo_dir.joinpath("index.min.json").open("r", encoding="utf-8") as f:
@@ -38,7 +38,7 @@ try:
 except Exception:
     pass
 
-# Merge logic (with safety checks to ensure we are only handling dictionaries)
+# Merge extensions
 extension_dict = {ext["pkg"]: ext for ext in existing_extensions if isinstance(ext, dict) and "pkg" in ext}
 
 for ext in new_extensions:
@@ -50,6 +50,25 @@ for pkg in delete_list:
         del extension_dict[pkg]
 
 final_extensions = list(extension_dict.values())
+
+# --- FIX ALL EXTENSIONS (INTEGER IDs & REQUIRED FIELDS) ---
+for ext in final_extensions:
+    # 1. Convert source ID from string to int
+    if "sources" in ext and isinstance(ext["sources"], list):
+        for source in ext["sources"]:
+            if "id" in source:
+                try:
+                    source["id"] = int(str(source["id"]))
+                except ValueError:
+                    pass
+
+    # 2. Add required metadata fields for Kotlin Serialization
+    if "hasReadme" not in ext:
+        ext["hasReadme"] = 0
+    if "hasChangelog" not in ext:
+        ext["hasChangelog"] = 0
+    if "icon" not in ext or not ext["icon"]:
+        ext["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{ext['pkg']}.png"
 
 # --- GENERATE V2 REPO.JSON ---
 v2_repo_data = {

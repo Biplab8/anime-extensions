@@ -56,7 +56,6 @@ with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index
     json.dump(index, index_min_file, ensure_ascii=False, separators=(",", ":"))
 
 # --- NEW CODE: Automatically generate V2 repo.json for Animetail ---
-# --- NEW CODE: Automatically generate V2 repo.json for Animetail ---
 repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",

@@ -83,7 +83,7 @@ for ext in final_extensions:
     if "icon" not in ext or not ext["icon"]:
         ext["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{ext['pkg']}.png"
 
-# --- GENERATE V2 REPO.JSON (For modern apps) ---
+# --- GENERATE V2 REPO DATA ---
 v2_repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",
@@ -94,21 +94,12 @@ v2_repo_data = {
     "extensions": final_extensions
 }
 
-# --- THE MIHON / ANIMETAIL FIX: ADD THE 'meta' FIELD TO INDEX.MIN.JSON ---
-mihon_repo_data = {
-    "meta": {
-        "name": "Biplab8 Anime Repo",
-        "badgeLabel": "Biplab8",
-        "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99"
-    },
-    "extensions": final_extensions
-}
-
+# Write v2_repo_data to BOTH files so the root fields are never missing
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as f:
     json.dump(v2_repo_data, f, ensure_ascii=False, indent=2)
 
 with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
-    json.dump(mihon_repo_data, f, ensure_ascii=False, separators=(",", ":"))
+    json.dump(v2_repo_data, f, ensure_ascii=False, separators=(",", ":"))
 
 # --- GENERATE INDEX.HTML ---
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as f:

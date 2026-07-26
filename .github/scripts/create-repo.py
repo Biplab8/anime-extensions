@@ -85,5 +85,23 @@ for apk in REPO_APK_DIR.iterdir():
 
     index_min_data.append(min_data)
 
+# Keep legacy generation for backward compatibility
 with REPO_DIR.joinpath("index.min.json").open("w", encoding="utf-8") as index_file:
     json.dump(index_min_data, index_file, ensure_ascii=False, separators=(",", ":"))
+
+with REPO_DIR.joinpath("index.json").open("w", encoding="utf-8") as index_file:
+    json.dump(index_min_data, index_file, ensure_ascii=False, indent=2)
+
+# --- NEW CODE: Generate V2 repo.json natively ---
+repo_data = {
+    "info": {
+        "name": "Biplab8 Anime Repo",
+        "shortName": "Biplab8",
+        "description": "Custom anime extensions repository",
+        "website": "https://github.com/Biplab8/anime-extensions"
+    },
+    "extensions": index_min_data
+}
+
+with REPO_DIR.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
+    json.dump(repo_data, repo_file, ensure_ascii=False, indent=2)

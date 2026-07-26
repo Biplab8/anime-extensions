@@ -83,7 +83,7 @@ for ext in final_extensions:
     if "icon" not in ext or not ext["icon"]:
         ext["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{ext['pkg']}.png"
 
-# --- GENERATE V2 DATA ---
+# --- GENERATE V2 REPO.JSON (For modern apps) ---
 v2_repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",
@@ -94,13 +94,15 @@ v2_repo_data = {
     "extensions": final_extensions
 }
 
-# Write to both JSON files to cover all bases
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as f:
     json.dump(v2_repo_data, f, ensure_ascii=False, indent=2)
 
+# --- GENERATE V1 INDEX.MIN.JSON (For Animetail) ---
+# THIS MUST BE A FLAT LIST (final_extensions), NOT A DICTIONARY
 with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
-    json.dump(v2_repo_data, f, ensure_ascii=False, separators=(",", ":"))
+    json.dump(final_extensions, f, ensure_ascii=False, separators=(",", ":"))
 
+# --- GENERATE INDEX.HTML ---
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as f:
     f.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
     for entry in final_extensions:

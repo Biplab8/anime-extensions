@@ -51,8 +51,9 @@ for pkg in delete_list:
 
 final_extensions = list(extension_dict.values())
 
-# Fix all extensions
+# --- THE ULTIMATE FIX ---
 for ext in final_extensions:
+    # 1. Force IDs to integers
     if "sources" in ext and isinstance(ext["sources"], list):
         for source in ext["sources"]:
             if "id" in source:
@@ -61,14 +62,28 @@ for ext in final_extensions:
                 except ValueError:
                     pass
 
-    if "hasReadme" not in ext:
-        ext["hasReadme"] = 0
-    if "hasChangelog" not in ext:
-        ext["hasChangelog"] = 0
+    # 2. Add required V2 fields
+    ext["hasReadme"] = ext.get("hasReadme", 0)
+    ext["hasChangelog"] = ext.get("hasChangelog", 0)
+    
+    # 3. THE ANIYOMI/ANIMETAIL FIX: Tell the app these are anime!
+    ext["type"] = "anime"
+    
+    # 4. THE MIHON FIX: Modern apps need a boolean for NSFW
+    if "nsfw" in ext:
+        ext["isNsfw"] = ext["nsfw"] == 1
+    else:
+        ext["isNsfw"] = False
+    
+    # 5. Fix APK download path
+    if "apk" in ext and not ext["apk"].startswith("apk/"):
+        ext["apk"] = f"apk/{ext['apk']}"
+
+    # 6. Ensure icon URL exists
     if "icon" not in ext or not ext["icon"]:
         ext["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{ext['pkg']}.png"
 
-# Generate V2 Data
+# --- GENERATE V2 DATA ---
 v2_repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",
@@ -79,12 +94,12 @@ v2_repo_data = {
     "extensions": final_extensions
 }
 
-# --- WRITE V2 DATA DIRECTLY TO INDEX.MIN.JSON ---
-with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
-    json.dump(v2_repo_data, f, ensure_ascii=False, separators=(",", ":"))
-
+# Write to both JSON files to cover all bases
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as f:
     json.dump(v2_repo_data, f, ensure_ascii=False, indent=2)
+
+with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
+    json.dump(v2_repo_data, f, ensure_ascii=False, separators=(",", ":"))
 
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as f:
     f.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')

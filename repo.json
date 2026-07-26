@@ -18,13 +18,10 @@
         {
           "name": "AnimeOnsen",
           "lang": "all",
-          "id": 8542735178285060053,
+          "id": "8542735178285060053",
           "baseUrl": "https://www.animeonsen.xyz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animeonsen.png"
+      ]
     },
     {
       "name": "Aniyomi: Animetsu",
@@ -38,13 +35,10 @@
         {
           "name": "Animetsu",
           "lang": "all",
-          "id": 3135577129954186978,
+          "id": "3135577129954186978",
           "baseUrl": "https://animetsu.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animetsu.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeWorld India",
@@ -58,61 +52,58 @@
         {
           "name": "AnimeWorld India",
           "lang": "all",
-          "id": 2012957501886720048,
+          "id": "2012957501886720048",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "bn",
-          "id": 1553651966725515829,
+          "id": "1553651966725515829",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "en",
-          "id": 8052146309028882026,
+          "id": "8052146309028882026",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "hi",
-          "id": 7823261278652377392,
+          "id": "7823261278652377392",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "ja",
-          "id": 2355355781711866618,
+          "id": "2355355781711866618",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "ml",
-          "id": 2763344039098801472,
+          "id": "2763344039098801472",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "mr",
-          "id": 7406666490782122257,
+          "id": "7406666490782122257",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "ta",
-          "id": 9003594241787941843,
+          "id": "9003594241787941843",
           "baseUrl": "https://anime-world.co"
         },
         {
           "name": "AnimeWorld India",
           "lang": "te",
-          "id": 8757775099454174589,
+          "id": "8757775099454174589",
           "baseUrl": "https://anime-world.co"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animeworldindia.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeXin",
@@ -126,13 +117,10 @@
         {
           "name": "AnimeXin",
           "lang": "all",
-          "id": 4620219025406449669,
+          "id": "4620219025406449669",
           "baseUrl": "https://animexin.dev"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animexin.png"
+      ]
     },
     {
       "name": "Aniyomi: AniZone",
@@ -146,13 +134,10 @@
         {
           "name": "AniZone",
           "lang": "all",
-          "id": 954848840440936266,
+          "id": "954848840440936266",
           "baseUrl": "https://anizone.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.anizone.png"
+      ]
     },
     {
       "name": "Aniyomi: ChineseAnime",
@@ -166,13 +151,10 @@
         {
           "name": "ChineseAnime",
           "lang": "all",
-          "id": 8639880285552928628,
+          "id": "8639880285552928628",
           "baseUrl": "https://www.chineseanime.vip"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.chineseanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Debrid Index",
@@ -186,13 +168,10 @@
         {
           "name": "Debrid Index",
           "lang": "all",
-          "id": 824133852049869443,
+          "id": "824133852049869443",
           "baseUrl": "https://torrentio.strem.fun"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.debridindex.png"
+      ]
     },
     {
       "name": "Aniyomi: Google Drive",
@@ -206,13 +185,10 @@
         {
           "name": "Google Drive",
           "lang": "all",
-          "id": 4222017068256633289,
+          "id": "4222017068256633289",
           "baseUrl": "https://drive.google.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.googledrive.png"
+      ]
     },
     {
       "name": "Aniyomi: GoogleDriveIndex",
@@ -226,13 +202,10 @@
         {
           "name": "GoogleDriveIndex",
           "lang": "all",
-          "id": 7558489246571085102,
+          "id": "7558489246571085102",
           "baseUrl": ""
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.googledriveindex.png"
+      ]
     },
     {
       "name": "Aniyomi: Hentai Torrent (Torrent)",
@@ -246,13 +219,10 @@
         {
           "name": "Hentai Torrent (Torrent)",
           "lang": "all",
-          "id": 5093529078954574163,
+          "id": "5093529078954574163",
           "baseUrl": "https://www.hentaitorrents.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.hentaitorrent.png"
+      ]
     },
     {
       "name": "Aniyomi: Jable",
@@ -266,25 +236,22 @@
         {
           "name": "Jable",
           "lang": "zh",
-          "id": 4927468808524123411,
+          "id": "4927468808524123411",
           "baseUrl": "https://jable.tv"
         },
         {
           "name": "Jable",
           "lang": "en",
-          "id": 889668913079212135,
+          "id": "889668913079212135",
           "baseUrl": "https://jable.tv"
         },
         {
           "name": "Jable",
           "lang": "ja",
-          "id": 7335707215680841826,
+          "id": "7335707215680841826",
           "baseUrl": "https://jable.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.jable.png"
+      ]
     },
     {
       "name": "Aniyomi: JavGG",
@@ -298,13 +265,10 @@
         {
           "name": "JavGG",
           "lang": "all",
-          "id": 3378993382379910095,
+          "id": "3378993382379910095",
           "baseUrl": "https://javgg.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.javgg.png"
+      ]
     },
     {
       "name": "Aniyomi: Jav Guru",
@@ -318,13 +282,10 @@
         {
           "name": "Jav Guru",
           "lang": "all",
-          "id": 8546813608934181796,
+          "id": "8546813608934181796",
           "baseUrl": "https://jav.guru"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.javguru.png"
+      ]
     },
     {
       "name": "Aniyomi: Jellyfin",
@@ -338,25 +299,22 @@
         {
           "name": "Jellyfin (1)",
           "lang": "all",
-          "id": 1100359934660540567,
+          "id": "1100359934660540567",
           "baseUrl": ""
         },
         {
           "name": "Jellyfin (2)",
           "lang": "all",
-          "id": 5716273013801838310,
+          "id": "5716273013801838310",
           "baseUrl": ""
         },
         {
           "name": "Jellyfin (3)",
           "lang": "all",
-          "id": 7066619062139039107,
+          "id": "7066619062139039107",
           "baseUrl": ""
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.jellyfin.png"
+      ]
     },
     {
       "name": "Aniyomi: LMAnime",
@@ -370,13 +328,10 @@
         {
           "name": "LMAnime",
           "lang": "all",
-          "id": 7296222662412524790,
+          "id": "7296222662412524790",
           "baseUrl": "https://lmanime.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.lmanime.png"
+      ]
     },
     {
       "name": "Aniyomi: MissAV",
@@ -390,13 +345,10 @@
         {
           "name": "MissAV",
           "lang": "all",
-          "id": 168969881246615628,
+          "id": "168969881246615628",
           "baseUrl": "https://missav.live"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.missav.png"
+      ]
     },
     {
       "name": "Aniyomi: MyReadingManga",
@@ -410,199 +362,196 @@
         {
           "name": "MyReadingManga",
           "lang": "ar",
-          "id": 4864082317433034574,
+          "id": "4864082317433034574",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "id",
-          "id": 8842237058298566885,
+          "id": "8842237058298566885",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "bg",
-          "id": 2574695051338042046,
+          "id": "2574695051338042046",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "zh-hk",
-          "id": 8791956266162443131,
+          "id": "8791956266162443131",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "zh",
-          "id": 8339625080404115366,
+          "id": "8339625080404115366",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "zh-tw",
-          "id": 5845608986362292519,
+          "id": "5845608986362292519",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "cs",
-          "id": 7131955720858058783,
+          "id": "7131955720858058783",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "da",
-          "id": 5371514224509665564,
+          "id": "5371514224509665564",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "en",
-          "id": 6318378620301107421,
+          "id": "6318378620301107421",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "fil",
-          "id": 3226915867864141356,
+          "id": "3226915867864141356",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "fi",
-          "id": 849421505944509897,
+          "id": "849421505944509897",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "nl",
-          "id": 4376917703158179535,
+          "id": "4376917703158179535",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "fr",
-          "id": 437664019446265570,
+          "id": "437664019446265570",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "de",
-          "id": 2084769296792806394,
+          "id": "2084769296792806394",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "el",
-          "id": 8822988174773173078,
+          "id": "8822988174773173078",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "he",
-          "id": 5231220639630323919,
+          "id": "5231220639630323919",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "hi",
-          "id": 8926928666838596626,
+          "id": "8926928666838596626",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "hu",
-          "id": 8708782130191102760,
+          "id": "8708782130191102760",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "it",
-          "id": 3371822795753272045,
+          "id": "3371822795753272045",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "ja",
-          "id": 7616097631685192755,
+          "id": "7616097631685192755",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "ko",
-          "id": 8341594492961776810,
+          "id": "8341594492961776810",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "ms",
-          "id": 1723826339924620549,
+          "id": "1723826339924620549",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "no",
-          "id": 8445980320294828568,
+          "id": "8445980320294828568",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "pl",
-          "id": 2019706989618234044,
+          "id": "2019706989618234044",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "pt-BR",
-          "id": 7097816699537539700,
+          "id": "7097816699537539700",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "ro",
-          "id": 1896532101387970682,
+          "id": "1896532101387970682",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "ru",
-          "id": 4213491422253699699,
+          "id": "4213491422253699699",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "es",
-          "id": 3547244847403070407,
+          "id": "3547244847403070407",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "sv",
-          "id": 4833177807047559630,
+          "id": "4833177807047559630",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "th",
-          "id": 1912103614802930406,
+          "id": "1912103614802930406",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "tr",
-          "id": 164535712016830416,
+          "id": "164535712016830416",
           "baseUrl": "https://myreadingmanga.info"
         },
         {
           "name": "MyReadingManga",
           "lang": "vi",
-          "id": 4129272632455883902,
+          "id": "4129272632455883902",
           "baseUrl": "https://myreadingmanga.info"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.myreadingmanga.png"
+      ]
     },
     {
       "name": "Aniyomi: Newgrounds",
@@ -616,13 +565,10 @@
         {
           "name": "Newgrounds",
           "lang": "all",
-          "id": 1105406593306973475,
+          "id": "1105406593306973475",
           "baseUrl": "https://www.newgrounds.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.newgrounds.png"
+      ]
     },
     {
       "name": "Aniyomi: Nyaa (Torrent)",
@@ -636,19 +582,16 @@
         {
           "name": "Nyaa (Torrent)",
           "lang": "all",
-          "id": 5310001068353260432,
+          "id": "5310001068353260432",
           "baseUrl": "https://nyaa.si/"
         },
         {
           "name": "Nyaa Sukebein (Torrent)",
           "lang": "all",
-          "id": 9136480360798112194,
+          "id": "9136480360798112194",
           "baseUrl": "https://sukebei.nyaa.si/"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.nyaatorrent.png"
+      ]
     },
     {
       "name": "Aniyomi: PTorrent (Torrent)",
@@ -662,13 +605,10 @@
         {
           "name": "PTorrent (Torrent)",
           "lang": "all",
-          "id": 2514899426758091629,
+          "id": "2514899426758091629",
           "baseUrl": "https://www.ptorrents.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.ptorrent.png"
+      ]
     },
     {
       "name": "Aniyomi: RouVideo",
@@ -682,31 +622,28 @@
         {
           "name": "肉視頻",
           "lang": "all",
-          "id": 7323052797979930552,
+          "id": "7323052797979930552",
           "baseUrl": "https://rou.video/home"
         },
         {
           "name": "肉視頻",
           "lang": "zh",
-          "id": 6055459097979921364,
+          "id": "6055459097979921364",
           "baseUrl": "https://rou.video/home"
         },
         {
           "name": "肉視頻",
           "lang": "en",
-          "id": 1757861758959207324,
+          "id": "1757861758959207324",
           "baseUrl": "https://rou.video/home"
         },
         {
           "name": "肉視頻",
           "lang": "vi",
-          "id": 8210438569455151012,
+          "id": "8210438569455151012",
           "baseUrl": "https://rou.video/home"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.rouvideo.png"
+      ]
     },
     {
       "name": "Aniyomi: ShabakatyCinemana",
@@ -720,13 +657,10 @@
         {
           "name": "Shabakaty Cinemana",
           "lang": "all",
-          "id": 7409266434239021230,
+          "id": "7409266434239021230",
           "baseUrl": "https://cinemana.shabakaty.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.shabakatycinemana.png"
+      ]
     },
     {
       "name": "Aniyomi: StreamingCommunity",
@@ -740,31 +674,28 @@
         {
           "name": "StreamingUnity (Movie)",
           "lang": "en",
-          "id": 665657603807796138,
+          "id": "665657603807796138",
           "baseUrl": "https://streamingunity.biz/en"
         },
         {
           "name": "StreamingUnity (Movie)",
           "lang": "it",
-          "id": 502708102217708509,
+          "id": "502708102217708509",
           "baseUrl": "https://streamingunity.biz/it"
         },
         {
           "name": "StreamingUnity (Tv)",
           "lang": "en",
-          "id": 349088835984594821,
+          "id": "349088835984594821",
           "baseUrl": "https://streamingunity.biz/en"
         },
         {
           "name": "StreamingUnity (Tv)",
           "lang": "it",
-          "id": 7246470104959245892,
+          "id": "7246470104959245892",
           "baseUrl": "https://streamingunity.biz/it"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.streamingcommunity.png"
+      ]
     },
     {
       "name": "Aniyomi: Stremio",
@@ -778,13 +709,10 @@
         {
           "name": "Stremio",
           "lang": "all",
-          "id": 8425771932667600381,
+          "id": "8425771932667600381",
           "baseUrl": "https://app.strem.io/shell-v4.4"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.stremio.png"
+      ]
     },
     {
       "name": "Aniyomi: Subsplease",
@@ -798,13 +726,10 @@
         {
           "name": "Subsplease",
           "lang": "all",
-          "id": 8766955949256845198,
+          "id": "8766955949256845198",
           "baseUrl": "https://subsplease.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.subsplease.png"
+      ]
     },
     {
       "name": "Aniyomi: SupJav",
@@ -818,25 +743,22 @@
         {
           "name": "SupJav",
           "lang": "en",
-          "id": 4473019365642465410,
+          "id": "4473019365642465410",
           "baseUrl": "https://supjav.com"
         },
         {
           "name": "SupJav",
           "lang": "ja",
-          "id": 3152122063691493374,
+          "id": "3152122063691493374",
           "baseUrl": "https://supjav.com"
         },
         {
           "name": "SupJav",
           "lang": "zh",
-          "id": 2689098384082963484,
+          "id": "2689098384082963484",
           "baseUrl": "https://supjav.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.supjav.png"
+      ]
     },
     {
       "name": "Aniyomi: Torrentio (Torrent / Debrid)",
@@ -850,13 +772,10 @@
         {
           "name": "Torrentio (Torrent / Debrid)",
           "lang": "all",
-          "id": 3688044905832724625,
+          "id": "3688044905832724625",
           "baseUrl": "https://torrentio.strem.fun"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.torrentio.png"
+      ]
     },
     {
       "name": "Aniyomi: Torrentio Anime (Torrent / Debrid)",
@@ -870,13 +789,10 @@
         {
           "name": "Torrentio Anime (Torrent / Debrid)",
           "lang": "all",
-          "id": 7490206640756700883,
+          "id": "7490206640756700883",
           "baseUrl": "https://torrentio.strem.fun"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.torrentioanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Xnxx",
@@ -890,13 +806,10 @@
         {
           "name": "Xnxx",
           "lang": "all",
-          "id": 1853973586604481267,
+          "id": "1853973586604481267",
           "baseUrl": "https://www.xnxx.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.xnxx.png"
+      ]
     },
     {
       "name": "Aniyomi: Xvideos",
@@ -910,13 +823,10 @@
         {
           "name": "Xvideos",
           "lang": "all",
-          "id": 8016727706963226859,
+          "id": "8016727706963226859",
           "baseUrl": "https://www.xvideos.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.xvideos.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime4up",
@@ -930,13 +840,10 @@
         {
           "name": "Anime4Up",
           "lang": "ar",
-          "id": 528782559387795213,
+          "id": "528782559387795213",
           "baseUrl": "https://w1.anime4up.rest"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.anime4up.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime Blkom",
@@ -950,13 +857,10 @@
         {
           "name": "أنمي بالكوم",
           "lang": "ar",
-          "id": 5743347900850233900,
+          "id": "5743347900850233900",
           "baseUrl": "https://animeblkom.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeblkom.png"
+      ]
     },
     {
       "name": "Aniyomi: Animeiat",
@@ -970,13 +874,10 @@
         {
           "name": "Animeiat",
           "lang": "ar",
-          "id": 7117595939095792520,
+          "id": "7117595939095792520",
           "baseUrl": "https://api.animeiat.co/v1"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeiat.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeLek",
@@ -990,13 +891,10 @@
         {
           "name": "AnimeLek",
           "lang": "ar",
-          "id": 735529755877348598,
+          "id": "735529755877348598",
           "baseUrl": "https://animelek.me"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animelek.png"
+      ]
     },
     {
       "name": "Aniyomi: Animerco",
@@ -1010,13 +908,10 @@
         {
           "name": "Animerco",
           "lang": "ar",
-          "id": 4435835034990361158,
+          "id": "4435835034990361158",
           "baseUrl": "https://zeta.animerco.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animerco.png"
+      ]
     },
     {
       "name": "Aniyomi: ArabAnime",
@@ -1030,13 +925,10 @@
         {
           "name": "ArabAnime",
           "lang": "ar",
-          "id": 7694781769943581537,
+          "id": "7694781769943581537",
           "baseUrl": "https://www.arabanime.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Arab Seed",
@@ -1050,13 +942,10 @@
         {
           "name": "عرب سيد",
           "lang": "ar",
-          "id": 4544379135186887077,
+          "id": "4544379135186887077",
           "baseUrl": "https://m.asd.homes"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabseed.png"
+      ]
     },
     {
       "name": "Aniyomi: asia2tv",
@@ -1070,13 +959,10 @@
         {
           "name": "Asia2TV",
           "lang": "ar",
-          "id": 2083042094654392493,
+          "id": "2083042094654392493",
           "baseUrl": "https://ww1.asia2tv.pw"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.asia2tv.png"
+      ]
     },
     {
       "name": "Aniyomi: Cimaleek",
@@ -1090,13 +976,10 @@
         {
           "name": "سيما ليك",
           "lang": "ar",
-          "id": 9014633682469494124,
+          "id": "9014633682469494124",
           "baseUrl": "https://m.cimaleek.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.cimaleek.png"
+      ]
     },
     {
       "name": "Aniyomi: Egy Dead",
@@ -1110,13 +993,10 @@
         {
           "name": "Egy Dead",
           "lang": "ar",
-          "id": 8402300441936118056,
+          "id": "8402300441936118056",
           "baseUrl": "https://egydead.space"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.egydead.png"
+      ]
     },
     {
       "name": "Aniyomi: FASELHD",
@@ -1130,13 +1010,10 @@
         {
           "name": "فاصل اعلاني",
           "lang": "ar",
-          "id": 1378291029586884571,
+          "id": "1378291029586884571",
           "baseUrl": "https://www.faselhds.biz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.faselhd.png"
+      ]
     },
     {
       "name": "Aniyomi: Okanime",
@@ -1150,13 +1027,10 @@
         {
           "name": "Okanime",
           "lang": "ar",
-          "id": 2275740574829569178,
+          "id": "2275740574829569178",
           "baseUrl": "https://www.okanime.xyz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.okanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Tuktuk Cinema",
@@ -1170,13 +1044,10 @@
         {
           "name": "توك توك سينما",
           "lang": "ar",
-          "id": 7363299109912773155,
+          "id": "7363299109912773155",
           "baseUrl": "https://tuktukhd.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.tuktukcinema.png"
+      ]
     },
     {
       "name": "Aniyomi: WIT ANIME",
@@ -1190,13 +1061,10 @@
         {
           "name": "WIT ANIME",
           "lang": "ar",
-          "id": 8940958730943730988,
+          "id": "8940958730943730988",
           "baseUrl": "https://witanime.cyou"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.witanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime-Base",
@@ -1210,13 +1078,10 @@
         {
           "name": "Anime-Base",
           "lang": "de",
-          "id": 891780646468545269,
+          "id": "891780646468545269",
           "baseUrl": "https://anime-base.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animebase.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime-Loads",
@@ -1230,13 +1095,10 @@
         {
           "name": "Anime-Loads",
           "lang": "de",
-          "id": 655155856096,
+          "id": "655155856096",
           "baseUrl": "https://www.anime-loads.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animeloads.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime-Stream",
@@ -1250,13 +1112,10 @@
         {
           "name": "Anime-Stream",
           "lang": "de",
-          "id": 314593699490737069,
+          "id": "314593699490737069",
           "baseUrl": "https://anime-stream.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animestream.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeToast",
@@ -1270,13 +1129,10 @@
         {
           "name": "AnimeToast",
           "lang": "de",
-          "id": 2386616842414617638,
+          "id": "2386616842414617638",
           "baseUrl": "https://www.animetoast.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animetoast.png"
+      ]
     },
     {
       "name": "Aniyomi: AniWorld",
@@ -1290,13 +1146,10 @@
         {
           "name": "AniWorld",
           "lang": "de",
-          "id": 8286900189409315836,
+          "id": "8286900189409315836",
           "baseUrl": "https://aniworld.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.aniworld.png"
+      ]
     },
     {
       "name": "Aniyomi: FilmPalast",
@@ -1310,13 +1163,10 @@
         {
           "name": "FilmPalast",
           "lang": "de",
-          "id": 3592180368623395225,
+          "id": "3592180368623395225",
           "baseUrl": "https://filmpalast.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.filmpalast.png"
+      ]
     },
     {
       "name": "Aniyomi: Kinoking",
@@ -1330,13 +1180,10 @@
         {
           "name": "Kinoking",
           "lang": "de",
-          "id": 996816978236636598,
+          "id": "996816978236636598",
           "baseUrl": "https://kinoking.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.kinoking.png"
+      ]
     },
     {
       "name": "Aniyomi: Kool",
@@ -1350,13 +1197,10 @@
         {
           "name": "Kool",
           "lang": "de",
-          "id": 5602415922350710914,
+          "id": "5602415922350710914",
           "baseUrl": "https://www.kool.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.kool.png"
+      ]
     },
     {
       "name": "Aniyomi: Moflix-Stream",
@@ -1370,13 +1214,10 @@
         {
           "name": "Moflix-Stream",
           "lang": "de",
-          "id": 6760309784631443658,
+          "id": "6760309784631443658",
           "baseUrl": "https://moflix-stream.xyz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.moflixstream.png"
+      ]
     },
     {
       "name": "Aniyomi: Movie4k",
@@ -1390,13 +1231,10 @@
         {
           "name": "Movie4k",
           "lang": "de",
-          "id": 4846722280190238047,
+          "id": "4846722280190238047",
           "baseUrl": "https://movie4k.stream"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.movie4k.png"
+      ]
     },
     {
       "name": "Aniyomi: Serienstream",
@@ -1410,13 +1248,10 @@
         {
           "name": "Serienstream",
           "lang": "de",
-          "id": 5798377917298605009,
+          "id": "5798377917298605009",
           "baseUrl": "http://186.2.175.5"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.serienstream.png"
+      ]
     },
     {
       "name": "Aniyomi: AllAnime",
@@ -1430,13 +1265,10 @@
         {
           "name": "AllAnime",
           "lang": "en",
-          "id": 4709139914729853090,
+          "id": "4709139914729853090",
           "baseUrl": "https://allmanga.to/anime"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.allanime.png"
+      ]
     },
     {
       "name": "Aniyomi: AniDB",
@@ -1450,13 +1282,10 @@
         {
           "name": "AniDB",
           "lang": "en",
-          "id": 3556703948634317295,
+          "id": "3556703948634317295",
           "baseUrl": "https://anidb.app"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anidb.png"
+      ]
     },
     {
       "name": "Aniyomi: Anikage",
@@ -1470,13 +1299,10 @@
         {
           "name": "Anikage",
           "lang": "en",
-          "id": 975930199828232260,
+          "id": "975930199828232260",
           "baseUrl": "https://anikage.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anikage.png"
+      ]
     },
     {
       "name": "Aniyomi: Anikoto",
@@ -1490,13 +1316,10 @@
         {
           "name": "Anikoto",
           "lang": "en",
-          "id": 4697393375201558791,
+          "id": "4697393375201558791",
           "baseUrl": "https://anikototv.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anikoto.png"
+      ]
     },
     {
       "name": "Aniyomi: AniList",
@@ -1510,13 +1333,10 @@
         {
           "name": "AniList",
           "lang": "en",
-          "id": 297628545340942341,
+          "id": "297628545340942341",
           "baseUrl": "https://anilist.co"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anilist.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeGG",
@@ -1530,13 +1350,10 @@
         {
           "name": "AnimeGG",
           "lang": "en",
-          "id": 2247987965040486818,
+          "id": "2247987965040486818",
           "baseUrl": "https://www.animegg.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animegg.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeKhor",
@@ -1550,13 +1367,10 @@
         {
           "name": "AnimeKhor",
           "lang": "en",
-          "id": 2156984402743841841,
+          "id": "2156984402743841841",
           "baseUrl": "https://animekhor.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animekhor.png"
+      ]
     },
     {
       "name": "Aniyomi: Animenosub",
@@ -1570,13 +1384,10 @@
         {
           "name": "Animenosub",
           "lang": "en",
-          "id": 6722573244246256733,
+          "id": "6722573244246256733",
           "baseUrl": "https://animenosub.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animenosub.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimePahe",
@@ -1590,13 +1401,10 @@
         {
           "name": "AnimePahe",
           "lang": "en",
-          "id": 9163675745699695675,
+          "id": "9163675745699695675",
           "baseUrl": "https://animepahe.pw"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animepahe.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeParadise",
@@ -1610,13 +1418,10 @@
         {
           "name": "AnimeParadise",
           "lang": "en",
-          "id": 3319373396687010408,
+          "id": "3319373396687010408",
           "baseUrl": "https://www.animeparadise.moe"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animeparadise.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeSogo",
@@ -1630,13 +1435,10 @@
         {
           "name": "AnimeSogo",
           "lang": "en",
-          "id": 8456322126210259639,
+          "id": "8456322126210259639",
           "baseUrl": "https://animesogo.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animesogo.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeTake",
@@ -1650,13 +1452,10 @@
         {
           "name": "AnimeTake",
           "lang": "en",
-          "id": 7460925030423755739,
+          "id": "7460925030423755739",
           "baseUrl": "https://animetake.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animetake.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeVerse",
@@ -1670,13 +1469,10 @@
         {
           "name": "AnimeVerse",
           "lang": "en",
-          "id": 2210523582293472538,
+          "id": "2210523582293472538",
           "baseUrl": "https://animeverse.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animeverse.png"
+      ]
     },
     {
       "name": "Aniyomi: AniWave (Unoriginal)",
@@ -1690,13 +1486,10 @@
         {
           "name": "AniWave (Unoriginal)",
           "lang": "en",
-          "id": 4383278740715532790,
+          "id": "4383278740715532790",
           "baseUrl": "https://animewave.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.aniwave.png"
+      ]
     },
     {
       "name": "Aniyomi: AsiaFlix",
@@ -1710,13 +1503,10 @@
         {
           "name": "AsiaFlix",
           "lang": "en",
-          "id": 5831315710159126556,
+          "id": "5831315710159126556",
           "baseUrl": "https://asiaflix.app"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.asiaflix.png"
+      ]
     },
     {
       "name": "Aniyomi: AV1Encodes",
@@ -1730,13 +1520,10 @@
         {
           "name": "AV1Encodes",
           "lang": "en",
-          "id": 1014227790860730234,
+          "id": "1014227790860730234",
           "baseUrl": "https://av1encodes.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.av1encodes.png"
+      ]
     },
     {
       "name": "Aniyomi: BLZone",
@@ -1750,13 +1537,10 @@
         {
           "name": "BLZone",
           "lang": "en",
-          "id": 1437838328434413410,
+          "id": "1437838328434413410",
           "baseUrl": "https://blzone.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.blzone.png"
+      ]
     },
     {
       "name": "Aniyomi: Cineby",
@@ -1770,13 +1554,10 @@
         {
           "name": "Cineby",
           "lang": "en",
-          "id": 3770577718621723403,
+          "id": "3770577718621723403",
           "baseUrl": "https://www.cineby.at"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.cineby.png"
+      ]
     },
     {
       "name": "Aniyomi: DonghuaStream",
@@ -1790,13 +1571,10 @@
         {
           "name": "DonghuaStream",
           "lang": "en",
-          "id": 5750955808412743706,
+          "id": "5750955808412743706",
           "baseUrl": "https://donghuastream.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.donghuastream.png"
+      ]
     },
     {
       "name": "Aniyomi: haho.moe",
@@ -1810,13 +1588,10 @@
         {
           "name": "haho.moe",
           "lang": "en",
-          "id": 3727306173180829340,
+          "id": "3727306173180829340",
           "baseUrl": "https://haho.moe"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hahomoe.png"
+      ]
     },
     {
       "name": "Aniyomi: hanime.tv",
@@ -1830,13 +1605,10 @@
         {
           "name": "hanime.tv",
           "lang": "en",
-          "id": 2649711761599612719,
+          "id": "2649711761599612719",
           "baseUrl": "https://hanime.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hanime.png"
+      ]
     },
     {
       "name": "Aniyomi: HentaiMama",
@@ -1850,13 +1622,10 @@
         {
           "name": "HentaiMama",
           "lang": "en",
-          "id": 8058423919997530503,
+          "id": "8058423919997530503",
           "baseUrl": "https://hentaimama.io"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hentaimama.png"
+      ]
     },
     {
       "name": "Aniyomi: HexaWatch",
@@ -1870,13 +1639,10 @@
         {
           "name": "HexaWatch",
           "lang": "en",
-          "id": 8787688252737895237,
+          "id": "8787688252737895237",
           "baseUrl": "https://hexa.su"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hexawatch.png"
+      ]
     },
     {
       "name": "Aniyomi: Hstream",
@@ -1890,13 +1656,10 @@
         {
           "name": "Hstream",
           "lang": "en",
-          "id": 8733115911403916257,
+          "id": "8733115911403916257",
           "baseUrl": "https://hstream.moe"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hstream.png"
+      ]
     },
     {
       "name": "Aniyomi: JPFilms",
@@ -1910,13 +1673,10 @@
         {
           "name": "JPFilms",
           "lang": "en",
-          "id": 865558085806297637,
+          "id": "865558085806297637",
           "baseUrl": "https://jp-films.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.jpfilms.png"
+      ]
     },
     {
       "name": "Aniyomi: Kayoanime",
@@ -1930,13 +1690,10 @@
         {
           "name": "Kayoanime",
           "lang": "en",
-          "id": 203922289858257167,
+          "id": "203922289858257167",
           "baseUrl": "https://kayoanime.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kayoanime.png"
+      ]
     },
     {
       "name": "Aniyomi: KickAssAnime",
@@ -1950,13 +1707,10 @@
         {
           "name": "KickAssAnime",
           "lang": "en",
-          "id": 2081771513481539599,
+          "id": "2081771513481539599",
           "baseUrl": "https://kaa.lt"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kickassanime.png"
+      ]
     },
     {
       "name": "Aniyomi: KimoiTV",
@@ -1970,13 +1724,10 @@
         {
           "name": "KimoiTV",
           "lang": "en",
-          "id": 6358473316829302267,
+          "id": "6358473316829302267",
           "baseUrl": "https://kimoitv.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kimoitv.png"
+      ]
     },
     {
       "name": "Aniyomi: KissAnime",
@@ -1990,13 +1741,10 @@
         {
           "name": "kissanime.com.ru",
           "lang": "en",
-          "id": 7306944860534104910,
+          "id": "7306944860534104910",
           "baseUrl": "https://kissanime.com.ru"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kissanime.png"
+      ]
     },
     {
       "name": "Aniyomi: KissKH",
@@ -2010,13 +1758,10 @@
         {
           "name": "KissKH",
           "lang": "en",
-          "id": 2434089544252410046,
+          "id": "2434089544252410046",
           "baseUrl": "https://kisskh.ovh"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kisskh.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeKai (Unoriginal)",
@@ -2030,13 +1775,10 @@
         {
           "name": "AnimeKai (Unoriginal)",
           "lang": "en",
-          "id": 1571236147208399860,
+          "id": "1571236147208399860",
           "baseUrl": "https://animekaitv.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kotokai.png"
+      ]
     },
     {
       "name": "Aniyomi: LuciferDonghua",
@@ -2050,13 +1792,10 @@
         {
           "name": "LuciferDonghua",
           "lang": "en",
-          "id": 1480485712825107891,
+          "id": "1480485712825107891",
           "baseUrl": "https://luciferdonghua.in"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.luciferdonghua.png"
+      ]
     },
     {
       "name": "Aniyomi: Mapple",
@@ -2070,13 +1809,10 @@
         {
           "name": "Mapple",
           "lang": "en",
-          "id": 4419717598017841435,
+          "id": "4419717598017841435",
           "baseUrl": "https://mapple.uk"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.mapple.png"
+      ]
     },
     {
       "name": "Aniyomi: Miruro.tv",
@@ -2090,13 +1826,10 @@
         {
           "name": "Miruro.tv",
           "lang": "en",
-          "id": 4467610354363305307,
+          "id": "4467610354363305307",
           "baseUrl": "https://www.miruro.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.miruro.png"
+      ]
     },
     {
       "name": "Aniyomi: MoviesMod",
@@ -2110,13 +1843,10 @@
         {
           "name": "Movies Mod",
           "lang": "en",
-          "id": 2828515480418041073,
+          "id": "2828515480418041073",
           "baseUrl": "https://moviesmod.red"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.moviesmod.png"
+      ]
     },
     {
       "name": "Aniyomi: Myanime",
@@ -2130,13 +1860,10 @@
         {
           "name": "Myanime",
           "lang": "en",
-          "id": 4364465995809265087,
+          "id": "4364465995809265087",
           "baseUrl": "https://myanime.live"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.myanime.png"
+      ]
     },
     {
       "name": "Aniyomi: My Running Man",
@@ -2150,13 +1877,10 @@
         {
           "name": "My Running Man",
           "lang": "en",
-          "id": 6399273548157311628,
+          "id": "6399273548157311628",
           "baseUrl": "https://www.myrunningman.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.myrunningman.png"
+      ]
     },
     {
       "name": "Aniyomi: NoobSubs",
@@ -2170,13 +1894,10 @@
         {
           "name": "NoobSubs",
           "lang": "en",
-          "id": 5343978110335507456,
+          "id": "5343978110335507456",
           "baseUrl": "https://noobftp1.noobsubs.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.noobsubs.png"
+      ]
     },
     {
       "name": "Aniyomi: 123Anime",
@@ -2190,13 +1911,10 @@
         {
           "name": "123Anime",
           "lang": "en",
-          "id": 9168084761765988435,
+          "id": "9168084761765988435",
           "baseUrl": "https://123anime.ru"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.onetwothreeanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Oppai Stream",
@@ -2210,13 +1928,10 @@
         {
           "name": "Oppai Stream",
           "lang": "en",
-          "id": 1938195875614354298,
+          "id": "1938195875614354298",
           "baseUrl": "https://oppai.stream"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.oppaistream.png"
+      ]
     },
     {
       "name": "Aniyomi: PinoyMoviePedia",
@@ -2230,13 +1945,10 @@
         {
           "name": "PinoyMoviePedia",
           "lang": "en",
-          "id": 8569022244537791293,
+          "id": "8569022244537791293",
           "baseUrl": "https://pinoymoviepedia.ru"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia.png"
+      ]
     },
     {
       "name": "Aniyomi: Rule34Video",
@@ -2250,13 +1962,10 @@
         {
           "name": "Rule34Video",
           "lang": "en",
-          "id": 9212790518101043860,
+          "id": "9212790518101043860",
           "baseUrl": "https://rule34video.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.rule34video.png"
+      ]
     },
     {
       "name": "Aniyomi: SuperStream",
@@ -2270,13 +1979,10 @@
         {
           "name": "SuperStream",
           "lang": "en",
-          "id": 4654371105831183338,
+          "id": "4654371105831183338",
           "baseUrl": "https://showbox.shegu.net/api/api_client/index/"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.superstream.png"
+      ]
     },
     {
       "name": "Aniyomi: Tokuzilla",
@@ -2290,13 +1996,10 @@
         {
           "name": "Tokuzilla",
           "lang": "en",
-          "id": 525433677388000141,
+          "id": "525433677388000141",
           "baseUrl": "https://tokuzilla.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.tokuzilla.png"
+      ]
     },
     {
       "name": "Aniyomi: UHD Movies",
@@ -2310,13 +2013,10 @@
         {
           "name": "UHD Movies",
           "lang": "en",
-          "id": 582068848290425167,
+          "id": "582068848290425167",
           "baseUrl": "https://uhdmovies.vip"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.uhdmovies.png"
+      ]
     },
     {
       "name": "Aniyomi: UniqueStream",
@@ -2330,13 +2030,10 @@
         {
           "name": "UniqueStream",
           "lang": "en",
-          "id": 1915898919039572670,
+          "id": "1915898919039572670",
           "baseUrl": "https://uniquestream.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.uniquestream.png"
+      ]
     },
     {
       "name": "Aniyomi: WcoAnimeDub",
@@ -2350,13 +2047,10 @@
         {
           "name": "WcoAnimeDub",
           "lang": "en",
-          "id": 8622868574170180857,
+          "id": "8622868574170180857",
           "baseUrl": "https://www.wcoanimedub.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoanimedub.png"
+      ]
     },
     {
       "name": "Aniyomi: WcoAnimeSub",
@@ -2370,13 +2064,10 @@
         {
           "name": "WcoAnimeSub",
           "lang": "en",
-          "id": 665629163594938512,
+          "id": "665629163594938512",
           "baseUrl": "https://www.wcoanimesub.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoanimesub.png"
+      ]
     },
     {
       "name": "Aniyomi: WcoForever",
@@ -2390,13 +2081,10 @@
         {
           "name": "WcoForever",
           "lang": "en",
-          "id": 5805164799487731673,
+          "id": "5805164799487731673",
           "baseUrl": "https://www.wcoforever.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoforever.png"
+      ]
     },
     {
       "name": "Aniyomi: Wcofun",
@@ -2410,13 +2098,10 @@
         {
           "name": "Wcofun",
           "lang": "en",
-          "id": 1677488626877212634,
+          "id": "1677488626877212634",
           "baseUrl": "https://www.wcoflix.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcofun.png"
+      ]
     },
     {
       "name": "Aniyomi: WCOStream",
@@ -2430,13 +2115,10 @@
         {
           "name": "WCOStream",
           "lang": "en",
-          "id": 4144024127778211557,
+          "id": "4144024127778211557",
           "baseUrl": "https://www.wcostream.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcostream.png"
+      ]
     },
     {
       "name": "Aniyomi: WcoTv",
@@ -2450,13 +2132,10 @@
         {
           "name": "WcoTv",
           "lang": "en",
-          "id": 648702763126013078,
+          "id": "648702763126013078",
           "baseUrl": "https://www.wco.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcotv.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeAv1",
@@ -2470,13 +2149,10 @@
         {
           "name": "AnimeAv1",
           "lang": "es",
-          "id": 1563723619853520901,
+          "id": "1563723619853520901",
           "baseUrl": "https://animeav1.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeav1.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeBum",
@@ -2490,13 +2166,10 @@
         {
           "name": "AnimeBum",
           "lang": "es",
-          "id": 8233706727551070437,
+          "id": "8233706727551070437",
           "baseUrl": "https://www.animebum.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animebum.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeFenix",
@@ -2510,13 +2183,10 @@
         {
           "name": "AnimeFenix",
           "lang": "es",
-          "id": 1901838936011764172,
+          "id": "1901838936011764172",
           "baseUrl": "https://animefenix2.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animefenix.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeFLV",
@@ -2530,13 +2200,10 @@
         {
           "name": "AnimeFLV",
           "lang": "es",
-          "id": 93702975723668971,
+          "id": "93702975723668971",
           "baseUrl": "https://www3.animeflv.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeflv.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeID",
@@ -2550,13 +2217,10 @@
         {
           "name": "AnimeID",
           "lang": "es",
-          "id": 3757015232925755985,
+          "id": "3757015232925755985",
           "baseUrl": "https://www.animeid.tv/"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeid.png"
+      ]
     },
     {
       "name": "Aniyomi: Animejl",
@@ -2570,13 +2234,10 @@
         {
           "name": "Animejl",
           "lang": "es",
-          "id": 2934893552535692335,
+          "id": "2934893552535692335",
           "baseUrl": "https://www.anime-jl.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animejl.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeLatinoHD",
@@ -2590,13 +2251,10 @@
         {
           "name": "AnimeLatinoHD",
           "lang": "es",
-          "id": 5412136569974245348,
+          "id": "5412136569974245348",
           "baseUrl": "https://www.animelatinohd.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animelatinohd.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeMovil",
@@ -2610,13 +2268,10 @@
         {
           "name": "AnimeMovil",
           "lang": "es",
-          "id": 3892773447316414021,
+          "id": "3892773447316414021",
           "baseUrl": "https://animemeow.xyz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animemovil.png"
+      ]
     },
     {
       "name": "Aniyomi: Animenix",
@@ -2630,13 +2285,10 @@
         {
           "name": "Animenix",
           "lang": "es",
-          "id": 1547119562002827048,
+          "id": "1547119562002827048",
           "baseUrl": "https://animenix.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animenix.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeOnline.Ninja",
@@ -2650,13 +2302,10 @@
         {
           "name": "AnimeOnline.Ninja",
           "lang": "es",
-          "id": 2765997893095141044,
+          "id": "2765997893095141044",
           "baseUrl": "https://ver.animeonline.ninja"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeonlineninja.png"
+      ]
     },
     {
       "name": "Aniyomi: Animeyt",
@@ -2670,13 +2319,10 @@
         {
           "name": "AnimeYT",
           "lang": "es",
-          "id": 3945696494710013768,
+          "id": "3945696494710013768",
           "baseUrl": "https://ytanime.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeyt.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeYT.es",
@@ -2690,13 +2336,10 @@
         {
           "name": "AnimeYT.es",
           "lang": "es",
-          "id": 4742118265598399159,
+          "id": "4742118265598399159",
           "baseUrl": "https://animeyt.es"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeytes.png"
+      ]
     },
     {
       "name": "Aniyomi: AsiaLiveAction",
@@ -2710,13 +2353,10 @@
         {
           "name": "AsiaLiveAction",
           "lang": "es",
-          "id": 5750872840863097496,
+          "id": "5750872840863097496",
           "baseUrl": "https://asialiveaction.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.asialiveaction.png"
+      ]
     },
     {
       "name": "Aniyomi: az-animex",
@@ -2730,13 +2370,10 @@
         {
           "name": "az-animex",
           "lang": "es",
-          "id": 7735188894368809510,
+          "id": "7735188894368809510",
           "baseUrl": "https://www.az-animex.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.azanimex.png"
+      ]
     },
     {
       "name": "Aniyomi: BeatZ Anime",
@@ -2750,13 +2387,10 @@
         {
           "name": "BeatZ Anime",
           "lang": "es",
-          "id": 27781270364033644,
+          "id": "27781270364033644",
           "baseUrl": "https://www.beatz-anime.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.beatzanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Cine24h",
@@ -2770,13 +2404,10 @@
         {
           "name": "Cine24h",
           "lang": "es",
-          "id": 431438597808105152,
+          "id": "431438597808105152",
           "baseUrl": "https://cine24h.online"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cine24h.png"
+      ]
     },
     {
       "name": "Aniyomi: CineCalidad",
@@ -2790,13 +2421,10 @@
         {
           "name": "CineCalidad",
           "lang": "es",
-          "id": 661928073480792687,
+          "id": "661928073480792687",
           "baseUrl": "https://www.cinecalidad.ec"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cinecalidad.png"
+      ]
     },
     {
       "name": "Aniyomi: Cineplus123",
@@ -2810,13 +2438,10 @@
         {
           "name": "Cineplus123",
           "lang": "es",
-          "id": 2117238897122405265,
+          "id": "2117238897122405265",
           "baseUrl": "https://cineplus123.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cineplus123.png"
+      ]
     },
     {
       "name": "Aniyomi: Cuevana",
@@ -2830,19 +2455,16 @@
         {
           "name": "Cuevana3Ch",
           "lang": "es",
-          "id": 8064568253800947423,
+          "id": "8064568253800947423",
           "baseUrl": "https://ww1.cuevana3.ch"
         },
         {
           "name": "Cuevana3Eu",
           "lang": "es",
-          "id": 1487248605713977697,
+          "id": "1487248605713977697",
           "baseUrl": "https://www.cuevana3.eu"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cuevana.png"
+      ]
     },
     {
       "name": "Aniyomi: DeTodoPeliculas",
@@ -2856,13 +2478,10 @@
         {
           "name": "DeTodo Peliculas",
           "lang": "es",
-          "id": 4976463260586484820,
+          "id": "4976463260586484820",
           "baseUrl": "https://detodopeliculas.nu"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.detodopeliculas.png"
+      ]
     },
     {
       "name": "Aniyomi: Doramasflix",
@@ -2876,13 +2495,10 @@
         {
           "name": "Doramasflix",
           "lang": "es",
-          "id": 1955566742338181506,
+          "id": "1955566742338181506",
           "baseUrl": "https://doramasflix.in"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasflix.png"
+      ]
     },
     {
       "name": "Aniyomi: Doramasyt",
@@ -2896,13 +2512,10 @@
         {
           "name": "Doramasyt",
           "lang": "es",
-          "id": 885919523581666049,
+          "id": "885919523581666049",
           "baseUrl": "https://www.doramasyt.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasyt.png"
+      ]
     },
     {
       "name": "Aniyomi: EnNovelas (Dead)",
@@ -2916,13 +2529,10 @@
         {
           "name": "EnNovelas",
           "lang": "es",
-          "id": 6683521813386506618,
+          "id": "6683521813386506618",
           "baseUrl": "https://l.ennovelas-tv.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.ennovelas.png"
+      ]
     },
     {
       "name": "Aniyomi: EstrenosDoramas",
@@ -2936,13 +2546,10 @@
         {
           "name": "EstrenosDoramas",
           "lang": "es",
-          "id": 9219401167730918156,
+          "id": "9219401167730918156",
           "baseUrl": "https://estrenosdoramas.es"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.estrenosdoramas.png"
+      ]
     },
     {
       "name": "Aniyomi: FanPelis",
@@ -2956,13 +2563,10 @@
         {
           "name": "FanPelis",
           "lang": "es",
-          "id": 1270541458457028378,
+          "id": "1270541458457028378",
           "baseUrl": "https://fanpelis.la"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.fanpelis.png"
+      ]
     },
     {
       "name": "Aniyomi: FlixLatam",
@@ -2976,13 +2580,10 @@
         {
           "name": "FlixLatam",
           "lang": "es",
-          "id": 2400169316701597839,
+          "id": "2400169316701597839",
           "baseUrl": "https://flixlatam.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.flixlatam.png"
+      ]
     },
     {
       "name": "Aniyomi: Gnula",
@@ -2996,13 +2597,10 @@
         {
           "name": "Gnula",
           "lang": "es",
-          "id": 6896649241746590059,
+          "id": "6896649241746590059",
           "baseUrl": "https://gnula.life"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.gnula.png"
+      ]
     },
     {
       "name": "Aniyomi: Hackstore",
@@ -3016,13 +2614,10 @@
         {
           "name": "Hackstore",
           "lang": "es",
-          "id": 1202443264869837465,
+          "id": "1202443264869837465",
           "baseUrl": "https://www.hackstore.fo"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hackstore.png"
+      ]
     },
     {
       "name": "Aniyomi: Hentaijk",
@@ -3036,13 +2631,10 @@
         {
           "name": "Hentaijk",
           "lang": "es",
-          "id": 4616479108300191837,
+          "id": "4616479108300191837",
           "baseUrl": "https://hentaijk.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaijk.png"
+      ]
     },
     {
       "name": "Aniyomi: Hentaila",
@@ -3056,13 +2648,10 @@
         {
           "name": "Hentaila",
           "lang": "es",
-          "id": 6447194598203666818,
+          "id": "6447194598203666818",
           "baseUrl": "https://hentaila.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaila.png"
+      ]
     },
     {
       "name": "Aniyomi: HentaiTk",
@@ -3076,13 +2665,10 @@
         {
           "name": "HentaiTk",
           "lang": "es",
-          "id": 7726637677864789742,
+          "id": "7726637677864789742",
           "baseUrl": "https://hentaitk.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaitk.png"
+      ]
     },
     {
       "name": "Aniyomi: HomeCine",
@@ -3096,13 +2682,10 @@
         {
           "name": "HomeCine",
           "lang": "es",
-          "id": 4683784015054845419,
+          "id": "4683784015054845419",
           "baseUrl": "https://homecine.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.homecine.png"
+      ]
     },
     {
       "name": "Aniyomi: Jkanime",
@@ -3116,13 +2699,10 @@
         {
           "name": "Jkanime",
           "lang": "es",
-          "id": 6007374093317538838,
+          "id": "6007374093317538838",
           "baseUrl": "https://jkanime.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.jkanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Jkhentai",
@@ -3136,13 +2716,10 @@
         {
           "name": "Jkhentai",
           "lang": "es",
-          "id": 5893372327521334179,
+          "id": "5893372327521334179",
           "baseUrl": "https://www.jkhentai.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.jkhentai.png"
+      ]
     },
     {
       "name": "Aniyomi: Katanime",
@@ -3156,13 +2733,10 @@
         {
           "name": "Katanime",
           "lang": "es",
-          "id": 2564532783405004779,
+          "id": "2564532783405004779",
           "baseUrl": "https://katanime.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.katanime.png"
+      ]
     },
     {
       "name": "Aniyomi: LACartoons",
@@ -3176,13 +2750,10 @@
         {
           "name": "LACartoons",
           "lang": "es",
-          "id": 4124511684994754369,
+          "id": "4124511684994754369",
           "baseUrl": "https://www.lacartoons.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.lacartoons.png"
+      ]
     },
     {
       "name": "Aniyomi: LaMovie",
@@ -3196,13 +2767,10 @@
         {
           "name": "LaMovie",
           "lang": "es",
-          "id": 5419283741928374105,
+          "id": "5419283741928374105",
           "baseUrl": "https://la.movie"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.lamovie.png"
+      ]
     },
     {
       "name": "Aniyomi: Latanime",
@@ -3216,13 +2784,10 @@
         {
           "name": "Latanime",
           "lang": "es",
-          "id": 7257892387451890645,
+          "id": "7257892387451890645",
           "baseUrl": "https://latanime.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.latanime.png"
+      ]
     },
     {
       "name": "Aniyomi: LegionAnime",
@@ -3236,13 +2801,10 @@
         {
           "name": "LegionAnime",
           "lang": "es",
-          "id": 508651506167756898,
+          "id": "508651506167756898",
           "baseUrl": "https://legionanime.club/api"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.legionanime.png"
+      ]
     },
     {
       "name": "Aniyomi: LocoPelis",
@@ -3256,13 +2818,10 @@
         {
           "name": "LocoPelis",
           "lang": "es",
-          "id": 7685749277599065785,
+          "id": "7685749277599065785",
           "baseUrl": "https://www.locopelis.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.locopelis.png"
+      ]
     },
     {
       "name": "Aniyomi: MetroSeries",
@@ -3276,13 +2835,10 @@
         {
           "name": "MetroSeries",
           "lang": "es",
-          "id": 302544302370133084,
+          "id": "302544302370133084",
           "baseUrl": "https://www3.seriesmetro.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.metroseries.png"
+      ]
     },
     {
       "name": "Aniyomi: MhdFlix",
@@ -3296,13 +2852,10 @@
         {
           "name": "MhdFlix",
           "lang": "es",
-          "id": 4812325950703384298,
+          "id": "4812325950703384298",
           "baseUrl": "https://ww1.mhdflix.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.mhdflix.png"
+      ]
     },
     {
       "name": "Aniyomi: MonosChinos",
@@ -3316,13 +2869,10 @@
         {
           "name": "MonosChinos",
           "lang": "es",
-          "id": 6957694006954649296,
+          "id": "6957694006954649296",
           "baseUrl": "https://monoschinos.st"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.monoschinos.png"
+      ]
     },
     {
       "name": "Aniyomi: MundoDonghua",
@@ -3336,13 +2886,10 @@
         {
           "name": "MundoDonghua",
           "lang": "es",
-          "id": 4356029013369426954,
+          "id": "4356029013369426954",
           "baseUrl": "https://www.mundodonghua.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.mundodonghua.png"
+      ]
     },
     {
       "name": "Aniyomi: Pandrama",
@@ -3356,13 +2903,10 @@
         {
           "name": "Pandrama",
           "lang": "es",
-          "id": 8290662435507939982,
+          "id": "8290662435507939982",
           "baseUrl": "https://pandrama.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pandrama.png"
+      ]
     },
     {
       "name": "Aniyomi: PelisForte",
@@ -3376,13 +2920,10 @@
         {
           "name": "PelisForte",
           "lang": "es",
-          "id": 4419048029031752703,
+          "id": "4419048029031752703",
           "baseUrl": "https://www2.pelisforte.se"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisforte.png"
+      ]
     },
     {
       "name": "Aniyomi: PelisPlusHD",
@@ -3396,13 +2937,10 @@
         {
           "name": "PelisPlusHD",
           "lang": "es",
-          "id": 1400819034564144238,
+          "id": "1400819034564144238",
           "baseUrl": "https://pelisplushd.bz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplushd.png"
+      ]
     },
     {
       "name": "Aniyomi: PelisPlusPh",
@@ -3416,13 +2954,10 @@
         {
           "name": "PelisPlusPh",
           "lang": "es",
-          "id": 4917265654298497443,
+          "id": "4917265654298497443",
           "baseUrl": "https://www.pelisplushd.la"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusph.png"
+      ]
     },
     {
       "name": "Aniyomi: PelisPlusTo",
@@ -3436,13 +2971,10 @@
         {
           "name": "PelisPlusTo",
           "lang": "es",
-          "id": 1705636111422561130,
+          "id": "1705636111422561130",
           "baseUrl": "https://tioplus.app"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusto.png"
+      ]
     },
     {
       "name": "Aniyomi: Samato",
@@ -3456,13 +2988,10 @@
         {
           "name": "Samato's Den: Videos",
           "lang": "es",
-          "id": 9061916959875958361,
+          "id": "9061916959875958361",
           "baseUrl": "https://samatoden.blogspot.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.samatodenvideos.png"
+      ]
     },
     {
       "name": "Aniyomi: SeriesKao",
@@ -3476,13 +3005,10 @@
         {
           "name": "SeriesKao",
           "lang": "es",
-          "id": 1179552672777572300,
+          "id": "1179552672777572300",
           "baseUrl": "https://serieskao.top"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.serieskao.png"
+      ]
     },
     {
       "name": "Aniyomi: SoloLatino",
@@ -3496,13 +3022,10 @@
         {
           "name": "SoloLatino",
           "lang": "es",
-          "id": 2714169179278506077,
+          "id": "2714169179278506077",
           "baseUrl": "https://sololatino.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.sololatino.png"
+      ]
     },
     {
       "name": "Aniyomi: TioanimeH",
@@ -3516,19 +3039,16 @@
         {
           "name": "TioAnime",
           "lang": "es",
-          "id": 3109175441268108091,
+          "id": "3109175441268108091",
           "baseUrl": "https://tioanime.com"
         },
         {
           "name": "TioHentai",
           "lang": "es",
-          "id": 754333127542778562,
+          "id": "754333127542778562",
           "baseUrl": "https://tiohentai.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.tioanimeh.png"
+      ]
     },
     {
       "name": "Aniyomi: Tiodonghua.com",
@@ -3542,13 +3062,10 @@
         {
           "name": "Tiodonghua.com",
           "lang": "es",
-          "id": 6830054141432094072,
+          "id": "6830054141432094072",
           "baseUrl": "https://anime.tiodonghua.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.tiodonghua.png"
+      ]
     },
     {
       "name": "Aniyomi: VeoHentai",
@@ -3562,13 +3079,10 @@
         {
           "name": "VeoHentai",
           "lang": "es",
-          "id": 1192827176989085393,
+          "id": "1192827176989085393",
           "baseUrl": "https://veohentai.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veohentai.png"
+      ]
     },
     {
       "name": "Aniyomi: VerAni.me",
@@ -3582,13 +3096,10 @@
         {
           "name": "VerAni.me",
           "lang": "es",
-          "id": 2476297921251317481,
+          "id": "2476297921251317481",
           "baseUrl": "https://verani.me"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veranime.png"
+      ]
     },
     {
       "name": "Aniyomi: VerAnimes",
@@ -3602,13 +3113,10 @@
         {
           "name": "VerAnimes",
           "lang": "es",
-          "id": 6262145028910416459,
+          "id": "6262145028910416459",
           "baseUrl": "https://wwv.veranimes.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veranimes.png"
+      ]
     },
     {
       "name": "Aniyomi: VerPelisTop",
@@ -3622,13 +3130,10 @@
         {
           "name": "VerPelisTop",
           "lang": "es",
-          "id": 8167780943978050375,
+          "id": "8167780943978050375",
           "baseUrl": "https://www1.verpelis.top"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.verpelistop.png"
+      ]
     },
     {
       "name": "Aniyomi: VerSeriesOnline",
@@ -3642,13 +3147,10 @@
         {
           "name": "VerSeriesOnline",
           "lang": "es",
-          "id": 8058040181507333420,
+          "id": "8058040181507333420",
           "baseUrl": "https://www.verseriesonline.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.verseriesonline.png"
+      ]
     },
     {
       "name": "Aniyomi: zeroanime",
@@ -3662,13 +3164,10 @@
         {
           "name": "zeroanime",
           "lang": "es",
-          "id": 2089287837152010776,
+          "id": "2089287837152010776",
           "baseUrl": "https://www4.zeroanime.xyz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.zeroanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Zonaleros",
@@ -3682,13 +3181,10 @@
         {
           "name": "Zonaleros",
           "lang": "es",
-          "id": 7487458127391606163,
+          "id": "7487458127391606163",
           "baseUrl": "https://www.zona-leros.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.zonaleros.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime-Sama",
@@ -3702,13 +3198,10 @@
         {
           "name": "Anime-Sama",
           "lang": "fr",
-          "id": 6170936930338275444,
+          "id": "6170936930338275444",
           "baseUrl": "https://anime-sama.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.animesama.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeVostFr",
@@ -3722,13 +3215,10 @@
         {
           "name": "AnimeVostFr",
           "lang": "fr",
-          "id": 5563793683192822639,
+          "id": "5563793683192822639",
           "baseUrl": "https://animevostfr.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.animevostfr.png"
+      ]
     },
     {
       "name": "Aniyomi: AniSama",
@@ -3742,13 +3232,10 @@
         {
           "name": "AniSama",
           "lang": "fr",
-          "id": 1898818943039425198,
+          "id": "1898818943039425198",
           "baseUrl": "https://v1.animesz.xyz"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.anisama.png"
+      ]
     },
     {
       "name": "Aniyomi: EmpireStreaming",
@@ -3762,13 +3249,10 @@
         {
           "name": "EmpireStreaming",
           "lang": "fr",
-          "id": 1449801594109278557,
+          "id": "1449801594109278557",
           "baseUrl": "https://empire-stream.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.empirestreaming.png"
+      ]
     },
     {
       "name": "Aniyomi: FRAnime",
@@ -3782,13 +3266,10 @@
         {
           "name": "FRAnime",
           "lang": "fr",
-          "id": 3074980924810171824,
+          "id": "3074980924810171824",
           "baseUrl": "https://franime.fr"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.franime.png"
+      ]
     },
     {
       "name": "Aniyomi: French Anime",
@@ -3802,13 +3283,10 @@
         {
           "name": "French Anime",
           "lang": "fr",
-          "id": 8142032927870763721,
+          "id": "8142032927870763721",
           "baseUrl": "https://french-anime.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchanime.png"
+      ]
     },
     {
       "name": "Aniyomi: HDS",
@@ -3822,13 +3300,10 @@
         {
           "name": "HDS",
           "lang": "fr",
-          "id": 3206613581297348563,
+          "id": "3206613581297348563",
           "baseUrl": "https://on1.hds.quest"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.hds.png"
+      ]
     },
     {
       "name": "Aniyomi: JetAnime",
@@ -3842,13 +3317,10 @@
         {
           "name": "JetAnime",
           "lang": "fr",
-          "id": 8914615515692839881,
+          "id": "8914615515692839881",
           "baseUrl": "https://ssl.jetanimes.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.jetanime.png"
+      ]
     },
     {
       "name": "Aniyomi: MyKdrama",
@@ -3862,13 +3334,10 @@
         {
           "name": "MyKdrama",
           "lang": "fr",
-          "id": 7657190496536415953,
+          "id": "7657190496536415953",
           "baseUrl": "https://mykdrama.co"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.mykdrama.png"
+      ]
     },
     {
       "name": "Aniyomi: OtakuFR",
@@ -3882,13 +3351,10 @@
         {
           "name": "OtakuFR",
           "lang": "fr",
-          "id": 1844040902149745273,
+          "id": "1844040902149745273",
           "baseUrl": "https://otakufr.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.otakufr.png"
+      ]
     },
     {
       "name": "Aniyomi: VoirCartoon",
@@ -3902,13 +3368,10 @@
         {
           "name": "VoirCartoon",
           "lang": "fr",
-          "id": 6593176551595101740,
+          "id": "6593176551595101740",
           "baseUrl": "https://voircartoon.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.voircartoon.png"
+      ]
     },
     {
       "name": "Aniyomi: Vostfree",
@@ -3922,13 +3385,10 @@
         {
           "name": "Vostfree",
           "lang": "fr",
-          "id": 8596049504378147571,
+          "id": "8596049504378147571",
           "baseUrl": "https://vostfree.ws"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.vostfree.png"
+      ]
     },
     {
       "name": "Aniyomi: Wiflix",
@@ -3942,13 +3402,10 @@
         {
           "name": "Wiflix",
           "lang": "fr",
-          "id": 7149332646839704216,
+          "id": "7149332646839704216",
           "baseUrl": "https://flemmix.best"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.wiflix.png"
+      ]
     },
     {
       "name": "Aniyomi: YoMovies",
@@ -3962,13 +3419,10 @@
         {
           "name": "YoMovies",
           "lang": "hi",
-          "id": 2486904751081872151,
+          "id": "2486904751081872151",
           "baseUrl": "https://yomovies.town"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.hi.yomovies.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeIndo",
@@ -3982,13 +3436,10 @@
         {
           "name": "AnimeIndo",
           "lang": "id",
-          "id": 2019695674801188380,
+          "id": "2019695674801188380",
           "baseUrl": "https://animeindo.skin"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.animeindo.png"
+      ]
     },
     {
       "name": "Aniyomi: Kuramanime",
@@ -4002,13 +3453,10 @@
         {
           "name": "Kuramanime",
           "lang": "id",
-          "id": 4677878836897500878,
+          "id": "4677878836897500878",
           "baseUrl": "https://v8.kuramanime.tel"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.kuramanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Kuronime",
@@ -4022,13 +3470,10 @@
         {
           "name": "Kuronime",
           "lang": "id",
-          "id": 2083695115646974607,
+          "id": "2083695115646974607",
           "baseUrl": "https://tv1.kuronime.vip"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.kuronime.png"
+      ]
     },
     {
       "name": "Aniyomi: MiniOppai",
@@ -4042,13 +3487,10 @@
         {
           "name": "MiniOppai",
           "lang": "id",
-          "id": 3422641844834047610,
+          "id": "3422641844834047610",
           "baseUrl": "https://minioppai.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.minioppai.png"
+      ]
     },
     {
       "name": "Aniyomi: NeoNime",
@@ -4062,13 +3504,10 @@
         {
           "name": "NeoNime",
           "lang": "id",
-          "id": 6698339357657312694,
+          "id": "6698339357657312694",
           "baseUrl": "https://neonime.ink"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.neonime.png"
+      ]
     },
     {
       "name": "Aniyomi: NimeGami",
@@ -4082,13 +3521,10 @@
         {
           "name": "NimeGami",
           "lang": "id",
-          "id": 3947801646056600641,
+          "id": "3947801646056600641",
           "baseUrl": "https://nimegami.id"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.nimegami.png"
+      ]
     },
     {
       "name": "Aniyomi: Oploverz",
@@ -4102,13 +3538,10 @@
         {
           "name": "Oploverz",
           "lang": "id",
-          "id": 2573103800968432770,
+          "id": "2573103800968432770",
           "baseUrl": "https://oploverz.media"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.oploverz.png"
+      ]
     },
     {
       "name": "Aniyomi: OtakuDesu",
@@ -4122,13 +3555,10 @@
         {
           "name": "OtakuDesu",
           "lang": "id",
-          "id": 3428487071093013526,
+          "id": "3428487071093013526",
           "baseUrl": "https://otakudesu.blog"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.otakudesu.png"
+      ]
     },
     {
       "name": "Aniyomi: Samehadaku",
@@ -4142,13 +3572,10 @@
         {
           "name": "Samehadaku",
           "lang": "id",
-          "id": 7446063017613536202,
+          "id": "7446063017613536202",
           "baseUrl": "https://v2.samehadaku.how"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.samehadaku.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime Saturn",
@@ -4162,13 +3589,10 @@
         {
           "name": "AnimeSaturn",
           "lang": "it",
-          "id": 1863212142777957799,
+          "id": "1863212142777957799",
           "baseUrl": "https://www.anisaturn.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animesaturn.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeUnity",
@@ -4182,13 +3606,10 @@
         {
           "name": "AnimeUnity",
           "lang": "it",
-          "id": 7762808921754601430,
+          "id": "7762808921754601430",
           "baseUrl": "https://www.animeunity.so"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animeunity.png"
+      ]
     },
     {
       "name": "Aniyomi: ANIMEWORLD.tv",
@@ -4202,13 +3623,10 @@
         {
           "name": "ANIMEWORLD.tv",
           "lang": "it",
-          "id": 6601315231151625432,
+          "id": "6601315231151625432",
           "baseUrl": "https://www.animeworld.ac"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animeworld.png"
+      ]
     },
     {
       "name": "Aniyomi: AniPlay",
@@ -4222,13 +3640,10 @@
         {
           "name": "AniPlay",
           "lang": "it",
-          "id": 9100732207446736332,
+          "id": "9100732207446736332",
           "baseUrl": "https://aniplay.co"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.aniplay.png"
+      ]
     },
     {
       "name": "Aniyomi: Hentai Saturn",
@@ -4242,13 +3657,10 @@
         {
           "name": "HentaiSaturn",
           "lang": "it",
-          "id": 5832452298268268088,
+          "id": "5832452298268268088",
           "baseUrl": "https://www.hentaisaturn.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.hentaisaturn.png"
+      ]
     },
     {
       "name": "Aniyomi: Toonitalia",
@@ -4262,13 +3674,10 @@
         {
           "name": "Toonitalia",
           "lang": "it",
-          "id": 8903679906651673401,
+          "id": "8903679906651673401",
           "baseUrl": "https://toonitalia.green"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.toonitalia.png"
+      ]
     },
     {
       "name": "Aniyomi: VVVVID",
@@ -4282,13 +3691,10 @@
         {
           "name": "VVVVID",
           "lang": "it",
-          "id": 8309061778249307518,
+          "id": "8309061778249307518",
           "baseUrl": "https://www.vvvvid.it"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.vvvvid.png"
+      ]
     },
     {
       "name": "Aniyomi: Aniweek",
@@ -4302,13 +3708,10 @@
         {
           "name": "Aniweek",
           "lang": "ko",
-          "id": 4565983297271071094,
+          "id": "4565983297271071094",
           "baseUrl": "https://aniweek.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ko.aniweek.png"
+      ]
     },
     {
       "name": "Aniyomi: desu-online",
@@ -4322,13 +3725,10 @@
         {
           "name": "desu-online",
           "lang": "pl",
-          "id": 5996410160070658951,
+          "id": "5996410160070658951",
           "baseUrl": "https://desu-online.pl"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.desuonline.png"
+      ]
     },
     {
       "name": "Aniyomi: Docchi",
@@ -4342,13 +3742,10 @@
         {
           "name": "Docchi",
           "lang": "pl",
-          "id": 594564153449456404,
+          "id": "594564153449456404",
           "baseUrl": "https://docchi.pl"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.docchi.png"
+      ]
     },
     {
       "name": "Aniyomi: OgladajAnime",
@@ -4362,13 +3759,10 @@
         {
           "name": "OgladajAnime",
           "lang": "pl",
-          "id": 1174869729090616971,
+          "id": "1174869729090616971",
           "baseUrl": "https://ogladajanime.pl"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.ogladajanime.png"
+      ]
     },
     {
       "name": "Aniyomi: Wbijam",
@@ -4382,13 +3776,10 @@
         {
           "name": "Wbijam",
           "lang": "pl",
-          "id": 3333993424729096948,
+          "id": "3333993424729096948",
           "baseUrl": "https://wbijam.pl"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.wbijam.png"
+      ]
     },
     {
       "name": "Aniyomi: Anikyuu",
@@ -4402,13 +3793,10 @@
         {
           "name": "Anikyuu",
           "lang": "pt-BR",
-          "id": 4361637123039891722,
+          "id": "4361637123039891722",
           "baseUrl": "https://anikyuu.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.anikyuu.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime Fire",
@@ -4422,13 +3810,10 @@
         {
           "name": "Anime Fire",
           "lang": "pt-BR",
-          "id": 2914332399101546717,
+          "id": "2914332399101546717",
           "baseUrl": "https://animefire.io"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animefire.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeIto",
@@ -4442,13 +3827,10 @@
         {
           "name": "Animeito",
           "lang": "pt-BR",
-          "id": 5503541725559168140,
+          "id": "5503541725559168140",
           "baseUrl": "https://animesonline.io"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeito.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimePlay",
@@ -4462,13 +3844,10 @@
         {
           "name": "Anime Play",
           "lang": "pt-BR",
-          "id": 3974766726104260721,
+          "id": "3974766726104260721",
           "baseUrl": "https://animeplay.cloud"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeplay.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimePlayer",
@@ -4482,13 +3861,10 @@
         {
           "name": "AnimePlayer",
           "lang": "pt-BR",
-          "id": 6456382572881676651,
+          "id": "6456382572881676651",
           "baseUrl": "https://animeplayer.com.br"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeplayer.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeQ",
@@ -4502,13 +3878,10 @@
         {
           "name": "AnimeQ",
           "lang": "pt-BR",
-          "id": 3666901064696818585,
+          "id": "3666901064696818585",
           "baseUrl": "https://animeq.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeq.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimesBr (Dead)",
@@ -4522,13 +3895,10 @@
         {
           "name": "Animes BR",
           "lang": "pt-BR",
-          "id": 3000709501394043899,
+          "id": "3000709501394043899",
           "baseUrl": "https://animesbr.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesbr.png"
+      ]
     },
     {
       "name": "Aniyomi: Animes CX",
@@ -4542,13 +3912,10 @@
         {
           "name": "Animes CX",
           "lang": "pt-BR",
-          "id": 3718439836617642466,
+          "id": "3718439836617642466",
           "baseUrl": "https://animescx.com.br"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animescx.png"
+      ]
     },
     {
       "name": "Aniyomi: Animes Digital",
@@ -4562,13 +3929,10 @@
         {
           "name": "Animes Digital",
           "lang": "pt-BR",
-          "id": 4877286181768246205,
+          "id": "4877286181768246205",
           "baseUrl": "https://animesdigital.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesdigital.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimesDrive",
@@ -4582,13 +3946,10 @@
         {
           "name": "Animes Drive",
           "lang": "pt-BR",
-          "id": 6170414613821552199,
+          "id": "6170414613821552199",
           "baseUrl": "https://animesdrive.online"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesdrive.png"
+      ]
     },
     {
       "name": "Aniyomi: Animes Games",
@@ -4602,13 +3963,10 @@
         {
           "name": "Animes Games",
           "lang": "pt-BR",
-          "id": 6519826467833124450,
+          "id": "6519826467833124450",
           "baseUrl": "https://animesgames.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgames.png"
+      ]
     },
     {
       "name": "Aniyomi: Q1N",
@@ -4622,13 +3980,10 @@
         {
           "name": "Q1N",
           "lang": "pt-BR",
-          "id": 2969482460524685571,
+          "id": "2969482460524685571",
           "baseUrl": "https://q1n.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgratis.png"
+      ]
     },
     {
       "name": "Aniyomi: Animes Online CC",
@@ -4642,13 +3997,10 @@
         {
           "name": "Animes Online CC",
           "lang": "pt-BR",
-          "id": 7386550303236826765,
+          "id": "7386550303236826765",
           "baseUrl": "https://animesonlinecc.to"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinecc.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimesOnlineCloud",
@@ -4662,13 +4014,10 @@
         {
           "name": "Animes Online Cloud",
           "lang": "pt-BR",
-          "id": 6962698096138673113,
+          "id": "6962698096138673113",
           "baseUrl": "https://animesonline.cloud"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinecloud.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimesOnlineVip",
@@ -4682,13 +4031,10 @@
         {
           "name": "Animes Online Vip",
           "lang": "pt-BR",
-          "id": 533096643049014020,
+          "id": "533096643049014020",
           "baseUrl": "https://animesonlinefhd.vip"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinevip.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeCore",
@@ -4702,13 +4048,10 @@
         {
           "name": "AnimeCore",
           "lang": "pt-BR",
-          "id": 9099608567050495800,
+          "id": "9099608567050495800",
           "baseUrl": "https://animecore.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesotaku.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimesROLL",
@@ -4722,13 +4065,10 @@
         {
           "name": "Animes ROLL",
           "lang": "pt-BR",
-          "id": 734961575978606843,
+          "id": "734961575978606843",
           "baseUrl": "https://anroll.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesroll.png"
+      ]
     },
     {
       "name": "Aniyomi: Anitube",
@@ -4742,13 +4082,10 @@
         {
           "name": "Anitube",
           "lang": "pt-BR",
-          "id": 9152952750171112510,
+          "id": "9152952750171112510",
           "baseUrl": "https://www.anitube.vip"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.anitube.png"
+      ]
     },
     {
       "name": "Aniyomi: BetterAnimeIo",
@@ -4762,13 +4099,10 @@
         {
           "name": "BetterAnimeIo",
           "lang": "pt-BR",
-          "id": 2407610655424858426,
+          "id": "2407610655424858426",
           "baseUrl": "https://betteranime.io"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.betteranimeio.png"
+      ]
     },
     {
       "name": "Aniyomi: DarkMahou",
@@ -4782,13 +4116,10 @@
         {
           "name": "DarkMahou (Torrent)",
           "lang": "pt-BR",
-          "id": 59748104323952005,
+          "id": "59748104323952005",
           "baseUrl": "https://darkmahou.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.darkmahou.png"
+      ]
     },
     {
       "name": "Aniyomi: DattebayoBR",
@@ -4802,13 +4133,10 @@
         {
           "name": "Dattebayo BR",
           "lang": "pt-BR",
-          "id": 429519413057267556,
+          "id": "429519413057267556",
           "baseUrl": "https://www.dattebayo-br.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.dattebayobr.png"
+      ]
     },
     {
       "name": "Aniyomi: Donghua no Sekai",
@@ -4822,13 +4150,10 @@
         {
           "name": "Donghua no Sekai",
           "lang": "pt-BR",
-          "id": 1190488322033769414,
+          "id": "1190488322033769414",
           "baseUrl": "https://donghuanosekai.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.donghuanosekai.png"
+      ]
     },
     {
       "name": "Aniyomi: Doramogo",
@@ -4842,13 +4167,10 @@
         {
           "name": "Doramogo",
           "lang": "pt-BR",
-          "id": 913841527115486600,
+          "id": "913841527115486600",
           "baseUrl": "https://doramogo.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.doramogo.png"
+      ]
     },
     {
       "name": "Aniyomi: Fun Anime TV",
@@ -4862,13 +4184,10 @@
         {
           "name": "Fun Anime TV",
           "lang": "pt-BR",
-          "id": 7920607630206318931,
+          "id": "7920607630206318931",
           "baseUrl": "https://betterclass.click"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.funanimetv.png"
+      ]
     },
     {
       "name": "Aniyomi: Goyabu",
@@ -4882,13 +4201,10 @@
         {
           "name": "Goyabu",
           "lang": "pt-BR",
-          "id": 191823841242368911,
+          "id": "191823841242368911",
           "baseUrl": "https://goyabu.io"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.goyabu.png"
+      ]
     },
     {
       "name": "Aniyomi: Meus Animes",
@@ -4902,13 +4218,10 @@
         {
           "name": "Meus Animes",
           "lang": "pt-BR",
-          "id": 8394381853778573358,
+          "id": "8394381853778573358",
           "baseUrl": "https://meusanimes.vip"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.meusanimes.png"
+      ]
     },
     {
       "name": "Aniyomi: Muito Hentai",
@@ -4922,13 +4235,10 @@
         {
           "name": "Muito Hentai",
           "lang": "pt-BR",
-          "id": 1062606379654091909,
+          "id": "1062606379654091909",
           "baseUrl": "https://www.muitohentai.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.muitohentai.png"
+      ]
     },
     {
       "name": "Aniyomi: Pi Fansubs",
@@ -4942,13 +4252,10 @@
         {
           "name": "Pi Fansubs",
           "lang": "pt-BR",
-          "id": 2457282111412357647,
+          "id": "2457282111412357647",
           "baseUrl": "https://pifansubs.club"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.pifansubs.png"
+      ]
     },
     {
       "name": "Aniyomi: SmartAnimes",
@@ -4962,13 +4269,10 @@
         {
           "name": "SmartAnimes",
           "lang": "pt-BR",
-          "id": 7160915998368939090,
+          "id": "7160915998368939090",
           "baseUrl": "https://smartanimes.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.smartanimes.png"
+      ]
     },
     {
       "name": "Aniyomi: SushiAnimes",
@@ -4982,13 +4286,10 @@
         {
           "name": "Sushi Animes",
           "lang": "pt-BR",
-          "id": 3082275639294081311,
+          "id": "3082275639294081311",
           "baseUrl": "https://sushianimes.com.br"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.sushianimes.png"
+      ]
     },
     {
       "name": "Aniyomi: Animelib",
@@ -5002,13 +4303,10 @@
         {
           "name": "Animelib",
           "lang": "ru",
-          "id": 1484002441113474607,
+          "id": "1484002441113474607",
           "baseUrl": "https://animelib.org/ru"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.animelib.png"
+      ]
     },
     {
       "name": "Aniyomi: Animevost",
@@ -5022,19 +4320,16 @@
         {
           "name": "Animevost",
           "lang": "ru",
-          "id": 6632887527758140506,
+          "id": "6632887527758140506",
           "baseUrl": "https://animevost.org"
         },
         {
           "name": "Animevost Mirror",
           "lang": "ru",
-          "id": 6851436110983735038,
+          "id": "6851436110983735038",
           "baseUrl": "https://v13.vost.pw"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.animevost.png"
+      ]
     },
     {
       "name": "Aniyomi: YummyAnime",
@@ -5048,13 +4343,10 @@
         {
           "name": "YummyAnime",
           "lang": "ru",
-          "id": 6100431890263423378,
+          "id": "6100431890263423378",
           "baseUrl": "https://ru.yummyani.me"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.yummyanime.png"
+      ]
     },
     {
       "name": "Aniyomi: AnimeBalkan",
@@ -5068,13 +4360,10 @@
         {
           "name": "AnimeBalkan",
           "lang": "sr",
-          "id": 1322485891319274755,
+          "id": "1322485891319274755",
           "baseUrl": "https://animebalkan.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.sr.animebalkan.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime Srbija",
@@ -5088,13 +4377,10 @@
         {
           "name": "Anime Srbija",
           "lang": "sr",
-          "id": 789279548118486310,
+          "id": "789279548118486310",
           "baseUrl": "https://www.animesrbija.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.sr.animesrbija.png"
+      ]
     },
     {
       "name": "Aniyomi: Animeler",
@@ -5108,13 +4394,10 @@
         {
           "name": "Animeler",
           "lang": "tr",
-          "id": 6594370763071208431,
+          "id": "6594370763071208431",
           "baseUrl": "https://animeler.pw"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.animeler.png"
+      ]
     },
     {
       "name": "Aniyomi: Anizm",
@@ -5128,13 +4411,10 @@
         {
           "name": "Anizm",
           "lang": "tr",
-          "id": 3103642053214293691,
+          "id": "3103642053214293691",
           "baseUrl": "https://anizm.net"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.anizm.png"
+      ]
     },
     {
       "name": "Aniyomi: AsyaAnimeleri",
@@ -5148,13 +4428,10 @@
         {
           "name": "AsyaAnimeleri",
           "lang": "tr",
-          "id": 2012826325126448867,
+          "id": "2012826325126448867",
           "baseUrl": "https://asyaanimeleri.top"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri.png"
+      ]
     },
     {
       "name": "Aniyomi: HDFilmCehennemi",
@@ -5168,13 +4445,10 @@
         {
           "name": "HDFilmCehennemi",
           "lang": "tr",
-          "id": 7053678650145882822,
+          "id": "7053678650145882822",
           "baseUrl": "https://www.hdfilmcehennemi.nl"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi.png"
+      ]
     },
     {
       "name": "Aniyomi: HentaiZM",
@@ -5188,13 +4462,10 @@
         {
           "name": "HentaiZM",
           "lang": "tr",
-          "id": 9058842310298227429,
+          "id": "9058842310298227429",
           "baseUrl": "https://www.hentaizm6.online"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.hentaizm.png"
+      ]
     },
     {
       "name": "Aniyomi: TRAnimeCI",
@@ -5208,13 +4479,10 @@
         {
           "name": "TRAnimeCI",
           "lang": "tr",
-          "id": 5869353240534047560,
+          "id": "5869353240534047560",
           "baseUrl": "https://tranimaci.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeci.png"
+      ]
     },
     {
       "name": "Aniyomi: TR Anime Izle",
@@ -5228,13 +4496,10 @@
         {
           "name": "TR Anime Izle",
           "lang": "tr",
-          "id": 2607995207802293539,
+          "id": "2607995207802293539",
           "baseUrl": "https://www.tranimeizle.io"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeizle.png"
+      ]
     },
     {
       "name": "Aniyomi: Türk Anime TV",
@@ -5248,13 +4513,10 @@
         {
           "name": "Türk Anime TV",
           "lang": "tr",
-          "id": 1539162878022626585,
+          "id": "1539162878022626585",
           "baseUrl": "https://www.turkanime.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.turkanime.png"
+      ]
     },
     {
       "name": "Aniyomi: UAKino",
@@ -5268,13 +4530,10 @@
         {
           "name": "UAKino",
           "lang": "uk",
-          "id": 2256494309842770890,
+          "id": "2256494309842770890",
           "baseUrl": "https://uakino.best"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.uk.uakino.png"
+      ]
     },
     {
       "name": "Aniyomi: UFDub",
@@ -5288,13 +4547,10 @@
         {
           "name": "UFDub",
           "lang": "uk",
-          "id": 4077428168272340843,
+          "id": "4077428168272340843",
           "baseUrl": "https://ufdub.com/anime"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.uk.ufdub.png"
+      ]
     },
     {
       "name": "Aniyomi: Anime1.me",
@@ -5308,13 +4564,10 @@
         {
           "name": "Anime1.me",
           "lang": "zh-hant",
-          "id": 8121834351495460193,
+          "id": "8121834351495460193",
           "baseUrl": "https://anime1.me"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.anime1.png"
+      ]
     },
     {
       "name": "Aniyomi: Cycity",
@@ -5328,13 +4581,10 @@
         {
           "name": "次元城动漫",
           "lang": "zh",
-          "id": 4928029692398241219,
+          "id": "4928029692398241219",
           "baseUrl": "https://www.cycani.org"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.cycity.png"
+      ]
     },
     {
       "name": "Aniyomi: Hanime1.me",
@@ -5348,13 +4598,10 @@
         {
           "name": "Hanime1.me",
           "lang": "zh",
-          "id": 2853734405579058222,
+          "id": "2853734405579058222",
           "baseUrl": "https://hanime1.me"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.hanime1.png"
+      ]
     },
     {
       "name": "Aniyomi: iyf",
@@ -5368,13 +4615,10 @@
         {
           "name": "爱壹帆",
           "lang": "zh",
-          "id": 3164438094592800620,
+          "id": "3164438094592800620",
           "baseUrl": "https://www.iyf.tv"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.iyf.png"
+      ]
     },
     {
       "name": "Aniyomi: Nivod",
@@ -5388,13 +4632,10 @@
         {
           "name": "泥视频",
           "lang": "zh",
-          "id": 1182396933972053592,
+          "id": "1182396933972053592",
           "baseUrl": "https://www.nivod.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.nivod.png"
+      ]
     },
     {
       "name": "Aniyomi: Xfani",
@@ -5408,13 +4649,10 @@
         {
           "name": "稀饭动漫",
           "lang": "zh",
-          "id": 8868273686324481907,
+          "id": "8868273686324481907",
           "baseUrl": "https://anime.xifanacg.com"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.xfani.png"
+      ]
     },
     {
       "name": "Aniyomi: Xiaoxintv",
@@ -5428,13 +4666,10 @@
         {
           "name": "小宝影院",
           "lang": "zh",
-          "id": 7859804793032054884,
+          "id": "7859804793032054884",
           "baseUrl": "https://xiaoxintv.cc"
         }
-      ],
-      "hasReadme": 0,
-      "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.xiaoxintv.png"
+      ]
     }
   ]
 }

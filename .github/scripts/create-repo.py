@@ -87,3 +87,23 @@ for apk in REPO_APK_DIR.iterdir():
 
 with REPO_DIR.joinpath("index.min.json").open("w", encoding="utf-8") as index_file:
     json.dump(index_min_data, index_file, ensure_ascii=False, separators=(",", ":"))
+
+# --- V2 REPO.JSON GENERATOR ---
+v2_extensions = []
+for entry in index_min_data:
+    v2_entry = entry.copy()
+    if "apk" in v2_entry and not v2_entry["apk"].startswith("apk/"):
+        v2_entry["apk"] = "apk/" + v2_entry["apk"]
+    v2_extensions.append(v2_entry)
+
+repo_data = {
+    "name": "Biplab8 Anime Repo",
+    "badgeLabel": "Biplab8",
+    "contact": {
+        "website": "https://github.com/Biplab8/anime-extensions"
+    },
+    "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99",
+    "extensions": v2_extensions
+}
+with REPO_DIR.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
+    json.dump(repo_data, repo_file, ensure_ascii=False, indent=2)

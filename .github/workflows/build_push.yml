@@ -193,7 +193,6 @@ jobs:
           DELETE: ${{ needs.prepare.outputs.delete }}
         run: |
           cd anime-repo
-          rm -rf apk
           python ../${{ github.ref_name }}/.github/scripts/merge-repo.py "$DELETE" '${{ github.ref_name }}/repo'
 
       - name: Deploy repo

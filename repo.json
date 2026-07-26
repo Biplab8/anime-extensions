@@ -9,7 +9,7 @@
     {
       "name": "Aniyomi: AnimeOnsen",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
-      "apk": "aniyomi-all.animeonsen-v14.10.apk",
+      "apk": "apk/aniyomi-all.animeonsen-v14.10.apk",
       "lang": "all",
       "code": 10,
       "version": "14.10",
@@ -24,12 +24,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animeonsen.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animeonsen.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animetsu",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.animetsu",
-      "apk": "aniyomi-all.animetsu-v14.7.apk",
+      "apk": "apk/aniyomi-all.animetsu-v14.7.apk",
       "lang": "all",
       "code": 7,
       "version": "14.7",
@@ -44,12 +46,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animetsu.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animetsu.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimeWorld India",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.animeworldindia",
-      "apk": "aniyomi-all.animeworldindia-v14.22.apk",
+      "apk": "apk/aniyomi-all.animeworldindia-v14.22.apk",
       "lang": "all",
       "code": 22,
       "version": "14.22",
@@ -112,12 +116,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animeworldindia.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animeworldindia.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeXin",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.animexin",
-      "apk": "aniyomi-all.animexin-v14.27.apk",
+      "apk": "apk/aniyomi-all.animexin-v14.27.apk",
       "lang": "all",
       "code": 27,
       "version": "14.27",
@@ -132,12 +138,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animexin.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.animexin.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AniZone",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.anizone",
-      "apk": "aniyomi-all.anizone-v14.11.apk",
+      "apk": "apk/aniyomi-all.anizone-v14.11.apk",
       "lang": "all",
       "code": 11,
       "version": "14.11",
@@ -152,12 +160,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.anizone.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.anizone.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: ChineseAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.chineseanime",
-      "apk": "aniyomi-all.chineseanime-v14.32.apk",
+      "apk": "apk/aniyomi-all.chineseanime-v14.32.apk",
       "lang": "all",
       "code": 32,
       "version": "14.32",
@@ -172,12 +182,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.chineseanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.chineseanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Debrid Index",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.debridindex",
-      "apk": "aniyomi-all.debridindex-v14.2.apk",
+      "apk": "apk/aniyomi-all.debridindex-v14.2.apk",
       "lang": "all",
       "code": 2,
       "version": "14.2",
@@ -192,12 +204,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.debridindex.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.debridindex.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Google Drive",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
-      "apk": "aniyomi-all.googledrive-v14.18.apk",
+      "apk": "apk/aniyomi-all.googledrive-v14.18.apk",
       "lang": "all",
       "code": 18,
       "version": "14.18",
@@ -212,12 +226,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.googledrive.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.googledrive.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: GoogleDriveIndex",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.googledriveindex",
-      "apk": "aniyomi-all.googledriveindex-v14.7.apk",
+      "apk": "apk/aniyomi-all.googledriveindex-v14.7.apk",
       "lang": "all",
       "code": 7,
       "version": "14.7",
@@ -232,12 +248,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.googledriveindex.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.googledriveindex.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Hentai Torrent (Torrent)",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.hentaitorrent",
-      "apk": "aniyomi-all.hentaitorrent-v14.4.apk",
+      "apk": "apk/aniyomi-all.hentaitorrent-v14.4.apk",
       "lang": "all",
       "code": 4,
       "version": "14.4",
@@ -252,12 +270,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.hentaitorrent.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.hentaitorrent.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Jable",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.jable",
-      "apk": "aniyomi-all.jable-v14.2.apk",
+      "apk": "apk/aniyomi-all.jable-v14.2.apk",
       "lang": "all",
       "code": 2,
       "version": "14.2",
@@ -284,12 +304,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.jable.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.jable.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: JavGG",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.javgg",
-      "apk": "aniyomi-all.javgg-v14.19.apk",
+      "apk": "apk/aniyomi-all.javgg-v14.19.apk",
       "lang": "all",
       "code": 19,
       "version": "14.19",
@@ -304,12 +326,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.javgg.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.javgg.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Jav Guru",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.javguru",
-      "apk": "aniyomi-all.javguru-v14.43.apk",
+      "apk": "apk/aniyomi-all.javguru-v14.43.apk",
       "lang": "all",
       "code": 43,
       "version": "14.43",
@@ -324,12 +348,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.javguru.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.javguru.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Jellyfin",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.jellyfin",
-      "apk": "aniyomi-all.jellyfin-v14.30.apk",
+      "apk": "apk/aniyomi-all.jellyfin-v14.30.apk",
       "lang": "all",
       "code": 30,
       "version": "14.30",
@@ -356,12 +382,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.jellyfin.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.jellyfin.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: LMAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.lmanime",
-      "apk": "aniyomi-all.lmanime-v14.26.apk",
+      "apk": "apk/aniyomi-all.lmanime-v14.26.apk",
       "lang": "all",
       "code": 26,
       "version": "14.26",
@@ -376,12 +404,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.lmanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.lmanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: MissAV",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.missav",
-      "apk": "aniyomi-all.missav-v14.26.apk",
+      "apk": "apk/aniyomi-all.missav-v14.26.apk",
       "lang": "all",
       "code": 26,
       "version": "14.26",
@@ -396,12 +426,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.missav.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.missav.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: MyReadingManga",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.myreadingmanga",
-      "apk": "aniyomi-all.myreadingmanga-v14.2.apk",
+      "apk": "apk/aniyomi-all.myreadingmanga-v14.2.apk",
       "lang": "all",
       "code": 2,
       "version": "14.2",
@@ -602,12 +634,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.myreadingmanga.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.myreadingmanga.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Newgrounds",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.newgrounds",
-      "apk": "aniyomi-all.newgrounds-v14.1.apk",
+      "apk": "apk/aniyomi-all.newgrounds-v14.1.apk",
       "lang": "all",
       "code": 1,
       "version": "14.1",
@@ -622,12 +656,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.newgrounds.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.newgrounds.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Nyaa (Torrent)",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.nyaatorrent",
-      "apk": "aniyomi-all.nyaatorrent-v14.4.apk",
+      "apk": "apk/aniyomi-all.nyaatorrent-v14.4.apk",
       "lang": "all",
       "code": 4,
       "version": "14.4",
@@ -648,12 +684,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.nyaatorrent.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.nyaatorrent.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: PTorrent (Torrent)",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.ptorrent",
-      "apk": "aniyomi-all.ptorrent-v14.4.apk",
+      "apk": "apk/aniyomi-all.ptorrent-v14.4.apk",
       "lang": "all",
       "code": 4,
       "version": "14.4",
@@ -668,12 +706,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.ptorrent.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.ptorrent.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: RouVideo",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.rouvideo",
-      "apk": "aniyomi-all.rouvideo-v14.13.apk",
+      "apk": "apk/aniyomi-all.rouvideo-v14.13.apk",
       "lang": "all",
       "code": 13,
       "version": "14.13",
@@ -706,12 +746,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.rouvideo.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.rouvideo.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: ShabakatyCinemana",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.shabakatycinemana",
-      "apk": "aniyomi-all.shabakatycinemana-v14.3.apk",
+      "apk": "apk/aniyomi-all.shabakatycinemana-v14.3.apk",
       "lang": "all",
       "code": 3,
       "version": "14.3",
@@ -726,12 +768,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.shabakatycinemana.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.shabakatycinemana.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: StreamingCommunity",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.streamingcommunity",
-      "apk": "aniyomi-all.streamingcommunity-v14.18.apk",
+      "apk": "apk/aniyomi-all.streamingcommunity-v14.18.apk",
       "lang": "all",
       "code": 18,
       "version": "14.18",
@@ -764,12 +808,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.streamingcommunity.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.streamingcommunity.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Stremio",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.stremio",
-      "apk": "aniyomi-all.stremio-v14.9.apk",
+      "apk": "apk/aniyomi-all.stremio-v14.9.apk",
       "lang": "all",
       "code": 9,
       "version": "14.9",
@@ -784,12 +830,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.stremio.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.stremio.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Subsplease",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.subsplease",
-      "apk": "aniyomi-all.subsplease-v14.5.apk",
+      "apk": "apk/aniyomi-all.subsplease-v14.5.apk",
       "lang": "all",
       "code": 5,
       "version": "14.5",
@@ -804,12 +852,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.subsplease.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.subsplease.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: SupJav",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.supjav",
-      "apk": "aniyomi-all.supjav-v14.29.apk",
+      "apk": "apk/aniyomi-all.supjav-v14.29.apk",
       "lang": "all",
       "code": 29,
       "version": "14.29",
@@ -836,12 +886,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.supjav.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.supjav.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Torrentio (Torrent / Debrid)",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentio",
-      "apk": "aniyomi-all.torrentio-v14.8.apk",
+      "apk": "apk/aniyomi-all.torrentio-v14.8.apk",
       "lang": "all",
       "code": 8,
       "version": "14.8",
@@ -856,12 +908,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.torrentio.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.torrentio.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Torrentio Anime (Torrent / Debrid)",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentioanime",
-      "apk": "aniyomi-all.torrentioanime-v14.19.apk",
+      "apk": "apk/aniyomi-all.torrentioanime-v14.19.apk",
       "lang": "all",
       "code": 19,
       "version": "14.19",
@@ -876,12 +930,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.torrentioanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.torrentioanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Xnxx",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.xnxx",
-      "apk": "aniyomi-all.xnxx-v14.3.apk",
+      "apk": "apk/aniyomi-all.xnxx-v14.3.apk",
       "lang": "all",
       "code": 3,
       "version": "14.3",
@@ -896,12 +952,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.xnxx.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.xnxx.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Xvideos",
       "pkg": "eu.kanade.tachiyomi.animeextension.all.xvideos",
-      "apk": "aniyomi-all.xvideos-v14.3.apk",
+      "apk": "apk/aniyomi-all.xvideos-v14.3.apk",
       "lang": "all",
       "code": 3,
       "version": "14.3",
@@ -916,12 +974,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.xvideos.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.all.xvideos.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Anime4up",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.anime4up",
-      "apk": "aniyomi-ar.anime4up-v14.77.apk",
+      "apk": "apk/aniyomi-ar.anime4up-v14.77.apk",
       "lang": "ar",
       "code": 77,
       "version": "14.77",
@@ -936,12 +996,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.anime4up.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.anime4up.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anime Blkom",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.animeblkom",
-      "apk": "aniyomi-ar.animeblkom-v14.26.apk",
+      "apk": "apk/aniyomi-ar.animeblkom-v14.26.apk",
       "lang": "ar",
       "code": 26,
       "version": "14.26",
@@ -956,12 +1018,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeblkom.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeblkom.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animeiat",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.animeiat",
-      "apk": "aniyomi-ar.animeiat-v14.1.apk",
+      "apk": "apk/aniyomi-ar.animeiat-v14.1.apk",
       "lang": "ar",
       "code": 1,
       "version": "14.1",
@@ -976,12 +1040,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeiat.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeiat.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeLek",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.animelek",
-      "apk": "aniyomi-ar.animelek-v14.38.apk",
+      "apk": "apk/aniyomi-ar.animelek-v14.38.apk",
       "lang": "ar",
       "code": 38,
       "version": "14.38",
@@ -996,12 +1062,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animelek.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animelek.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animerco",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.animerco",
-      "apk": "aniyomi-ar.animerco-v14.56.apk",
+      "apk": "apk/aniyomi-ar.animerco-v14.56.apk",
       "lang": "ar",
       "code": 56,
       "version": "14.56",
@@ -1016,12 +1084,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animerco.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.animerco.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: ArabAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.arabanime",
-      "apk": "aniyomi-ar.arabanime-v14.2.apk",
+      "apk": "apk/aniyomi-ar.arabanime-v14.2.apk",
       "lang": "ar",
       "code": 2,
       "version": "14.2",
@@ -1036,12 +1106,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Arab Seed",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.arabseed",
-      "apk": "aniyomi-ar.arabseed-v14.30.apk",
+      "apk": "apk/aniyomi-ar.arabseed-v14.30.apk",
       "lang": "ar",
       "code": 30,
       "version": "14.30",
@@ -1056,12 +1128,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabseed.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabseed.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: asia2tv",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.asia2tv",
-      "apk": "aniyomi-ar.asia2tv-v14.35.apk",
+      "apk": "apk/aniyomi-ar.asia2tv-v14.35.apk",
       "lang": "ar",
       "code": 35,
       "version": "14.35",
@@ -1076,12 +1150,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.asia2tv.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.asia2tv.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Cimaleek",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.cimaleek",
-      "apk": "aniyomi-ar.cimaleek-v14.10.apk",
+      "apk": "apk/aniyomi-ar.cimaleek-v14.10.apk",
       "lang": "ar",
       "code": 10,
       "version": "14.10",
@@ -1096,12 +1172,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.cimaleek.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.cimaleek.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Egy Dead",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.egydead",
-      "apk": "aniyomi-ar.egydead-v14.28.apk",
+      "apk": "apk/aniyomi-ar.egydead-v14.28.apk",
       "lang": "ar",
       "code": 28,
       "version": "14.28",
@@ -1116,12 +1194,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.egydead.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.egydead.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: FASELHD",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.faselhd",
-      "apk": "aniyomi-ar.faselhd-v14.27.apk",
+      "apk": "apk/aniyomi-ar.faselhd-v14.27.apk",
       "lang": "ar",
       "code": 27,
       "version": "14.27",
@@ -1136,12 +1216,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.faselhd.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.faselhd.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Okanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.okanime",
-      "apk": "aniyomi-ar.okanime-v14.25.apk",
+      "apk": "apk/aniyomi-ar.okanime-v14.25.apk",
       "lang": "ar",
       "code": 25,
       "version": "14.25",
@@ -1156,12 +1238,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.okanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.okanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Tuktuk Cinema",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.tuktukcinema",
-      "apk": "aniyomi-ar.tuktukcinema-v14.7.apk",
+      "apk": "apk/aniyomi-ar.tuktukcinema-v14.7.apk",
       "lang": "ar",
       "code": 7,
       "version": "14.7",
@@ -1176,12 +1260,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.tuktukcinema.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.tuktukcinema.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: WIT ANIME",
       "pkg": "eu.kanade.tachiyomi.animeextension.ar.witanime",
-      "apk": "aniyomi-ar.witanime-v14.61.apk",
+      "apk": "apk/aniyomi-ar.witanime-v14.61.apk",
       "lang": "ar",
       "code": 61,
       "version": "14.61",
@@ -1196,12 +1282,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.witanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ar.witanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anime-Base",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.animebase",
-      "apk": "aniyomi-de.animebase-v14.45.apk",
+      "apk": "apk/aniyomi-de.animebase-v14.45.apk",
       "lang": "de",
       "code": 45,
       "version": "14.45",
@@ -1216,12 +1304,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animebase.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animebase.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Anime-Loads",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.animeloads",
-      "apk": "aniyomi-de.animeloads-v14.25.apk",
+      "apk": "apk/aniyomi-de.animeloads-v14.25.apk",
       "lang": "de",
       "code": 25,
       "version": "14.25",
@@ -1236,12 +1326,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animeloads.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animeloads.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Anime-Stream",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.animestream",
-      "apk": "aniyomi-de.animestream-v14.2.apk",
+      "apk": "apk/aniyomi-de.animestream-v14.2.apk",
       "lang": "de",
       "code": 2,
       "version": "14.2",
@@ -1256,12 +1348,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animestream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animestream.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeToast",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.animetoast",
-      "apk": "aniyomi-de.animetoast-v14.34.apk",
+      "apk": "apk/aniyomi-de.animetoast-v14.34.apk",
       "lang": "de",
       "code": 34,
       "version": "14.34",
@@ -1276,12 +1370,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animetoast.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.animetoast.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AniWorld",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.aniworld",
-      "apk": "aniyomi-de.aniworld-v14.39.apk",
+      "apk": "apk/aniyomi-de.aniworld-v14.39.apk",
       "lang": "de",
       "code": 39,
       "version": "14.39",
@@ -1296,12 +1392,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.aniworld.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.aniworld.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: FilmPalast",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.filmpalast",
-      "apk": "aniyomi-de.filmpalast-v14.26.apk",
+      "apk": "apk/aniyomi-de.filmpalast-v14.26.apk",
       "lang": "de",
       "code": 26,
       "version": "14.26",
@@ -1316,12 +1414,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.filmpalast.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.filmpalast.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Kinoking",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.kinoking",
-      "apk": "aniyomi-de.kinoking-v14.35.apk",
+      "apk": "apk/aniyomi-de.kinoking-v14.35.apk",
       "lang": "de",
       "code": 35,
       "version": "14.35",
@@ -1336,12 +1436,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.kinoking.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.kinoking.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Kool",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.kool",
-      "apk": "aniyomi-de.kool-v14.25.apk",
+      "apk": "apk/aniyomi-de.kool-v14.25.apk",
       "lang": "de",
       "code": 25,
       "version": "14.25",
@@ -1356,12 +1458,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.kool.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.kool.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Moflix-Stream",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.moflixstream",
-      "apk": "aniyomi-de.moflixstream-v14.28.apk",
+      "apk": "apk/aniyomi-de.moflixstream-v14.28.apk",
       "lang": "de",
       "code": 28,
       "version": "14.28",
@@ -1376,12 +1480,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.moflixstream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.moflixstream.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Movie4k",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.movie4k",
-      "apk": "aniyomi-de.movie4k-v14.18.apk",
+      "apk": "apk/aniyomi-de.movie4k-v14.18.apk",
       "lang": "de",
       "code": 18,
       "version": "14.18",
@@ -1396,12 +1502,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.movie4k.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.movie4k.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Serienstream",
       "pkg": "eu.kanade.tachiyomi.animeextension.de.serienstream",
-      "apk": "aniyomi-de.serienstream-v14.32.apk",
+      "apk": "apk/aniyomi-de.serienstream-v14.32.apk",
       "lang": "de",
       "code": 32,
       "version": "14.32",
@@ -1416,12 +1524,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.serienstream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.de.serienstream.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AllAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.allanime",
-      "apk": "aniyomi-en.allanime-v14.56.apk",
+      "apk": "apk/aniyomi-en.allanime-v14.56.apk",
       "lang": "en",
       "code": 56,
       "version": "14.56",
@@ -1436,12 +1546,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.allanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.allanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AniDB",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.anidb",
-      "apk": "aniyomi-en.anidb-v14.3.apk",
+      "apk": "apk/aniyomi-en.anidb-v14.3.apk",
       "lang": "en",
       "code": 3,
       "version": "14.3",
@@ -1456,12 +1568,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anidb.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anidb.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Anikage",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.anikage",
-      "apk": "aniyomi-en.anikage-v14.2.apk",
+      "apk": "apk/aniyomi-en.anikage-v14.2.apk",
       "lang": "en",
       "code": 2,
       "version": "14.2",
@@ -1476,12 +1590,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anikage.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anikage.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Anikoto",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.anikoto",
-      "apk": "aniyomi-en.anikoto-v14.1.apk",
+      "apk": "apk/aniyomi-en.anikoto-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -1496,12 +1612,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anikoto.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anikoto.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AniList",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.anilist",
-      "apk": "aniyomi-en.anilist-v14.12.apk",
+      "apk": "apk/aniyomi-en.anilist-v14.12.apk",
       "lang": "en",
       "code": 12,
       "version": "14.12",
@@ -1516,12 +1634,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anilist.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.anilist.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeGG",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animegg",
-      "apk": "aniyomi-en.animegg-v14.2.apk",
+      "apk": "apk/aniyomi-en.animegg-v14.2.apk",
       "lang": "en",
       "code": 2,
       "version": "14.2",
@@ -1536,12 +1656,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animegg.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animegg.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeKhor",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animekhor",
-      "apk": "aniyomi-en.animekhor-v14.25.apk",
+      "apk": "apk/aniyomi-en.animekhor-v14.25.apk",
       "lang": "en",
       "code": 25,
       "version": "14.25",
@@ -1556,12 +1678,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animekhor.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animekhor.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animenosub",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animenosub",
-      "apk": "aniyomi-en.animenosub-v14.28.apk",
+      "apk": "apk/aniyomi-en.animenosub-v14.28.apk",
       "lang": "en",
       "code": 28,
       "version": "14.28",
@@ -1576,12 +1700,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animenosub.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animenosub.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimePahe",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
-      "apk": "aniyomi-en.animepahe-v14.45.apk",
+      "apk": "apk/aniyomi-en.animepahe-v14.45.apk",
       "lang": "en",
       "code": 45,
       "version": "14.45",
@@ -1596,12 +1722,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animepahe.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animepahe.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeParadise",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animeparadise",
-      "apk": "aniyomi-en.animeparadise-v14.1.apk",
+      "apk": "apk/aniyomi-en.animeparadise-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -1616,12 +1744,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animeparadise.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animeparadise.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeSogo",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animesogo",
-      "apk": "aniyomi-en.animesogo-v14.1.apk",
+      "apk": "apk/aniyomi-en.animesogo-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -1636,12 +1766,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animesogo.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animesogo.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeTake",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animetake",
-      "apk": "aniyomi-en.animetake-v14.18.apk",
+      "apk": "apk/aniyomi-en.animetake-v14.18.apk",
       "lang": "en",
       "code": 18,
       "version": "14.18",
@@ -1656,12 +1788,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animetake.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animetake.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeVerse",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.animeverse",
-      "apk": "aniyomi-en.animeverse-v14.3.apk",
+      "apk": "apk/aniyomi-en.animeverse-v14.3.apk",
       "lang": "en",
       "code": 3,
       "version": "14.3",
@@ -1676,12 +1810,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animeverse.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.animeverse.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AniWave (Unoriginal)",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwave",
-      "apk": "aniyomi-en.aniwave-v14.3.apk",
+      "apk": "apk/aniyomi-en.aniwave-v14.3.apk",
       "lang": "en",
       "code": 3,
       "version": "14.3",
@@ -1696,12 +1832,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.aniwave.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.aniwave.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AsiaFlix",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.asiaflix",
-      "apk": "aniyomi-en.asiaflix-v14.30.apk",
+      "apk": "apk/aniyomi-en.asiaflix-v14.30.apk",
       "lang": "en",
       "code": 30,
       "version": "14.30",
@@ -1716,12 +1854,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.asiaflix.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.asiaflix.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AV1Encodes",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.av1encodes",
-      "apk": "aniyomi-en.av1encodes-v14.1.apk",
+      "apk": "apk/aniyomi-en.av1encodes-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -1736,12 +1876,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.av1encodes.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.av1encodes.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: BLZone",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.blzone",
-      "apk": "aniyomi-en.blzone-v14.7.apk",
+      "apk": "apk/aniyomi-en.blzone-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -1756,12 +1898,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.blzone.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.blzone.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Cineby",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.cineby",
-      "apk": "aniyomi-en.cineby-v14.7.apk",
+      "apk": "apk/aniyomi-en.cineby-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -1776,12 +1920,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.cineby.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.cineby.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: DonghuaStream",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
-      "apk": "aniyomi-en.donghuastream-v14.27.apk",
+      "apk": "apk/aniyomi-en.donghuastream-v14.27.apk",
       "lang": "en",
       "code": 27,
       "version": "14.27",
@@ -1796,12 +1942,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.donghuastream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.donghuastream.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: haho.moe",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.hahomoe",
-      "apk": "aniyomi-en.hahomoe-v14.10.apk",
+      "apk": "apk/aniyomi-en.hahomoe-v14.10.apk",
       "lang": "en",
       "code": 10,
       "version": "14.10",
@@ -1816,12 +1964,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hahomoe.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hahomoe.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: hanime.tv",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.hanime",
-      "apk": "aniyomi-en.hanime-v14.21.apk",
+      "apk": "apk/aniyomi-en.hanime-v14.21.apk",
       "lang": "en",
       "code": 21,
       "version": "14.21",
@@ -1836,12 +1986,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hanime.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: HentaiMama",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.hentaimama",
-      "apk": "aniyomi-en.hentaimama-v14.7.apk",
+      "apk": "apk/aniyomi-en.hentaimama-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -1856,12 +2008,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hentaimama.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hentaimama.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: HexaWatch",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.hexawatch",
-      "apk": "aniyomi-en.hexawatch-v14.5.apk",
+      "apk": "apk/aniyomi-en.hexawatch-v14.5.apk",
       "lang": "en",
       "code": 5,
       "version": "14.5",
@@ -1876,12 +2030,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hexawatch.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hexawatch.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Hstream",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.hstream",
-      "apk": "aniyomi-en.hstream-v14.11.apk",
+      "apk": "apk/aniyomi-en.hstream-v14.11.apk",
       "lang": "en",
       "code": 11,
       "version": "14.11",
@@ -1896,12 +2052,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hstream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.hstream.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: JPFilms",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.jpfilms",
-      "apk": "aniyomi-en.jpfilms-v14.5.apk",
+      "apk": "apk/aniyomi-en.jpfilms-v14.5.apk",
       "lang": "en",
       "code": 5,
       "version": "14.5",
@@ -1916,12 +2074,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.jpfilms.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.jpfilms.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Kayoanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.kayoanime",
-      "apk": "aniyomi-en.kayoanime-v14.13.apk",
+      "apk": "apk/aniyomi-en.kayoanime-v14.13.apk",
       "lang": "en",
       "code": 13,
       "version": "14.13",
@@ -1936,12 +2096,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kayoanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kayoanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: KickAssAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.kickassanime",
-      "apk": "aniyomi-en.kickassanime-v14.60.apk",
+      "apk": "apk/aniyomi-en.kickassanime-v14.60.apk",
       "lang": "en",
       "code": 60,
       "version": "14.60",
@@ -1956,12 +2118,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kickassanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kickassanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: KimoiTV",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.kimoitv",
-      "apk": "aniyomi-en.kimoitv-v14.1.apk",
+      "apk": "apk/aniyomi-en.kimoitv-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -1976,12 +2140,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kimoitv.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kimoitv.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: KissAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.kissanime",
-      "apk": "aniyomi-en.kissanime-v14.14.apk",
+      "apk": "apk/aniyomi-en.kissanime-v14.14.apk",
       "lang": "en",
       "code": 14,
       "version": "14.14",
@@ -1996,12 +2162,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kissanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kissanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: KissKH",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.kisskh",
-      "apk": "aniyomi-en.kisskh-v14.5.apk",
+      "apk": "apk/aniyomi-en.kisskh-v14.5.apk",
       "lang": "en",
       "code": 5,
       "version": "14.5",
@@ -2016,12 +2184,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kisskh.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kisskh.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimeKai (Unoriginal)",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.kotokai",
-      "apk": "aniyomi-en.kotokai-v14.1.apk",
+      "apk": "apk/aniyomi-en.kotokai-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -2036,12 +2206,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kotokai.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.kotokai.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: LuciferDonghua",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.luciferdonghua",
-      "apk": "aniyomi-en.luciferdonghua-v14.23.apk",
+      "apk": "apk/aniyomi-en.luciferdonghua-v14.23.apk",
       "lang": "en",
       "code": 23,
       "version": "14.23",
@@ -2056,12 +2228,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.luciferdonghua.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.luciferdonghua.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Mapple",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.mapple",
-      "apk": "aniyomi-en.mapple-v14.3.apk",
+      "apk": "apk/aniyomi-en.mapple-v14.3.apk",
       "lang": "en",
       "code": 3,
       "version": "14.3",
@@ -2076,12 +2250,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.mapple.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.mapple.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Miruro.tv",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.miruro",
-      "apk": "aniyomi-en.miruro-v14.5.apk",
+      "apk": "apk/aniyomi-en.miruro-v14.5.apk",
       "lang": "en",
       "code": 5,
       "version": "14.5",
@@ -2096,12 +2272,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.miruro.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.miruro.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: MoviesMod",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.moviesmod",
-      "apk": "aniyomi-en.moviesmod-v14.1.apk",
+      "apk": "apk/aniyomi-en.moviesmod-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -2116,12 +2294,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.moviesmod.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.moviesmod.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Myanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.myanime",
-      "apk": "aniyomi-en.myanime-v14.15.apk",
+      "apk": "apk/aniyomi-en.myanime-v14.15.apk",
       "lang": "en",
       "code": 15,
       "version": "14.15",
@@ -2136,12 +2316,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.myanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.myanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: My Running Man",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.myrunningman",
-      "apk": "aniyomi-en.myrunningman-v14.12.apk",
+      "apk": "apk/aniyomi-en.myrunningman-v14.12.apk",
       "lang": "en",
       "code": 12,
       "version": "14.12",
@@ -2156,12 +2338,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.myrunningman.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.myrunningman.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: NoobSubs",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.noobsubs",
-      "apk": "aniyomi-en.noobsubs-v14.1.apk",
+      "apk": "apk/aniyomi-en.noobsubs-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -2176,12 +2360,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.noobsubs.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.noobsubs.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: 123Anime",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.onetwothreeanime",
-      "apk": "aniyomi-en.onetwothreeanime-v14.1.apk",
+      "apk": "apk/aniyomi-en.onetwothreeanime-v14.1.apk",
       "lang": "en",
       "code": 1,
       "version": "14.1",
@@ -2196,12 +2382,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.onetwothreeanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.onetwothreeanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Oppai Stream",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.oppaistream",
-      "apk": "aniyomi-en.oppaistream-v14.6.apk",
+      "apk": "apk/aniyomi-en.oppaistream-v14.6.apk",
       "lang": "en",
       "code": 6,
       "version": "14.6",
@@ -2216,12 +2404,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.oppaistream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.oppaistream.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: PinoyMoviePedia",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia",
-      "apk": "aniyomi-en.pinoymoviepedia-v14.10.apk",
+      "apk": "apk/aniyomi-en.pinoymoviepedia-v14.10.apk",
       "lang": "en",
       "code": 10,
       "version": "14.10",
@@ -2236,12 +2426,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Rule34Video",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.rule34video",
-      "apk": "aniyomi-en.rule34video-v14.10.apk",
+      "apk": "apk/aniyomi-en.rule34video-v14.10.apk",
       "lang": "en",
       "code": 10,
       "version": "14.10",
@@ -2256,12 +2448,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.rule34video.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.rule34video.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: SuperStream",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.superstream",
-      "apk": "aniyomi-en.superstream-v14.11.apk",
+      "apk": "apk/aniyomi-en.superstream-v14.11.apk",
       "lang": "en",
       "code": 11,
       "version": "14.11",
@@ -2276,12 +2470,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.superstream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.superstream.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Tokuzilla",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.tokuzilla",
-      "apk": "aniyomi-en.tokuzilla-v14.29.apk",
+      "apk": "apk/aniyomi-en.tokuzilla-v14.29.apk",
       "lang": "en",
       "code": 29,
       "version": "14.29",
@@ -2296,12 +2492,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.tokuzilla.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.tokuzilla.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: UHD Movies",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.uhdmovies",
-      "apk": "aniyomi-en.uhdmovies-v14.19.apk",
+      "apk": "apk/aniyomi-en.uhdmovies-v14.19.apk",
       "lang": "en",
       "code": 19,
       "version": "14.19",
@@ -2316,12 +2514,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.uhdmovies.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.uhdmovies.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: UniqueStream",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.uniquestream",
-      "apk": "aniyomi-en.uniquestream-v14.7.apk",
+      "apk": "apk/aniyomi-en.uniquestream-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -2336,12 +2536,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.uniquestream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.uniquestream.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: WcoAnimeDub",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.wcoanimedub",
-      "apk": "aniyomi-en.wcoanimedub-v14.7.apk",
+      "apk": "apk/aniyomi-en.wcoanimedub-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -2356,12 +2558,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoanimedub.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoanimedub.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: WcoAnimeSub",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.wcoanimesub",
-      "apk": "aniyomi-en.wcoanimesub-v14.7.apk",
+      "apk": "apk/aniyomi-en.wcoanimesub-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -2376,12 +2580,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoanimesub.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoanimesub.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: WcoForever",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.wcoforever",
-      "apk": "aniyomi-en.wcoforever-v14.7.apk",
+      "apk": "apk/aniyomi-en.wcoforever-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -2396,12 +2602,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoforever.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcoforever.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Wcofun",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.wcofun",
-      "apk": "aniyomi-en.wcofun-v14.21.apk",
+      "apk": "apk/aniyomi-en.wcofun-v14.21.apk",
       "lang": "en",
       "code": 21,
       "version": "14.21",
@@ -2416,12 +2624,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcofun.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcofun.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: WCOStream",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.wcostream",
-      "apk": "aniyomi-en.wcostream-v14.12.apk",
+      "apk": "apk/aniyomi-en.wcostream-v14.12.apk",
       "lang": "en",
       "code": 12,
       "version": "14.12",
@@ -2436,12 +2646,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcostream.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcostream.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: WcoTv",
       "pkg": "eu.kanade.tachiyomi.animeextension.en.wcotv",
-      "apk": "aniyomi-en.wcotv-v14.7.apk",
+      "apk": "apk/aniyomi-en.wcotv-v14.7.apk",
       "lang": "en",
       "code": 7,
       "version": "14.7",
@@ -2456,12 +2668,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcotv.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.en.wcotv.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeAv1",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animeav1",
-      "apk": "aniyomi-es.animeav1-v14.4.apk",
+      "apk": "apk/aniyomi-es.animeav1-v14.4.apk",
       "lang": "es",
       "code": 4,
       "version": "14.4",
@@ -2476,12 +2690,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeav1.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeav1.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeBum",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animebum",
-      "apk": "aniyomi-es.animebum-v14.19.apk",
+      "apk": "apk/aniyomi-es.animebum-v14.19.apk",
       "lang": "es",
       "code": 19,
       "version": "14.19",
@@ -2496,12 +2712,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animebum.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animebum.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeFenix",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animefenix",
-      "apk": "aniyomi-es.animefenix-v14.74.apk",
+      "apk": "apk/aniyomi-es.animefenix-v14.74.apk",
       "lang": "es",
       "code": 74,
       "version": "14.74",
@@ -2516,12 +2734,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animefenix.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animefenix.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeFLV",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animeflv",
-      "apk": "aniyomi-es.animeflv-v14.75.apk",
+      "apk": "apk/aniyomi-es.animeflv-v14.75.apk",
       "lang": "es",
       "code": 75,
       "version": "14.75",
@@ -2536,12 +2756,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeflv.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeflv.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeID",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animeid",
-      "apk": "aniyomi-es.animeid-v14.26.apk",
+      "apk": "apk/aniyomi-es.animeid-v14.26.apk",
       "lang": "es",
       "code": 26,
       "version": "14.26",
@@ -2556,12 +2778,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeid.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeid.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animejl",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animejl",
-      "apk": "aniyomi-es.animejl-v14.19.apk",
+      "apk": "apk/aniyomi-es.animejl-v14.19.apk",
       "lang": "es",
       "code": 19,
       "version": "14.19",
@@ -2576,12 +2800,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animejl.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animejl.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimeLatinoHD",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animelatinohd",
-      "apk": "aniyomi-es.animelatinohd-v14.53.apk",
+      "apk": "apk/aniyomi-es.animelatinohd-v14.53.apk",
       "lang": "es",
       "code": 53,
       "version": "14.53",
@@ -2596,12 +2822,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animelatinohd.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animelatinohd.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeMovil",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animemovil",
-      "apk": "aniyomi-es.animemovil-v14.47.apk",
+      "apk": "apk/aniyomi-es.animemovil-v14.47.apk",
       "lang": "es",
       "code": 47,
       "version": "14.47",
@@ -2616,12 +2844,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animemovil.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animemovil.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animenix",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animenix",
-      "apk": "aniyomi-es.animenix-v14.25.apk",
+      "apk": "apk/aniyomi-es.animenix-v14.25.apk",
       "lang": "es",
       "code": 25,
       "version": "14.25",
@@ -2636,12 +2866,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animenix.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animenix.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeOnline.Ninja",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animeonlineninja",
-      "apk": "aniyomi-es.animeonlineninja-v14.63.apk",
+      "apk": "apk/aniyomi-es.animeonlineninja-v14.63.apk",
       "lang": "es",
       "code": 63,
       "version": "14.63",
@@ -2656,12 +2888,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeonlineninja.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeonlineninja.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animeyt",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animeyt",
-      "apk": "aniyomi-es.animeyt-v14.18.apk",
+      "apk": "apk/aniyomi-es.animeyt-v14.18.apk",
       "lang": "es",
       "code": 18,
       "version": "14.18",
@@ -2676,12 +2910,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeyt.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeyt.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeYT.es",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.animeytes",
-      "apk": "aniyomi-es.animeytes-v14.27.apk",
+      "apk": "apk/aniyomi-es.animeytes-v14.27.apk",
       "lang": "es",
       "code": 27,
       "version": "14.27",
@@ -2696,12 +2932,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeytes.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.animeytes.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AsiaLiveAction",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.asialiveaction",
-      "apk": "aniyomi-es.asialiveaction-v14.50.apk",
+      "apk": "apk/aniyomi-es.asialiveaction-v14.50.apk",
       "lang": "es",
       "code": 50,
       "version": "14.50",
@@ -2716,12 +2954,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.asialiveaction.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.asialiveaction.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: az-animex",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.azanimex",
-      "apk": "aniyomi-es.azanimex-v14.3.apk",
+      "apk": "apk/aniyomi-es.azanimex-v14.3.apk",
       "lang": "es",
       "code": 3,
       "version": "14.3",
@@ -2736,12 +2976,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.azanimex.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.azanimex.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: BeatZ Anime",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.beatzanime",
-      "apk": "aniyomi-es.beatzanime-v14.2.apk",
+      "apk": "apk/aniyomi-es.beatzanime-v14.2.apk",
       "lang": "es",
       "code": 2,
       "version": "14.2",
@@ -2756,12 +2998,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.beatzanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.beatzanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Cine24h",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.cine24h",
-      "apk": "aniyomi-es.cine24h-v14.24.apk",
+      "apk": "apk/aniyomi-es.cine24h-v14.24.apk",
       "lang": "es",
       "code": 24,
       "version": "14.24",
@@ -2776,12 +3020,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cine24h.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cine24h.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: CineCalidad",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.cinecalidad",
-      "apk": "aniyomi-es.cinecalidad-v14.34.apk",
+      "apk": "apk/aniyomi-es.cinecalidad-v14.34.apk",
       "lang": "es",
       "code": 34,
       "version": "14.34",
@@ -2796,12 +3042,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cinecalidad.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cinecalidad.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Cineplus123",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.cineplus123",
-      "apk": "aniyomi-es.cineplus123-v14.21.apk",
+      "apk": "apk/aniyomi-es.cineplus123-v14.21.apk",
       "lang": "es",
       "code": 21,
       "version": "14.21",
@@ -2816,12 +3064,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cineplus123.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cineplus123.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Cuevana",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.cuevana",
-      "apk": "aniyomi-es.cuevana-v14.63.apk",
+      "apk": "apk/aniyomi-es.cuevana-v14.63.apk",
       "lang": "es",
       "code": 63,
       "version": "14.63",
@@ -2842,12 +3092,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cuevana.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.cuevana.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: DeTodoPeliculas",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.detodopeliculas",
-      "apk": "aniyomi-es.detodopeliculas-v14.21.apk",
+      "apk": "apk/aniyomi-es.detodopeliculas-v14.21.apk",
       "lang": "es",
       "code": 21,
       "version": "14.21",
@@ -2862,12 +3114,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.detodopeliculas.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.detodopeliculas.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Doramasflix",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.doramasflix",
-      "apk": "aniyomi-es.doramasflix-v14.50.apk",
+      "apk": "apk/aniyomi-es.doramasflix-v14.50.apk",
       "lang": "es",
       "code": 50,
       "version": "14.50",
@@ -2882,12 +3136,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasflix.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasflix.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Doramasyt",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.doramasyt",
-      "apk": "aniyomi-es.doramasyt-v14.37.apk",
+      "apk": "apk/aniyomi-es.doramasyt-v14.37.apk",
       "lang": "es",
       "code": 37,
       "version": "14.37",
@@ -2902,12 +3158,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasyt.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasyt.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: EnNovelas (Dead)",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.ennovelas",
-      "apk": "aniyomi-es.ennovelas-v14.28.apk",
+      "apk": "apk/aniyomi-es.ennovelas-v14.28.apk",
       "lang": "es",
       "code": 28,
       "version": "14.28",
@@ -2922,12 +3180,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.ennovelas.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.ennovelas.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: EstrenosDoramas",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.estrenosdoramas",
-      "apk": "aniyomi-es.estrenosdoramas-v14.18.apk",
+      "apk": "apk/aniyomi-es.estrenosdoramas-v14.18.apk",
       "lang": "es",
       "code": 18,
       "version": "14.18",
@@ -2942,12 +3202,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.estrenosdoramas.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.estrenosdoramas.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: FanPelis",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.fanpelis",
-      "apk": "aniyomi-es.fanpelis-v14.23.apk",
+      "apk": "apk/aniyomi-es.fanpelis-v14.23.apk",
       "lang": "es",
       "code": 23,
       "version": "14.23",
@@ -2962,12 +3224,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.fanpelis.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.fanpelis.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: FlixLatam",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.flixlatam",
-      "apk": "aniyomi-es.flixlatam-v14.25.apk",
+      "apk": "apk/aniyomi-es.flixlatam-v14.25.apk",
       "lang": "es",
       "code": 25,
       "version": "14.25",
@@ -2982,12 +3246,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.flixlatam.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.flixlatam.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Gnula",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.gnula",
-      "apk": "aniyomi-es.gnula-v14.48.apk",
+      "apk": "apk/aniyomi-es.gnula-v14.48.apk",
       "lang": "es",
       "code": 48,
       "version": "14.48",
@@ -3002,12 +3268,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.gnula.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.gnula.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Hackstore",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.hackstore",
-      "apk": "aniyomi-es.hackstore-v14.41.apk",
+      "apk": "apk/aniyomi-es.hackstore-v14.41.apk",
       "lang": "es",
       "code": 41,
       "version": "14.41",
@@ -3022,12 +3290,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hackstore.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hackstore.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Hentaijk",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.hentaijk",
-      "apk": "aniyomi-es.hentaijk-v14.18.apk",
+      "apk": "apk/aniyomi-es.hentaijk-v14.18.apk",
       "lang": "es",
       "code": 18,
       "version": "14.18",
@@ -3042,12 +3312,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaijk.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaijk.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Hentaila",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.hentaila",
-      "apk": "aniyomi-es.hentaila-v14.47.apk",
+      "apk": "apk/aniyomi-es.hentaila-v14.47.apk",
       "lang": "es",
       "code": 47,
       "version": "14.47",
@@ -3062,12 +3334,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaila.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaila.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: HentaiTk",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.hentaitk",
-      "apk": "aniyomi-es.hentaitk-v14.27.apk",
+      "apk": "apk/aniyomi-es.hentaitk-v14.27.apk",
       "lang": "es",
       "code": 27,
       "version": "14.27",
@@ -3082,12 +3356,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaitk.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaitk.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: HomeCine",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.homecine",
-      "apk": "aniyomi-es.homecine-v14.19.apk",
+      "apk": "apk/aniyomi-es.homecine-v14.19.apk",
       "lang": "es",
       "code": 19,
       "version": "14.19",
@@ -3102,12 +3378,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.homecine.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.homecine.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Jkanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.jkanime",
-      "apk": "aniyomi-es.jkanime-v14.50.apk",
+      "apk": "apk/aniyomi-es.jkanime-v14.50.apk",
       "lang": "es",
       "code": 50,
       "version": "14.50",
@@ -3122,12 +3400,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.jkanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.jkanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Jkhentai",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.jkhentai",
-      "apk": "aniyomi-es.jkhentai-v14.11.apk",
+      "apk": "apk/aniyomi-es.jkhentai-v14.11.apk",
       "lang": "es",
       "code": 11,
       "version": "14.11",
@@ -3142,12 +3422,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.jkhentai.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.jkhentai.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Katanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.katanime",
-      "apk": "aniyomi-es.katanime-v14.22.apk",
+      "apk": "apk/aniyomi-es.katanime-v14.22.apk",
       "lang": "es",
       "code": 22,
       "version": "14.22",
@@ -3162,12 +3444,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.katanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.katanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: LACartoons",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.lacartoons",
-      "apk": "aniyomi-es.lacartoons-v14.25.apk",
+      "apk": "apk/aniyomi-es.lacartoons-v14.25.apk",
       "lang": "es",
       "code": 25,
       "version": "14.25",
@@ -3182,12 +3466,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.lacartoons.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.lacartoons.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: LaMovie",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.lamovie",
-      "apk": "aniyomi-es.lamovie-v14.25.apk",
+      "apk": "apk/aniyomi-es.lamovie-v14.25.apk",
       "lang": "es",
       "code": 25,
       "version": "14.25",
@@ -3202,12 +3488,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.lamovie.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.lamovie.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Latanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.latanime",
-      "apk": "aniyomi-es.latanime-v14.40.apk",
+      "apk": "apk/aniyomi-es.latanime-v14.40.apk",
       "lang": "es",
       "code": 40,
       "version": "14.40",
@@ -3222,12 +3510,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.latanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.latanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: LegionAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.legionanime",
-      "apk": "aniyomi-es.legionanime-v14.48.apk",
+      "apk": "apk/aniyomi-es.legionanime-v14.48.apk",
       "lang": "es",
       "code": 48,
       "version": "14.48",
@@ -3242,12 +3532,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.legionanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.legionanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: LocoPelis",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.locopelis",
-      "apk": "aniyomi-es.locopelis-v14.38.apk",
+      "apk": "apk/aniyomi-es.locopelis-v14.38.apk",
       "lang": "es",
       "code": 38,
       "version": "14.38",
@@ -3262,12 +3554,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.locopelis.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.locopelis.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: MetroSeries",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.metroseries",
-      "apk": "aniyomi-es.metroseries-v14.32.apk",
+      "apk": "apk/aniyomi-es.metroseries-v14.32.apk",
       "lang": "es",
       "code": 32,
       "version": "14.32",
@@ -3282,12 +3576,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.metroseries.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.metroseries.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: MhdFlix",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.mhdflix",
-      "apk": "aniyomi-es.mhdflix-v14.22.apk",
+      "apk": "apk/aniyomi-es.mhdflix-v14.22.apk",
       "lang": "es",
       "code": 22,
       "version": "14.22",
@@ -3302,12 +3598,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.mhdflix.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.mhdflix.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: MonosChinos",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.monoschinos",
-      "apk": "aniyomi-es.monoschinos-v14.53.apk",
+      "apk": "apk/aniyomi-es.monoschinos-v14.53.apk",
       "lang": "es",
       "code": 53,
       "version": "14.53",
@@ -3322,12 +3620,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.monoschinos.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.monoschinos.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: MundoDonghua",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.mundodonghua",
-      "apk": "aniyomi-es.mundodonghua-v14.44.apk",
+      "apk": "apk/aniyomi-es.mundodonghua-v14.44.apk",
       "lang": "es",
       "code": 44,
       "version": "14.44",
@@ -3342,12 +3642,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.mundodonghua.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.mundodonghua.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Pandrama",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.pandrama",
-      "apk": "aniyomi-es.pandrama-v14.9.apk",
+      "apk": "apk/aniyomi-es.pandrama-v14.9.apk",
       "lang": "es",
       "code": 9,
       "version": "14.9",
@@ -3362,12 +3664,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pandrama.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pandrama.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: PelisForte",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisforte",
-      "apk": "aniyomi-es.pelisforte-v14.49.apk",
+      "apk": "apk/aniyomi-es.pelisforte-v14.49.apk",
       "lang": "es",
       "code": 49,
       "version": "14.49",
@@ -3382,12 +3686,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisforte.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisforte.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: PelisPlusHD",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplushd",
-      "apk": "aniyomi-es.pelisplushd-v14.91.apk",
+      "apk": "apk/aniyomi-es.pelisplushd-v14.91.apk",
       "lang": "es",
       "code": 91,
       "version": "14.91",
@@ -3402,12 +3708,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplushd.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplushd.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: PelisPlusPh",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplusph",
-      "apk": "aniyomi-es.pelisplusph-v14.91.apk",
+      "apk": "apk/aniyomi-es.pelisplusph-v14.91.apk",
       "lang": "es",
       "code": 91,
       "version": "14.91",
@@ -3422,12 +3730,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusph.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusph.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: PelisPlusTo",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplusto",
-      "apk": "aniyomi-es.pelisplusto-v14.91.apk",
+      "apk": "apk/aniyomi-es.pelisplusto-v14.91.apk",
       "lang": "es",
       "code": 91,
       "version": "14.91",
@@ -3442,12 +3752,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusto.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusto.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Samato",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.samatodenvideos",
-      "apk": "aniyomi-es.samatodenvideos-v14.1.apk",
+      "apk": "apk/aniyomi-es.samatodenvideos-v14.1.apk",
       "lang": "es",
       "code": 1,
       "version": "14.1",
@@ -3462,12 +3774,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.samatodenvideos.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.samatodenvideos.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: SeriesKao",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.serieskao",
-      "apk": "aniyomi-es.serieskao-v14.21.apk",
+      "apk": "apk/aniyomi-es.serieskao-v14.21.apk",
       "lang": "es",
       "code": 21,
       "version": "14.21",
@@ -3482,12 +3796,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.serieskao.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.serieskao.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: SoloLatino",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.sololatino",
-      "apk": "aniyomi-es.sololatino-v14.26.apk",
+      "apk": "apk/aniyomi-es.sololatino-v14.26.apk",
       "lang": "es",
       "code": 26,
       "version": "14.26",
@@ -3502,12 +3818,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.sololatino.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.sololatino.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: TioanimeH",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.tioanimeh",
-      "apk": "aniyomi-es.tioanimeh-v14.35.apk",
+      "apk": "apk/aniyomi-es.tioanimeh-v14.35.apk",
       "lang": "es",
       "code": 35,
       "version": "14.35",
@@ -3528,12 +3846,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.tioanimeh.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.tioanimeh.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Tiodonghua.com",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.tiodonghua",
-      "apk": "aniyomi-es.tiodonghua-v14.23.apk",
+      "apk": "apk/aniyomi-es.tiodonghua-v14.23.apk",
       "lang": "es",
       "code": 23,
       "version": "14.23",
@@ -3548,12 +3868,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.tiodonghua.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.tiodonghua.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: VeoHentai",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.veohentai",
-      "apk": "aniyomi-es.veohentai-v14.1.apk",
+      "apk": "apk/aniyomi-es.veohentai-v14.1.apk",
       "lang": "es",
       "code": 1,
       "version": "14.1",
@@ -3568,12 +3890,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veohentai.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veohentai.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: VerAni.me",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.veranime",
-      "apk": "aniyomi-es.veranime-v14.4.apk",
+      "apk": "apk/aniyomi-es.veranime-v14.4.apk",
       "lang": "es",
       "code": 4,
       "version": "14.4",
@@ -3588,12 +3912,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veranime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veranime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: VerAnimes",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.veranimes",
-      "apk": "aniyomi-es.veranimes-v14.23.apk",
+      "apk": "apk/aniyomi-es.veranimes-v14.23.apk",
       "lang": "es",
       "code": 23,
       "version": "14.23",
@@ -3608,12 +3934,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veranimes.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.veranimes.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: VerPelisTop",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.verpelistop",
-      "apk": "aniyomi-es.verpelistop-v14.11.apk",
+      "apk": "apk/aniyomi-es.verpelistop-v14.11.apk",
       "lang": "es",
       "code": 11,
       "version": "14.11",
@@ -3628,12 +3956,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.verpelistop.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.verpelistop.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: VerSeriesOnline",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.verseriesonline",
-      "apk": "aniyomi-es.verseriesonline-v14.19.apk",
+      "apk": "apk/aniyomi-es.verseriesonline-v14.19.apk",
       "lang": "es",
       "code": 19,
       "version": "14.19",
@@ -3648,12 +3978,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.verseriesonline.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.verseriesonline.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: zeroanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.zeroanime",
-      "apk": "aniyomi-es.zeroanime-v14.13.apk",
+      "apk": "apk/aniyomi-es.zeroanime-v14.13.apk",
       "lang": "es",
       "code": 13,
       "version": "14.13",
@@ -3668,12 +4000,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.zeroanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.zeroanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Zonaleros",
       "pkg": "eu.kanade.tachiyomi.animeextension.es.zonaleros",
-      "apk": "aniyomi-es.zonaleros-v14.16.apk",
+      "apk": "apk/aniyomi-es.zonaleros-v14.16.apk",
       "lang": "es",
       "code": 16,
       "version": "14.16",
@@ -3688,12 +4022,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.zonaleros.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.es.zonaleros.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anime-Sama",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.animesama",
-      "apk": "aniyomi-fr.animesama-v14.29.apk",
+      "apk": "apk/aniyomi-fr.animesama-v14.29.apk",
       "lang": "fr",
       "code": 29,
       "version": "14.29",
@@ -3708,12 +4044,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.animesama.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.animesama.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeVostFr",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.animevostfr",
-      "apk": "aniyomi-fr.animevostfr-v14.2.apk",
+      "apk": "apk/aniyomi-fr.animevostfr-v14.2.apk",
       "lang": "fr",
       "code": 2,
       "version": "14.2",
@@ -3728,12 +4066,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.animevostfr.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.animevostfr.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AniSama",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.anisama",
-      "apk": "aniyomi-fr.anisama-v14.25.apk",
+      "apk": "apk/aniyomi-fr.anisama-v14.25.apk",
       "lang": "fr",
       "code": 25,
       "version": "14.25",
@@ -3748,12 +4088,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.anisama.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.anisama.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: EmpireStreaming",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.empirestreaming",
-      "apk": "aniyomi-fr.empirestreaming-v14.26.apk",
+      "apk": "apk/aniyomi-fr.empirestreaming-v14.26.apk",
       "lang": "fr",
       "code": 26,
       "version": "14.26",
@@ -3768,12 +4110,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.empirestreaming.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.empirestreaming.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: FRAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.franime",
-      "apk": "aniyomi-fr.franime-v14.27.apk",
+      "apk": "apk/aniyomi-fr.franime-v14.27.apk",
       "lang": "fr",
       "code": 27,
       "version": "14.27",
@@ -3788,12 +4132,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.franime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.franime.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: French Anime",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.frenchanime",
-      "apk": "aniyomi-fr.frenchanime-v14.31.apk",
+      "apk": "apk/aniyomi-fr.frenchanime-v14.31.apk",
       "lang": "fr",
       "code": 31,
       "version": "14.31",
@@ -3808,12 +4154,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: HDS",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.hds",
-      "apk": "aniyomi-fr.hds-v14.18.apk",
+      "apk": "apk/aniyomi-fr.hds-v14.18.apk",
       "lang": "fr",
       "code": 18,
       "version": "14.18",
@@ -3828,12 +4176,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.hds.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.hds.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: JetAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.jetanime",
-      "apk": "aniyomi-fr.jetanime-v14.22.apk",
+      "apk": "apk/aniyomi-fr.jetanime-v14.22.apk",
       "lang": "fr",
       "code": 22,
       "version": "14.22",
@@ -3848,12 +4198,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.jetanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.jetanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: MyKdrama",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.mykdrama",
-      "apk": "aniyomi-fr.mykdrama-v14.16.apk",
+      "apk": "apk/aniyomi-fr.mykdrama-v14.16.apk",
       "lang": "fr",
       "code": 16,
       "version": "14.16",
@@ -3868,12 +4220,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.mykdrama.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.mykdrama.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: OtakuFR",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.otakufr",
-      "apk": "aniyomi-fr.otakufr-v14.41.apk",
+      "apk": "apk/aniyomi-fr.otakufr-v14.41.apk",
       "lang": "fr",
       "code": 41,
       "version": "14.41",
@@ -3888,12 +4242,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.otakufr.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.otakufr.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: VoirCartoon",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.voircartoon",
-      "apk": "aniyomi-fr.voircartoon-v14.18.apk",
+      "apk": "apk/aniyomi-fr.voircartoon-v14.18.apk",
       "lang": "fr",
       "code": 18,
       "version": "14.18",
@@ -3908,12 +4264,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.voircartoon.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.voircartoon.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Vostfree",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.vostfree",
-      "apk": "aniyomi-fr.vostfree-v14.38.apk",
+      "apk": "apk/aniyomi-fr.vostfree-v14.38.apk",
       "lang": "fr",
       "code": 38,
       "version": "14.38",
@@ -3928,12 +4286,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.vostfree.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.vostfree.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Wiflix",
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.wiflix",
-      "apk": "aniyomi-fr.wiflix-v14.28.apk",
+      "apk": "apk/aniyomi-fr.wiflix-v14.28.apk",
       "lang": "fr",
       "code": 28,
       "version": "14.28",
@@ -3948,12 +4308,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.wiflix.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.fr.wiflix.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: YoMovies",
       "pkg": "eu.kanade.tachiyomi.animeextension.hi.yomovies",
-      "apk": "aniyomi-hi.yomovies-v14.33.apk",
+      "apk": "apk/aniyomi-hi.yomovies-v14.33.apk",
       "lang": "hi",
       "code": 33,
       "version": "14.33",
@@ -3968,12 +4330,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.hi.yomovies.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.hi.yomovies.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimeIndo",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.animeindo",
-      "apk": "aniyomi-id.animeindo-v14.28.apk",
+      "apk": "apk/aniyomi-id.animeindo-v14.28.apk",
       "lang": "id",
       "code": 28,
       "version": "14.28",
@@ -3988,12 +4352,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.animeindo.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.animeindo.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Kuramanime",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
-      "apk": "aniyomi-id.kuramanime-v14.22.apk",
+      "apk": "apk/aniyomi-id.kuramanime-v14.22.apk",
       "lang": "id",
       "code": 22,
       "version": "14.22",
@@ -4008,12 +4374,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.kuramanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.kuramanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Kuronime",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.kuronime",
-      "apk": "aniyomi-id.kuronime-v14.13.apk",
+      "apk": "apk/aniyomi-id.kuronime-v14.13.apk",
       "lang": "id",
       "code": 13,
       "version": "14.13",
@@ -4028,12 +4396,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.kuronime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.kuronime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: MiniOppai",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.minioppai",
-      "apk": "aniyomi-id.minioppai-v14.18.apk",
+      "apk": "apk/aniyomi-id.minioppai-v14.18.apk",
       "lang": "id",
       "code": 18,
       "version": "14.18",
@@ -4048,12 +4418,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.minioppai.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.minioppai.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: NeoNime",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.neonime",
-      "apk": "aniyomi-id.neonime-v14.24.apk",
+      "apk": "apk/aniyomi-id.neonime-v14.24.apk",
       "lang": "id",
       "code": 24,
       "version": "14.24",
@@ -4068,12 +4440,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.neonime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.neonime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: NimeGami",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.nimegami",
-      "apk": "aniyomi-id.nimegami-v14.7.apk",
+      "apk": "apk/aniyomi-id.nimegami-v14.7.apk",
       "lang": "id",
       "code": 7,
       "version": "14.7",
@@ -4088,12 +4462,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.nimegami.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.nimegami.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Oploverz",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
-      "apk": "aniyomi-id.oploverz-v14.26.apk",
+      "apk": "apk/aniyomi-id.oploverz-v14.26.apk",
       "lang": "id",
       "code": 26,
       "version": "14.26",
@@ -4108,12 +4484,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.oploverz.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.oploverz.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: OtakuDesu",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.otakudesu",
-      "apk": "aniyomi-id.otakudesu-v14.42.apk",
+      "apk": "apk/aniyomi-id.otakudesu-v14.42.apk",
       "lang": "id",
       "code": 42,
       "version": "14.42",
@@ -4128,12 +4506,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.otakudesu.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.otakudesu.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Samehadaku",
       "pkg": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
-      "apk": "aniyomi-id.samehadaku-v14.10.apk",
+      "apk": "apk/aniyomi-id.samehadaku-v14.10.apk",
       "lang": "id",
       "code": 10,
       "version": "14.10",
@@ -4148,12 +4528,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.samehadaku.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.id.samehadaku.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anime Saturn",
       "pkg": "eu.kanade.tachiyomi.animeextension.it.animesaturn",
-      "apk": "aniyomi-it.animesaturn-v14.11.apk",
+      "apk": "apk/aniyomi-it.animesaturn-v14.11.apk",
       "lang": "it",
       "code": 11,
       "version": "14.11",
@@ -4168,12 +4550,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animesaturn.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animesaturn.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeUnity",
       "pkg": "eu.kanade.tachiyomi.animeextension.it.animeunity",
-      "apk": "aniyomi-it.animeunity-v14.9.apk",
+      "apk": "apk/aniyomi-it.animeunity-v14.9.apk",
       "lang": "it",
       "code": 9,
       "version": "14.9",
@@ -4188,12 +4572,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animeunity.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animeunity.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: ANIMEWORLD.tv",
       "pkg": "eu.kanade.tachiyomi.animeextension.it.animeworld",
-      "apk": "aniyomi-it.animeworld-v14.58.apk",
+      "apk": "apk/aniyomi-it.animeworld-v14.58.apk",
       "lang": "it",
       "code": 58,
       "version": "14.58",
@@ -4208,12 +4594,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animeworld.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.animeworld.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AniPlay",
       "pkg": "eu.kanade.tachiyomi.animeextension.it.aniplay",
-      "apk": "aniyomi-it.aniplay-v14.21.apk",
+      "apk": "apk/aniyomi-it.aniplay-v14.21.apk",
       "lang": "it",
       "code": 21,
       "version": "14.21",
@@ -4228,12 +4616,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.aniplay.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.aniplay.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Hentai Saturn",
       "pkg": "eu.kanade.tachiyomi.animeextension.it.hentaisaturn",
-      "apk": "aniyomi-it.hentaisaturn-v14.5.apk",
+      "apk": "apk/aniyomi-it.hentaisaturn-v14.5.apk",
       "lang": "it",
       "code": 5,
       "version": "14.5",
@@ -4248,12 +4638,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.hentaisaturn.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.hentaisaturn.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Toonitalia",
       "pkg": "eu.kanade.tachiyomi.animeextension.it.toonitalia",
-      "apk": "aniyomi-it.toonitalia-v14.36.apk",
+      "apk": "apk/aniyomi-it.toonitalia-v14.36.apk",
       "lang": "it",
       "code": 36,
       "version": "14.36",
@@ -4268,12 +4660,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.toonitalia.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.toonitalia.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: VVVVID",
       "pkg": "eu.kanade.tachiyomi.animeextension.it.vvvvid",
-      "apk": "aniyomi-it.vvvvid-v14.1.apk",
+      "apk": "apk/aniyomi-it.vvvvid-v14.1.apk",
       "lang": "it",
       "code": 1,
       "version": "14.1",
@@ -4288,12 +4682,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.vvvvid.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.it.vvvvid.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Aniweek",
       "pkg": "eu.kanade.tachiyomi.animeextension.ko.aniweek",
-      "apk": "aniyomi-ko.aniweek-v14.17.apk",
+      "apk": "apk/aniyomi-ko.aniweek-v14.17.apk",
       "lang": "ko",
       "code": 17,
       "version": "14.17",
@@ -4308,12 +4704,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ko.aniweek.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ko.aniweek.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: desu-online",
       "pkg": "eu.kanade.tachiyomi.animeextension.pl.desuonline",
-      "apk": "aniyomi-pl.desuonline-v14.18.apk",
+      "apk": "apk/aniyomi-pl.desuonline-v14.18.apk",
       "lang": "pl",
       "code": 18,
       "version": "14.18",
@@ -4328,12 +4726,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.desuonline.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.desuonline.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Docchi",
       "pkg": "eu.kanade.tachiyomi.animeextension.pl.docchi",
-      "apk": "aniyomi-pl.docchi-v14.12.apk",
+      "apk": "apk/aniyomi-pl.docchi-v14.12.apk",
       "lang": "pl",
       "code": 12,
       "version": "14.12",
@@ -4348,12 +4748,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.docchi.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.docchi.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: OgladajAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.pl.ogladajanime",
-      "apk": "aniyomi-pl.ogladajanime-v14.5.apk",
+      "apk": "apk/aniyomi-pl.ogladajanime-v14.5.apk",
       "lang": "pl",
       "code": 5,
       "version": "14.5",
@@ -4368,12 +4770,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.ogladajanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.ogladajanime.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Wbijam",
       "pkg": "eu.kanade.tachiyomi.animeextension.pl.wbijam",
-      "apk": "aniyomi-pl.wbijam-v14.13.apk",
+      "apk": "apk/aniyomi-pl.wbijam-v14.13.apk",
       "lang": "pl",
       "code": 13,
       "version": "14.13",
@@ -4388,12 +4792,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.wbijam.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pl.wbijam.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anikyuu",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.anikyuu",
-      "apk": "aniyomi-pt.anikyuu-v14.8.apk",
+      "apk": "apk/aniyomi-pt.anikyuu-v14.8.apk",
       "lang": "pt-BR",
       "code": 8,
       "version": "14.8",
@@ -4408,12 +4814,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.anikyuu.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.anikyuu.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anime Fire",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
-      "apk": "aniyomi-pt.animefire-v14.9.apk",
+      "apk": "apk/aniyomi-pt.animefire-v14.9.apk",
       "lang": "pt-BR",
       "code": 9,
       "version": "14.9",
@@ -4428,12 +4836,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animefire.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animefire.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeIto",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeito",
-      "apk": "aniyomi-pt.animeito-v14.9.apk",
+      "apk": "apk/aniyomi-pt.animeito-v14.9.apk",
       "lang": "pt-BR",
       "code": 9,
       "version": "14.9",
@@ -4448,12 +4858,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeito.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeito.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimePlay",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeplay",
-      "apk": "aniyomi-pt.animeplay-v14.6.apk",
+      "apk": "apk/aniyomi-pt.animeplay-v14.6.apk",
       "lang": "pt-BR",
       "code": 6,
       "version": "14.6",
@@ -4468,12 +4880,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeplay.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeplay.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimePlayer",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeplayer",
-      "apk": "aniyomi-pt.animeplayer-v14.10.apk",
+      "apk": "apk/aniyomi-pt.animeplayer-v14.10.apk",
       "lang": "pt-BR",
       "code": 10,
       "version": "14.10",
@@ -4488,12 +4902,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeplayer.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeplayer.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimeQ",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeq",
-      "apk": "aniyomi-pt.animeq-v14.6.apk",
+      "apk": "apk/aniyomi-pt.animeq-v14.6.apk",
       "lang": "pt-BR",
       "code": 6,
       "version": "14.6",
@@ -4508,12 +4924,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeq.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeq.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimesBr (Dead)",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesbr",
-      "apk": "aniyomi-pt.animesbr-v14.11.apk",
+      "apk": "apk/aniyomi-pt.animesbr-v14.11.apk",
       "lang": "pt-BR",
       "code": 11,
       "version": "14.11",
@@ -4528,12 +4946,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesbr.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesbr.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Animes CX",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animescx",
-      "apk": "aniyomi-pt.animescx-v14.4.apk",
+      "apk": "apk/aniyomi-pt.animescx-v14.4.apk",
       "lang": "pt-BR",
       "code": 4,
       "version": "14.4",
@@ -4548,12 +4968,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animescx.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animescx.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Animes Digital",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdigital",
-      "apk": "aniyomi-pt.animesdigital-v14.9.apk",
+      "apk": "apk/aniyomi-pt.animesdigital-v14.9.apk",
       "lang": "pt-BR",
       "code": 9,
       "version": "14.9",
@@ -4568,12 +4990,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesdigital.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesdigital.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimesDrive",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdrive",
-      "apk": "aniyomi-pt.animesdrive-v14.8.apk",
+      "apk": "apk/aniyomi-pt.animesdrive-v14.8.apk",
       "lang": "pt-BR",
       "code": 8,
       "version": "14.8",
@@ -4588,12 +5012,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesdrive.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesdrive.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Animes Games",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgames",
-      "apk": "aniyomi-pt.animesgames-v14.7.apk",
+      "apk": "apk/aniyomi-pt.animesgames-v14.7.apk",
       "lang": "pt-BR",
       "code": 7,
       "version": "14.7",
@@ -4608,12 +5034,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgames.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgames.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Q1N",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
-      "apk": "aniyomi-pt.animesgratis-v14.37.apk",
+      "apk": "apk/aniyomi-pt.animesgratis-v14.37.apk",
       "lang": "pt-BR",
       "code": 37,
       "version": "14.37",
@@ -4628,12 +5056,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgratis.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgratis.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animes Online CC",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecc",
-      "apk": "aniyomi-pt.animesonlinecc-v14.7.apk",
+      "apk": "apk/aniyomi-pt.animesonlinecc-v14.7.apk",
       "lang": "pt-BR",
       "code": 7,
       "version": "14.7",
@@ -4648,12 +5078,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinecc.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinecc.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimesOnlineCloud",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecloud",
-      "apk": "aniyomi-pt.animesonlinecloud-v14.8.apk",
+      "apk": "apk/aniyomi-pt.animesonlinecloud-v14.8.apk",
       "lang": "pt-BR",
       "code": 8,
       "version": "14.8",
@@ -4668,12 +5100,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinecloud.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinecloud.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimesOnlineVip",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
-      "apk": "aniyomi-pt.animesonlinevip-v14.4.apk",
+      "apk": "apk/aniyomi-pt.animesonlinevip-v14.4.apk",
       "lang": "pt-BR",
       "code": 4,
       "version": "14.4",
@@ -4688,12 +5122,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinevip.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesonlinevip.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: AnimeCore",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesotaku",
-      "apk": "aniyomi-pt.animesotaku-v14.6.apk",
+      "apk": "apk/aniyomi-pt.animesotaku-v14.6.apk",
       "lang": "pt-BR",
       "code": 6,
       "version": "14.6",
@@ -4708,12 +5144,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesotaku.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesotaku.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimesROLL",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesroll",
-      "apk": "aniyomi-pt.animesroll-v14.8.apk",
+      "apk": "apk/aniyomi-pt.animesroll-v14.8.apk",
       "lang": "pt-BR",
       "code": 8,
       "version": "14.8",
@@ -4728,12 +5166,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesroll.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesroll.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anitube",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
-      "apk": "aniyomi-pt.anitube-v14.29.apk",
+      "apk": "apk/aniyomi-pt.anitube-v14.29.apk",
       "lang": "pt-BR",
       "code": 29,
       "version": "14.29",
@@ -4748,12 +5188,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.anitube.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.anitube.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: BetterAnimeIo",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.betteranimeio",
-      "apk": "aniyomi-pt.betteranimeio-v14.4.apk",
+      "apk": "apk/aniyomi-pt.betteranimeio-v14.4.apk",
       "lang": "pt-BR",
       "code": 4,
       "version": "14.4",
@@ -4768,12 +5210,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.betteranimeio.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.betteranimeio.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: DarkMahou",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.darkmahou",
-      "apk": "aniyomi-pt.darkmahou-v14.19.apk",
+      "apk": "apk/aniyomi-pt.darkmahou-v14.19.apk",
       "lang": "pt-BR",
       "code": 19,
       "version": "14.19",
@@ -4788,12 +5232,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.darkmahou.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.darkmahou.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: DattebayoBR",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.dattebayobr",
-      "apk": "aniyomi-pt.dattebayobr-v14.1.apk",
+      "apk": "apk/aniyomi-pt.dattebayobr-v14.1.apk",
       "lang": "pt-BR",
       "code": 1,
       "version": "14.1",
@@ -4808,12 +5254,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.dattebayobr.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.dattebayobr.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Donghua no Sekai",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.donghuanosekai",
-      "apk": "aniyomi-pt.donghuanosekai-v14.4.apk",
+      "apk": "apk/aniyomi-pt.donghuanosekai-v14.4.apk",
       "lang": "pt-BR",
       "code": 4,
       "version": "14.4",
@@ -4828,12 +5276,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.donghuanosekai.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.donghuanosekai.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Doramogo",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.doramogo",
-      "apk": "aniyomi-pt.doramogo-v14.17.apk",
+      "apk": "apk/aniyomi-pt.doramogo-v14.17.apk",
       "lang": "pt-BR",
       "code": 17,
       "version": "14.17",
@@ -4848,12 +5298,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.doramogo.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.doramogo.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Fun Anime TV",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.funanimetv",
-      "apk": "aniyomi-pt.funanimetv-v14.1.apk",
+      "apk": "apk/aniyomi-pt.funanimetv-v14.1.apk",
       "lang": "pt-BR",
       "code": 1,
       "version": "14.1",
@@ -4868,12 +5320,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.funanimetv.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.funanimetv.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Goyabu",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
-      "apk": "aniyomi-pt.goyabu-v14.4.apk",
+      "apk": "apk/aniyomi-pt.goyabu-v14.4.apk",
       "lang": "pt-BR",
       "code": 4,
       "version": "14.4",
@@ -4888,12 +5342,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.goyabu.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.goyabu.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Meus Animes",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.meusanimes",
-      "apk": "aniyomi-pt.meusanimes-v14.1.apk",
+      "apk": "apk/aniyomi-pt.meusanimes-v14.1.apk",
       "lang": "pt-BR",
       "code": 1,
       "version": "14.1",
@@ -4908,12 +5364,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.meusanimes.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.meusanimes.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Muito Hentai",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.muitohentai",
-      "apk": "aniyomi-pt.muitohentai-v14.2.apk",
+      "apk": "apk/aniyomi-pt.muitohentai-v14.2.apk",
       "lang": "pt-BR",
       "code": 2,
       "version": "14.2",
@@ -4928,12 +5386,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.muitohentai.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.muitohentai.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Pi Fansubs",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.pifansubs",
-      "apk": "aniyomi-pt.pifansubs-v14.33.apk",
+      "apk": "apk/aniyomi-pt.pifansubs-v14.33.apk",
       "lang": "pt-BR",
       "code": 33,
       "version": "14.33",
@@ -4948,12 +5408,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.pifansubs.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.pifansubs.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: SmartAnimes",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.smartanimes",
-      "apk": "aniyomi-pt.smartanimes-v14.8.apk",
+      "apk": "apk/aniyomi-pt.smartanimes-v14.8.apk",
       "lang": "pt-BR",
       "code": 8,
       "version": "14.8",
@@ -4968,12 +5430,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.smartanimes.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.smartanimes.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: SushiAnimes",
       "pkg": "eu.kanade.tachiyomi.animeextension.pt.sushianimes",
-      "apk": "aniyomi-pt.sushianimes-v14.2.apk",
+      "apk": "apk/aniyomi-pt.sushianimes-v14.2.apk",
       "lang": "pt-BR",
       "code": 2,
       "version": "14.2",
@@ -4988,12 +5452,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.sushianimes.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.pt.sushianimes.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Animelib",
       "pkg": "eu.kanade.tachiyomi.animeextension.ru.animelib",
-      "apk": "aniyomi-ru.animelib-v14.15.apk",
+      "apk": "apk/aniyomi-ru.animelib-v14.15.apk",
       "lang": "ru",
       "code": 15,
       "version": "14.15",
@@ -5008,12 +5474,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.animelib.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.animelib.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: Animevost",
       "pkg": "eu.kanade.tachiyomi.animeextension.ru.animevost",
-      "apk": "aniyomi-ru.animevost-v14.10.apk",
+      "apk": "apk/aniyomi-ru.animevost-v14.10.apk",
       "lang": "ru",
       "code": 10,
       "version": "14.10",
@@ -5034,12 +5502,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.animevost.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.animevost.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: YummyAnime",
       "pkg": "eu.kanade.tachiyomi.animeextension.ru.yummyanime",
-      "apk": "aniyomi-ru.yummyanime-v14.1.apk",
+      "apk": "apk/aniyomi-ru.yummyanime-v14.1.apk",
       "lang": "ru",
       "code": 1,
       "version": "14.1",
@@ -5054,12 +5524,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.yummyanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.ru.yummyanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AnimeBalkan",
       "pkg": "eu.kanade.tachiyomi.animeextension.sr.animebalkan",
-      "apk": "aniyomi-sr.animebalkan-v14.15.apk",
+      "apk": "apk/aniyomi-sr.animebalkan-v14.15.apk",
       "lang": "sr",
       "code": 15,
       "version": "14.15",
@@ -5074,12 +5546,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.sr.animebalkan.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.sr.animebalkan.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anime Srbija",
       "pkg": "eu.kanade.tachiyomi.animeextension.sr.animesrbija",
-      "apk": "aniyomi-sr.animesrbija-v14.22.apk",
+      "apk": "apk/aniyomi-sr.animesrbija-v14.22.apk",
       "lang": "sr",
       "code": 22,
       "version": "14.22",
@@ -5094,12 +5568,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.sr.animesrbija.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.sr.animesrbija.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Animeler",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.animeler",
-      "apk": "aniyomi-tr.animeler-v14.32.apk",
+      "apk": "apk/aniyomi-tr.animeler-v14.32.apk",
       "lang": "tr",
       "code": 32,
       "version": "14.32",
@@ -5114,12 +5590,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.animeler.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.animeler.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anizm",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.anizm",
-      "apk": "aniyomi-tr.anizm-v14.43.apk",
+      "apk": "apk/aniyomi-tr.anizm-v14.43.apk",
       "lang": "tr",
       "code": 43,
       "version": "14.43",
@@ -5134,12 +5612,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.anizm.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.anizm.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: AsyaAnimeleri",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri",
-      "apk": "aniyomi-tr.asyaanimeleri-v14.23.apk",
+      "apk": "apk/aniyomi-tr.asyaanimeleri-v14.23.apk",
       "lang": "tr",
       "code": 23,
       "version": "14.23",
@@ -5154,12 +5634,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: HDFilmCehennemi",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi",
-      "apk": "aniyomi-tr.hdfilmcehennemi-v14.32.apk",
+      "apk": "apk/aniyomi-tr.hdfilmcehennemi-v14.32.apk",
       "lang": "tr",
       "code": 32,
       "version": "14.32",
@@ -5174,12 +5656,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: HentaiZM",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.hentaizm",
-      "apk": "aniyomi-tr.hentaizm-v14.9.apk",
+      "apk": "apk/aniyomi-tr.hentaizm-v14.9.apk",
       "lang": "tr",
       "code": 9,
       "version": "14.9",
@@ -5194,12 +5678,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.hentaizm.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.hentaizm.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: TRAnimeCI",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.tranimeci",
-      "apk": "aniyomi-tr.tranimeci-v14.9.apk",
+      "apk": "apk/aniyomi-tr.tranimeci-v14.9.apk",
       "lang": "tr",
       "code": 9,
       "version": "14.9",
@@ -5214,12 +5700,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeci.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeci.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: TR Anime Izle",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.tranimeizle",
-      "apk": "aniyomi-tr.tranimeizle-v14.35.apk",
+      "apk": "apk/aniyomi-tr.tranimeizle-v14.35.apk",
       "lang": "tr",
       "code": 35,
       "version": "14.35",
@@ -5234,12 +5722,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeizle.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeizle.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Türk Anime TV",
       "pkg": "eu.kanade.tachiyomi.animeextension.tr.turkanime",
-      "apk": "aniyomi-tr.turkanime-v14.49.apk",
+      "apk": "apk/aniyomi-tr.turkanime-v14.49.apk",
       "lang": "tr",
       "code": 49,
       "version": "14.49",
@@ -5254,12 +5744,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.turkanime.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.tr.turkanime.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: UAKino",
       "pkg": "eu.kanade.tachiyomi.animeextension.uk.uakino",
-      "apk": "aniyomi-uk.uakino-v14.4.apk",
+      "apk": "apk/aniyomi-uk.uakino-v14.4.apk",
       "lang": "uk",
       "code": 4,
       "version": "14.4",
@@ -5274,12 +5766,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.uk.uakino.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.uk.uakino.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: UFDub",
       "pkg": "eu.kanade.tachiyomi.animeextension.uk.ufdub",
-      "apk": "aniyomi-uk.ufdub-v14.1.apk",
+      "apk": "apk/aniyomi-uk.ufdub-v14.1.apk",
       "lang": "uk",
       "code": 1,
       "version": "14.1",
@@ -5294,12 +5788,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.uk.ufdub.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.uk.ufdub.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Anime1.me",
       "pkg": "eu.kanade.tachiyomi.animeextension.zh.anime1",
-      "apk": "aniyomi-zh.anime1-v14.4.apk",
+      "apk": "apk/aniyomi-zh.anime1-v14.4.apk",
       "lang": "zh-hant",
       "code": 4,
       "version": "14.4",
@@ -5314,12 +5810,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.anime1.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.anime1.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Cycity",
       "pkg": "eu.kanade.tachiyomi.animeextension.zh.cycity",
-      "apk": "aniyomi-zh.cycity-v14.3.apk",
+      "apk": "apk/aniyomi-zh.cycity-v14.3.apk",
       "lang": "zh",
       "code": 3,
       "version": "14.3",
@@ -5334,12 +5832,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.cycity.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.cycity.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Hanime1.me",
       "pkg": "eu.kanade.tachiyomi.animeextension.zh.hanime1",
-      "apk": "aniyomi-zh.hanime1-v14.6.apk",
+      "apk": "apk/aniyomi-zh.hanime1-v14.6.apk",
       "lang": "zh",
       "code": 6,
       "version": "14.6",
@@ -5354,12 +5854,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.hanime1.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.hanime1.png",
+      "type": "anime",
+      "isNsfw": true
     },
     {
       "name": "Aniyomi: iyf",
       "pkg": "eu.kanade.tachiyomi.animeextension.zh.iyf",
-      "apk": "aniyomi-zh.iyf-v14.1.apk",
+      "apk": "apk/aniyomi-zh.iyf-v14.1.apk",
       "lang": "zh",
       "code": 1,
       "version": "14.1",
@@ -5374,12 +5876,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.iyf.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.iyf.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Nivod",
       "pkg": "eu.kanade.tachiyomi.animeextension.zh.nivod",
-      "apk": "aniyomi-zh.nivod-v14.1.apk",
+      "apk": "apk/aniyomi-zh.nivod-v14.1.apk",
       "lang": "zh",
       "code": 1,
       "version": "14.1",
@@ -5394,12 +5898,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.nivod.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.nivod.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Xfani",
       "pkg": "eu.kanade.tachiyomi.animeextension.zh.xfani",
-      "apk": "aniyomi-zh.xfani-v14.8.apk",
+      "apk": "apk/aniyomi-zh.xfani-v14.8.apk",
       "lang": "zh",
       "code": 8,
       "version": "14.8",
@@ -5414,12 +5920,14 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.xfani.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.xfani.png",
+      "type": "anime",
+      "isNsfw": false
     },
     {
       "name": "Aniyomi: Xiaoxintv",
       "pkg": "eu.kanade.tachiyomi.animeextension.zh.xiaoxintv",
-      "apk": "aniyomi-zh.xiaoxintv-v14.1.apk",
+      "apk": "apk/aniyomi-zh.xiaoxintv-v14.1.apk",
       "lang": "zh",
       "code": 1,
       "version": "14.1",
@@ -5434,7 +5942,9 @@
       ],
       "hasReadme": 0,
       "hasChangelog": 0,
-      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.xiaoxintv.png"
+      "icon": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/eu.kanade.tachiyomi.animeextension.zh.xiaoxintv.png",
+      "type": "anime",
+      "isNsfw": false
     }
   ]
 }

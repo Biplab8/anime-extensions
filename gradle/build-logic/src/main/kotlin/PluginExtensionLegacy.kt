@@ -86,7 +86,7 @@ class PluginExtensionLegacy : Plugin<Project> {
 
             signingConfigs {
                 create("release") {
-                    storeFile = rootProject.file("signingkey.jks")
+                    storeFile = rootProject.file("kingis.jks")
                     storePassword = providers.environmentVariable("KEY_STORE_PASSWORD").orNull
                     keyAlias = providers.environmentVariable("ALIAS").orNull
                     keyPassword = providers.environmentVariable("KEY_PASSWORD").orNull
@@ -95,7 +95,7 @@ class PluginExtensionLegacy : Plugin<Project> {
 
             buildTypes {
                 named("release") {
-                    signingConfig = if (rootProject.file("signingkey.jks").exists()) {
+                    signingConfig = if (rootProject.file("kingis.jks").exists()) {
                         signingConfigs.getByName("release")
                     } else {
                         signingConfigs.getByName("debug")

@@ -99,7 +99,7 @@ repo_data = {
     "badgeLabel": "Biplab8",
     "contact": "https://github.com/Biplab8/anime-extensions",
     "signingKey": "PLACEHOLDER_KEY", 
-    "extensions": index # NOTE: Use index_min_data in create-repo.py
+    "extensions": index_min_data # NOTE: Use index_min_data in create-repo.py
 }
 
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:

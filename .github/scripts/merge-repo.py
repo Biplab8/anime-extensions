@@ -6,33 +6,44 @@ from pathlib import Path
 # Get arguments
 delete_list = sys.argv[1].split(",") if len(sys.argv) > 1 and sys.argv[1] else []
 
-# Fix: The Action passes 'master/repo', but we are inside 'anime-repo'. We need to step back one folder using ".."
+# Correctly step back into the master branch folder
 new_repo_arg = sys.argv[2] if len(sys.argv) > 2 else "repo"
 new_repo_dir = Path("..").joinpath(new_repo_arg)
 
 REMOTE_REPO = Path(".")
 
-# Load existing extensions
-existing_index_path = REMOTE_REPO.joinpath("index.min.json")
+# BULLETPROOF EXTRACTOR: Safely handles both raw lists and V2 dictionaries
+def extract_extensions(data):
+    if isinstance(data, dict):
+        return data.get("extensions", [])
+    elif isinstance(data, list):
+        return data
+    return []
+
+# Load existing extensions safely
 existing_extensions = []
+existing_index_path = REMOTE_REPO.joinpath("index.min.json")
 if existing_index_path.exists():
     try:
         with existing_index_path.open("r", encoding="utf-8") as f:
-            data = json.load(f)
-            # Handle both V1 (array) and V2 (dict) formats from previous runs
-            existing_extensions = data.get("extensions", data) if isinstance(data, dict) else data
-    except:
+            existing_extensions = extract_extensions(json.load(f))
+    except Exception:
         pass
 
-# Load new extensions
-with new_repo_dir.joinpath("index.min.json").open("r", encoding="utf-8") as f:
-    new_extensions = json.load(f)
+# Load new extensions safely
+new_extensions = []
+try:
+    with new_repo_dir.joinpath("index.min.json").open("r", encoding="utf-8") as f:
+        new_extensions = extract_extensions(json.load(f))
+except Exception:
+    pass
 
-# Merge logic
-extension_dict = {ext["pkg"]: ext for ext in existing_extensions}
+# Merge logic (with safety checks to ensure we are only handling dictionaries)
+extension_dict = {ext["pkg"]: ext for ext in existing_extensions if isinstance(ext, dict) and "pkg" in ext}
 
 for ext in new_extensions:
-    extension_dict[ext["pkg"]] = ext
+    if isinstance(ext, dict) and "pkg" in ext:
+        extension_dict[ext["pkg"]] = ext
 
 for pkg in delete_list:
     if pkg in extension_dict:
@@ -62,7 +73,8 @@ with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as f:
     f.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
     for entry in final_extensions:
-        apk_escaped = html.escape(entry["apk"])
-        name_escaped = html.escape(entry["name"])
-        f.write(f'<a href="{apk_escaped}">{name_escaped}</a>\n')
+        if "apk" in entry and "name" in entry:
+            apk_escaped = html.escape(entry["apk"])
+            name_escaped = html.escape(entry["name"])
+            f.write(f'<a href="{apk_escaped}">{name_escaped}</a>\n')
     f.write('</pre>\n</body>\n</html>\n')

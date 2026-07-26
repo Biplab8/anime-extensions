@@ -47,17 +47,22 @@ v2_extensions = []
 for entry in index:
     v2_entry = entry.copy()
     
-    # 1. Fix the APK path
-    if "apk" in v2_entry and not v2_entry["apk"].startswith("apk/"):
-        v2_entry["apk"] = "apk/" + v2_entry["apk"]
+    # 1. Revert APK path to just the filename (Animetail automatically adds /apk/ internally)
+    if "apk" in v2_entry and v2_entry["apk"].startswith("apk/"):
+        v2_entry["apk"] = v2_entry["apk"].replace("apk/", "")
         
-    # 2. FORCE the ID into a pure integer
+    # 2. Add REQUIRED metadata fields to prevent the Kotlin JSON parser from crashing
+    v2_entry["hasReadme"] = 0
+    v2_entry["hasChangelog"] = 0
+    v2_entry["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{v2_entry['pkg']}.png"
+        
+    # 3. FORCE the ID into a pure integer
     if "sources" in v2_entry:
         fixed_sources = []
         for source in v2_entry["sources"]:
             source_copy = source.copy()
             if "id" in source_copy:
-                source_copy["id"] = int(source_copy["id"]) # Bruteforce removal of quotes
+                source_copy["id"] = int(source_copy["id"])
             fixed_sources.append(source_copy)
         v2_entry["sources"] = fixed_sources
         

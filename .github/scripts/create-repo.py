@@ -102,6 +102,6 @@ repo_data = {
     "extensions": index_min_data # NOTE: Use index_min_data in create-repo.py
 }
 
-with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
+with REPO_DIR.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
     json.dump(repo_data, repo_file, ensure_ascii=False, indent=2)
 # -------------------------------------------------------------------

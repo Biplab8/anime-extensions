@@ -96,8 +96,8 @@ jobs:
 
       - name: Prepare signing key
         run: |
-          echo ${{ secrets.SIGNING_KEY }} | base64 -d > signingkey.jks
-          chmod 600 signingkey.jks
+          echo ${{ secrets.SIGNING_KEY }} | base64 -d > kingis.jks
+          chmod 600 kingis.jks
 
       - name: Build extensions (${{ matrix.chunk.number }})
         env:
@@ -122,7 +122,7 @@ jobs:
           retention-days: 1
 
       - name: Clean up CI files
-        run: rm signingkey.jks
+        run: rm kingis.jks
 
   publish:
     name: Check extension repo

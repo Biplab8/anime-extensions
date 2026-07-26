@@ -94,13 +94,21 @@ v2_repo_data = {
     "extensions": final_extensions
 }
 
+# --- THE MIHON / ANIMETAIL FIX: ADD THE 'meta' FIELD TO INDEX.MIN.JSON ---
+mihon_repo_data = {
+    "meta": {
+        "name": "Biplab8 Anime Repo",
+        "badgeLabel": "Biplab8",
+        "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99"
+    },
+    "extensions": final_extensions
+}
+
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as f:
     json.dump(v2_repo_data, f, ensure_ascii=False, indent=2)
 
-# --- GENERATE V1 INDEX.MIN.JSON (For Animetail) ---
-# THIS MUST BE A FLAT LIST (final_extensions), NOT A DICTIONARY
 with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
-    json.dump(final_extensions, f, ensure_ascii=False, separators=(",", ":"))
+    json.dump(mihon_repo_data, f, ensure_ascii=False, separators=(",", ":"))
 
 # --- GENERATE INDEX.HTML ---
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as f:

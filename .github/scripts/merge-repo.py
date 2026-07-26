@@ -51,9 +51,8 @@ for pkg in delete_list:
 
 final_extensions = list(extension_dict.values())
 
-# --- FIX ALL EXTENSIONS (INTEGER IDs & REQUIRED FIELDS) ---
+# Fix all extensions
 for ext in final_extensions:
-    # 1. Convert source ID from string to int
     if "sources" in ext and isinstance(ext["sources"], list):
         for source in ext["sources"]:
             if "id" in source:
@@ -62,7 +61,6 @@ for ext in final_extensions:
                 except ValueError:
                     pass
 
-    # 2. Add required metadata fields for Kotlin Serialization
     if "hasReadme" not in ext:
         ext["hasReadme"] = 0
     if "hasChangelog" not in ext:
@@ -70,7 +68,7 @@ for ext in final_extensions:
     if "icon" not in ext or not ext["icon"]:
         ext["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{ext['pkg']}.png"
 
-# --- GENERATE V2 REPO.JSON ---
+# Generate V2 Data
 v2_repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",
@@ -81,14 +79,13 @@ v2_repo_data = {
     "extensions": final_extensions
 }
 
+# --- WRITE V2 DATA DIRECTLY TO INDEX.MIN.JSON ---
+with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
+    json.dump(v2_repo_data, f, ensure_ascii=False, separators=(",", ":"))
+
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as f:
     json.dump(v2_repo_data, f, ensure_ascii=False, indent=2)
 
-# --- GENERATE LEGACY INDEX.MIN.JSON ---
-with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as f:
-    json.dump(final_extensions, f, ensure_ascii=False, separators=(",", ":"))
-
-# --- GENERATE INDEX.HTML ---
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as f:
     f.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
     for entry in final_extensions:

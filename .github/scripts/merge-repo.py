@@ -51,13 +51,13 @@ for entry in index:
     if "apk" in v2_entry and not v2_entry["apk"].startswith("apk/"):
         v2_entry["apk"] = "apk/" + v2_entry["apk"]
         
-    # 2. Fix the ID text bug so Animetail doesn't crash
+    # 2. FORCE the ID into a pure integer
     if "sources" in v2_entry:
         fixed_sources = []
         for source in v2_entry["sources"]:
             source_copy = source.copy()
-            if "id" in source_copy and isinstance(source_copy["id"], str):
-                source_copy["id"] = int(source_copy["id"])
+            if "id" in source_copy:
+                source_copy["id"] = int(source_copy["id"]) # Bruteforce removal of quotes
             fixed_sources.append(source_copy)
         v2_entry["sources"] = fixed_sources
         

@@ -118,6 +118,15 @@ jobs:
           echo "$SIGNING_KEY" | base64 -d > signingkey.jks
           chmod 600 signingkey.jks
 
+      - name: Extract Public Key
+        env:
+          ALIAS: ${{ secrets.ALIAS }}
+          KEY_STORE_PASSWORD: ${{ secrets.KEY_STORE_PASSWORD }}
+        run: |
+          echo "=== YOUR PUBLIC KEY ==="
+          keytool -list -v -keystore signingkey.jks -alias "$ALIAS" -storepass "$KEY_STORE_PASSWORD" | grep "SHA256: " | sed 's/.*SHA256: //' | tr -d ':'
+          echo "======================="
+
       - name: Build extensions (${{ matrix.chunk.number }})
         env:
           MODULES: ${{ join(matrix.chunk.modules, ' ') }}

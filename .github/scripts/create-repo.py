@@ -98,7 +98,7 @@ repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",
     "contact": "https://github.com/Biplab8/anime-extensions",
-    "signingKey": "PLACEHOLDER_KEY", 
+    "signingKey": "CB6989FEEC8A90A43CC9359BC79B2CCDBF22DCBE955A6F39878C0C0BB25D6B99", 
     "extensions": index_min_data # NOTE: Use index_min_data in create-repo.py
 }
 

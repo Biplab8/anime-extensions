@@ -12,6 +12,7 @@ IS_NSFW_REGEX = re.compile(r"'tachiyomi.animeextension.nsfw' value='([^']+)'")
 APPLICATION_LABEL_REGEX = re.compile(r"^application-label:'([^']+)'", re.MULTILINE)
 APPLICATION_ICON_320_REGEX = re.compile(r"^application-icon-320:'([^']+)'", re.MULTILINE)
 LANGUAGE_REGEX = re.compile(r"aniyomi-([^.]+)")
+SIGNATURE_REGEX = re.compile(r"Signer #1 certificate SHA-256 digest: ([a-f0-9]+)")
 
 *_, ANDROID_BUILD_TOOLS = (Path(os.environ["ANDROID_HOME"]) / "build-tools").iterdir()
 REPO_DIR = Path("anime-repo")
@@ -25,6 +26,9 @@ with open("output.json", encoding="utf-8") as f:
 
 index_min_data = []
 
+# Assuming all apks are signed with the same key
+signing_key_fingerprint = None
+
 for apk in REPO_APK_DIR.iterdir():
     badging = subprocess.check_output(
         [
@@ -35,6 +39,19 @@ for apk in REPO_APK_DIR.iterdir():
             apk,
         ]
     ).decode()
+
+    if not signing_key_fingerprint:
+        cert_info = subprocess.check_output(
+            [
+                ANDROID_BUILD_TOOLS / "apksigner",
+                "verify",
+                "--print-certs",
+                apk,
+            ]
+        ).decode()
+        match = SIGNATURE_REGEX.search(cert_info)
+        if match:
+            signing_key_fingerprint = match.group(1)
 
     package_info = next(x for x in badging.splitlines() if x.startswith("package: "))
     package_name = PACKAGE_NAME_REGEX.search(package_info)[1]
@@ -85,5 +102,25 @@ for apk in REPO_APK_DIR.iterdir():
 
     index_min_data.append(min_data)
 
+# Write index.min.json which contains the extension list
 with REPO_DIR.joinpath("index.min.json").open("w", encoding="utf-8") as index_file:
     json.dump(index_min_data, index_file, ensure_ascii=False, separators=(",", ":"))
+
+# Write index.json in the new NetworkLegacyExtensionRepo format
+index_v2_url = "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/index.min.json"
+meta_name = "Biplab8 Extensions"
+meta_short_name = "Biplab8"
+meta_website = "https://github.com/Biplab8/anime-extensions"
+
+index_data = {
+    "index_v2": index_v2_url,
+    "meta": {
+        "name": meta_name,
+        "shortName": meta_short_name,
+        "website": meta_website,
+        "signingKeyFingerprint": signing_key_fingerprint or "UNKNOWN"
+    }
+}
+
+with REPO_DIR.joinpath("index.json").open("w", encoding="utf-8") as index_file:
+    json.dump(index_data, index_file, indent=2, ensure_ascii=False)

@@ -42,21 +42,22 @@ for item in index:
     for source in item["sources"]:
         source.pop("versionId", None)
 
-# --- NEW ROOT FORMAT FOR INDEX.MIN.JSON ---
+# --- 1. SAVE LEGACY INDEX.MIN.JSON ---
+with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index_min_file:
+    json.dump(index, index_min_file, ensure_ascii=False, separators=(",", ":"))
+
+# --- 2. GENERATE V2 REPO.JSON ---
 v2_extensions = []
 for entry in index:
     v2_entry = entry.copy()
     
-    # 1. Revert APK path to just the filename (Animetail automatically adds /apk/ internally)
     if "apk" in v2_entry and v2_entry["apk"].startswith("apk/"):
         v2_entry["apk"] = v2_entry["apk"].replace("apk/", "")
         
-    # 2. Add REQUIRED metadata fields to prevent the Kotlin JSON parser from crashing
     v2_entry["hasReadme"] = 0
     v2_entry["hasChangelog"] = 0
     v2_entry["icon"] = f"https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/icon/{v2_entry['pkg']}.png"
         
-    # 3. FORCE the ID into a pure integer
     if "sources" in v2_entry:
         fixed_sources = []
         for source in v2_entry["sources"]:
@@ -68,7 +69,7 @@ for entry in index:
         
     v2_extensions.append(v2_entry)
 
-v2_index_data = {
+v2_repo_data = {
     "name": "Biplab8 Anime Repo",
     "badgeLabel": "Biplab8",
     "contact": {
@@ -78,8 +79,8 @@ v2_index_data = {
     "extensions": v2_extensions
 }
 
-with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index_min_file:
-    json.dump(v2_index_data, index_min_file, ensure_ascii=False, separators=(",", ":"))
+with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
+    json.dump(v2_repo_data, repo_file, ensure_ascii=False, indent=2)
 # ------------------------------------------
 
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_html_file:

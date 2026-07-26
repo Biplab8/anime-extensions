@@ -55,10 +55,20 @@ for item in index:
 with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index_min_file:
     json.dump(index, index_min_file, ensure_ascii=False, separators=(",", ":"))
 
-# --- NEW CODE: Automatically generate repo.json for Animetail ---
+# --- NEW CODE: Automatically generate V2 repo.json for Animetail ---
+repo_data = {
+    "info": {
+        "name": "Biplab8 Anime Repo",
+        "shortName": "Biplab8",
+        "description": "Custom anime extensions repository",
+        "website": "https://github.com/Biplab8/anime-extensions"
+    },
+    "extensions": index
+}
+
 with REMOTE_REPO.joinpath("repo.json").open("w", encoding="utf-8") as repo_file:
-    json.dump(index, repo_file, ensure_ascii=False, indent=2)
-# ----------------------------------------------------------------
+    json.dump(repo_data, repo_file, ensure_ascii=False, indent=2)
+# -------------------------------------------------------------------
 
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_html_file:
     index_html_file.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')

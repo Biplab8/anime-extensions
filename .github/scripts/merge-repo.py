@@ -13,23 +13,17 @@ for module in to_delete:
     apk_name = f"aniyomi-{module}-v*.*.apk"
     icon_name = f"eu.kanade.tachiyomi.animeextension.{module}.png"
     for file in REMOTE_REPO.joinpath("apk").glob(apk_name):
-        print(file.name)
         file.unlink(missing_ok=True)
     for file in REMOTE_REPO.joinpath("icon").glob(icon_name):
-        print(file.name)
         file.unlink(missing_ok=True)
 
 shutil.copytree(src=LOCAL_REPO.joinpath("apk"), dst=REMOTE_REPO.joinpath("apk"), dirs_exist_ok=True)
 shutil.copytree(src=LOCAL_REPO.joinpath("icon"), dst=REMOTE_REPO.joinpath("icon"), dirs_exist_ok=True)
 
-# Merge index.min.json
 remote_min_path = REMOTE_REPO.joinpath("index.min.json")
-
 if remote_min_path.exists():
     with remote_min_path.open(encoding="utf-8") as f:
         remote_min = json.load(f)
-
-    # Ignore old/invalid format
     if not isinstance(remote_min, list):
         remote_min = []
 else:
@@ -48,21 +42,17 @@ merged_min = [
 ]
 
 merged_min.extend(local_min)
-
-# Remove duplicate packages (keep newest build)
 merged_min = {item["pkg"]: item for item in merged_min}
 merged_min = list(merged_min.values())
-
 merged_min.sort(key=lambda x: x["pkg"])
 
 with remote_min_path.open("w", encoding="utf-8") as f:
     json.dump(merged_min, f, ensure_ascii=False, separators=(",", ":"))
-# Replace repo.json with the newly generated Animetail repo.json
-shutil.copy2(
-    LOCAL_REPO.joinpath("repo.json"),
-    REMOTE_REPO.joinpath("repo.json"),
-)
-# Generate index.html
+
+# Copy all necessary repository manifest configurations safely
+shutil.copy2(LOCAL_REPO.joinpath("index.json"), REMOTE_REPO.joinpath("index.json"))
+shutil.copy2(LOCAL_REPO.joinpath("repo.json"), REMOTE_REPO.joinpath("repo.json"))
+
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_html_file:
     index_html_file.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
     for entry in merged_min:

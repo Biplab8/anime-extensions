@@ -44,10 +44,17 @@ if not isinstance(local_index, list):
     raise RuntimeError("Generated index.json is invalid (expected a JSON array).")
 
 index = [
-    item for item in remote_index
+    item
+    for item in remote_index
     if not any(item["pkg"].endswith(f".{module}") for module in to_delete)
 ]
+
 index.extend(local_index)
+
+# Remove duplicate packages (keep newest)
+index = {item["pkg"]: item for item in index}
+index = list(index.values())
+
 index.sort(key=lambda x: x["pkg"])
 
 with REMOTE_REPO.joinpath("index.json").open("w", encoding="utf-8") as index_file:

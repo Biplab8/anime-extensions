@@ -65,7 +65,7 @@ shutil.copy2(
 # Generate index.html
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_html_file:
     index_html_file.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
-    for entry in index:
+    for entry in merged_min:
         apk_escaped = html.escape(entry["apk"])
         name_escaped = html.escape(entry["name"])
         index_html_file.write(f'<a href="{apk_escaped}">{name_escaped}</a>\n')

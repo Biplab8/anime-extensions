@@ -24,7 +24,6 @@ REPO_ICON_DIR.mkdir(parents=True, exist_ok=True)
 with open("output.json", encoding="utf-8") as f:
     inspector_data = json.load(f)
 
-# Internal extension model
 extensions = []
 
 for apk in REPO_APK_DIR.glob("*.apk"):
@@ -52,7 +51,6 @@ for apk in REPO_APK_DIR.glob("*.apk"):
 
     if len(sources) == 1:
         source_language = sources[0]["lang"]
-
         if (
             source_language != language
             and source_language not in {"all", "other"}
@@ -71,7 +69,6 @@ for apk in REPO_APK_DIR.glob("*.apk"):
         "is_nsfw": int(IS_NSFW_REGEX.search(badging)[1]),
     })
 
-# Generate outputs from internal model
 index_data = []
 repo_extensions = []
 
@@ -100,7 +97,6 @@ for ext in extensions:
                 "versionId": source["versionId"],
             }
         )
-
         repo_sources.append(
             {
                 "id": source["id"],
@@ -131,11 +127,13 @@ for ext in extensions:
         "sources": repo_sources
     })
 
+# Write index.min.json
 with REPO_DIR.joinpath("index.min.json").open("w", encoding="utf-8") as f:
     json.dump(index_data, f, ensure_ascii=False, separators=(",", ":"))
 
+# Write index.json pointing to index.min.json with exact Animetail Meta mapping
 index_json = {
-    "index_v2": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/index.min.json",
+    "index_v2": "index.min.json",
     "meta": {
         "name": "Animetail Extensions",
         "shortName": "Animetail",
@@ -147,6 +145,7 @@ index_json = {
 with REPO_DIR.joinpath("index.json").open("w", encoding="utf-8") as f:
     json.dump(index_json, f, ensure_ascii=False, indent=2)
 
+# Write repo.json containing the extension list payload
 repo_data = {
     "name": "Animetail Extensions",
     "badgeLabel": "Animetail",
@@ -163,6 +162,7 @@ repo_data = {
 with REPO_DIR.joinpath("repo.json").open("w", encoding="utf-8") as f:
     json.dump(repo_data, f, ensure_ascii=False, indent=2)
 
+# Write fallback index.html
 with REPO_DIR.joinpath("index.html").open("w", encoding="utf-8") as f:
     f.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
     for ext in index_data:

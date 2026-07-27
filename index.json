@@ -1,0 +1,9 @@
+{
+  "index_v2": "index.min.json",
+  "meta": {
+    "name": "Animetail Extensions",
+    "shortName": "Animetail",
+    "website": "https://github.com/Biplab8/anime-extensions",
+    "signingKeyFingerprint": "cb6989feec8a90a43cc9359bc79b2ccdbf22dcbe955a6f39878c0c0bb25d6b99"
+  }
+}

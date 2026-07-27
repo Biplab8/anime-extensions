@@ -72,6 +72,9 @@ for apk in REPO_APK_DIR.glob("*.apk"):
 index_data = []
 repo_extensions = []
 
+# Absolute base URL pointing directly to your repository's 'anime-repo' branch raw contents
+BASE_RAW_URL = "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo"
+
 for ext in extensions:
     min_data = {
         "name": ext["app_label"],
@@ -113,12 +116,13 @@ for ext in extensions:
     if "." in lib_version:
         lib_version = lib_version.rsplit(".", 1)[0]
 
+    # Explicit Absolute URLs are required here for Animetail to resolve downloads and icons properly
     repo_extensions.append({
         "name": ext["app_label"],
         "packageName": ext["package_name"],
         "resources": {
-            "apkUrl": f"apk/{ext['apk_name']}",
-            "iconUrl": f"icon/{ext['package_name']}.png"
+            "apkUrl": f"{BASE_RAW_URL}/apk/{ext['apk_name']}",
+            "iconUrl": f"{BASE_RAW_URL}/icon/{ext['package_name']}.png"
         },
         "extensionLib": lib_version,
         "versionCode": ext["version_code"],
@@ -131,9 +135,9 @@ for ext in extensions:
 with REPO_DIR.joinpath("index.min.json").open("w", encoding="utf-8") as f:
     json.dump(index_data, f, ensure_ascii=False, separators=(",", ":"))
 
-# Write index.json pointing to index.min.json with exact Animetail Meta mapping
+# Write index.json pointing to index.min.json
 index_json = {
-    "index_v2": "index.min.json",
+    "index_v2": f"{BASE_RAW_URL}/index.min.json",
     "meta": {
         "name": "Animetail Extensions",
         "shortName": "Animetail",
@@ -145,7 +149,7 @@ index_json = {
 with REPO_DIR.joinpath("index.json").open("w", encoding="utf-8") as f:
     json.dump(index_json, f, ensure_ascii=False, indent=2)
 
-# Write repo.json containing the extension list payload
+# Write repo.json with absolute and correctly structured extension list payload
 repo_data = {
     "name": "Animetail Extensions",
     "badgeLabel": "Animetail",

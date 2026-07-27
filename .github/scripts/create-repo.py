@@ -79,10 +79,11 @@ for ext in extensions:
     min_data = {
         "name": ext["app_label"],
         "pkg": ext["package_name"],
-        "apk": ext["apk_name"],
+        "apk": f"apk/{ext['apk_name']}",
         "lang": ext["language"],
         "code": ext["version_code"],
         "version": ext["version_name"],
+        "icon": f"icon/{ext['package_name']}.png",
         "nsfw": ext["is_nsfw"],
         "sources": [],
     }
@@ -133,8 +134,18 @@ for ext in extensions:
 with REPO_DIR.joinpath("index.min.json").open("w", encoding="utf-8") as f:
     json.dump(index_data, f, ensure_ascii=False, separators=(",", ":"))
 
+index_json = {
+    "index_v2": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/index.min.json",
+    "meta": {
+        "name": "Animetail Extensions",
+        "shortName": "Animetail",
+        "website": "https://github.com/Biplab8/anime-extensions",
+        "signingKeyFingerprint": "cb6989feec8a90a43cc9359bc79b2ccdbf22dcbe955a6f39878c0c0bb25d6b99"
+    }
+}
+
 with REPO_DIR.joinpath("index.json").open("w", encoding="utf-8") as f:
-    json.dump(index_data, f, ensure_ascii=False, indent=2)
+    json.dump(index_json, f, ensure_ascii=False, indent=2)
 
 repo_data = {
     "name": "Animetail Extensions",

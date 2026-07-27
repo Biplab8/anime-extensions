@@ -26,7 +26,7 @@ shutil.copytree(src=LOCAL_REPO.joinpath("icon"), dst=REMOTE_REPO.joinpath("icon"
 with REMOTE_REPO.joinpath("index.json").open(encoding="utf-8") as remote_index_file:
     remote_index = json.load(remote_index_file)
 
-with LOCAL_REPO.joinpath("index.min.json").open(encoding="utf-8") as local_index_file:
+with LOCAL_REPO.joinpath("index.json").open(encoding="utf-8") as local_index_file:
     local_index = json.load(local_index_file)
 
 index = [
@@ -64,13 +64,33 @@ else:
 with LOCAL_REPO.joinpath("repo.json").open(encoding="utf-8") as local_repo_file:
     local_repo_data = json.load(local_repo_file)
 
-remote_repo_exts = remote_repo_data.get("extensionList", {}).get("extensions", [])
-local_repo_exts = local_repo_data.get("extensionList", {}).get("extensions", [])
+# Ensure remote repo.json is in the expected format
+if "extensionList" not in remote_repo_data:
+    remote_repo_data = {
+        "name": local_repo_data.get("name", "Animetail Extensions"),
+        "badgeLabel": local_repo_data.get("badgeLabel", "Animetail"),
+        "signingKey": local_repo_data.get("signingKey", "NO_SIGNING_KEY"),
+        "contact": local_repo_data.get(
+            "contact",
+            {
+                "website": "https://github.com/Biplab8/anime-extensions",
+                "discord": None,
+            },
+        ),
+        "extensionList": {
+            "extensions": [],
+        },
+    }
+
+remote_repo_exts = remote_repo_data["extensionList"].get("extensions", [])
+local_repo_exts = local_repo_data["extensionList"].get("extensions", [])
 
 repo_exts = [
-    item for item in remote_repo_exts
+    item
+    for item in remote_repo_exts
     if not any(item["packageName"].endswith(f".{module}") for module in to_delete)
 ]
+
 repo_exts.extend(local_repo_exts)
 repo_exts.sort(key=lambda x: x["packageName"])
 

@@ -90,6 +90,8 @@ repo_exts = [
 repo_exts.extend(local_repo_exts)
 repo_exts.sort(key=lambda x: x["packageName"])
 
+if "extensionList" not in remote_repo_data:
+    remote_repo_data["extensionList"] = {}
 remote_repo_data["extensionList"]["extensions"] = repo_exts
 
 with repo_json_path.open("w", encoding="utf-8") as repo_file:

@@ -23,11 +23,25 @@ shutil.copytree(src=LOCAL_REPO.joinpath("apk"), dst=REMOTE_REPO.joinpath("apk"),
 shutil.copytree(src=LOCAL_REPO.joinpath("icon"), dst=REMOTE_REPO.joinpath("icon"), dirs_exist_ok=True)
 
 # Merge index.json and index.min.json
-with REMOTE_REPO.joinpath("index.json").open(encoding="utf-8") as remote_index_file:
-    remote_index = json.load(remote_index_file)
+# Load existing index.json if it exists
+remote_index_path = REMOTE_REPO.joinpath("index.json")
 
+if remote_index_path.exists():
+    with remote_index_path.open(encoding="utf-8") as remote_index_file:
+        remote_index = json.load(remote_index_file)
+
+    # If the file isn't a list (e.g. legacy repo.json accidentally present), ignore it
+    if not isinstance(remote_index, list):
+        remote_index = []
+else:
+    remote_index = []
+
+# Load newly generated index.json
 with LOCAL_REPO.joinpath("index.json").open(encoding="utf-8") as local_index_file:
     local_index = json.load(local_index_file)
+
+if not isinstance(local_index, list):
+    raise RuntimeError("Generated index.json is invalid (expected a JSON array).")
 
 index = [
     item for item in remote_index
@@ -39,8 +53,10 @@ index.sort(key=lambda x: x["pkg"])
 with REMOTE_REPO.joinpath("index.json").open("w", encoding="utf-8") as index_file:
     json.dump(index, index_file, ensure_ascii=False, indent=2)
 
-with REMOTE_REPO.joinpath("index.min.json").open("w", encoding="utf-8") as index_min_file:
-    json.dump(index, index_min_file, ensure_ascii=False, separators=(",", ":"))
+shutil.copy2(
+    LOCAL_REPO.joinpath("index.min.json"),
+    REMOTE_REPO.joinpath("index.min.json"),
+)
 # Replace repo.json with the newly generated Animetail repo.json
 shutil.copy2(
     LOCAL_REPO.joinpath("repo.json"),

@@ -53,10 +53,41 @@ index.sort(key=lambda x: x["pkg"])
 with REMOTE_REPO.joinpath("index.json").open("w", encoding="utf-8") as index_file:
     json.dump(index, index_file, ensure_ascii=False, indent=2)
 
-shutil.copy2(
-    LOCAL_REPO.joinpath("index.min.json"),
-    REMOTE_REPO.joinpath("index.min.json"),
-)
+# Merge index.min.json
+remote_min_path = REMOTE_REPO.joinpath("index.min.json")
+
+if remote_min_path.exists():
+    with remote_min_path.open(encoding="utf-8") as f:
+        remote_min = json.load(f)
+
+    # Ignore old/invalid format
+    if not isinstance(remote_min, list):
+        remote_min = []
+else:
+    remote_min = []
+
+with LOCAL_REPO.joinpath("index.min.json").open(encoding="utf-8") as f:
+    local_min = json.load(f)
+
+if not isinstance(local_min, list):
+    raise RuntimeError("Generated index.min.json is invalid (expected a JSON array).")
+
+merged_min = [
+    item
+    for item in remote_min
+    if not any(item["pkg"].endswith(f".{module}") for module in to_delete)
+]
+
+merged_min.extend(local_min)
+
+# Remove duplicate packages (keep newest build)
+merged_min = {item["pkg"]: item for item in merged_min}
+merged_min = list(merged_min.values())
+
+merged_min.sort(key=lambda x: x["pkg"])
+
+with remote_min_path.open("w", encoding="utf-8") as f:
+    json.dump(merged_min, f, ensure_ascii=False, separators=(",", ":"))
 # Replace repo.json with the newly generated Animetail repo.json
 shutil.copy2(
     LOCAL_REPO.joinpath("repo.json"),

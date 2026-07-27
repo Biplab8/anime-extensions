@@ -22,44 +22,6 @@ for module in to_delete:
 shutil.copytree(src=LOCAL_REPO.joinpath("apk"), dst=REMOTE_REPO.joinpath("apk"), dirs_exist_ok=True)
 shutil.copytree(src=LOCAL_REPO.joinpath("icon"), dst=REMOTE_REPO.joinpath("icon"), dirs_exist_ok=True)
 
-# Merge index.json and index.min.json
-# Load existing index.json if it exists
-remote_index_path = REMOTE_REPO.joinpath("index.json")
-
-if remote_index_path.exists():
-    with remote_index_path.open(encoding="utf-8") as remote_index_file:
-        remote_index = json.load(remote_index_file)
-
-    # If the file isn't a list (e.g. legacy repo.json accidentally present), ignore it
-    if not isinstance(remote_index, list):
-        remote_index = []
-else:
-    remote_index = []
-
-# Load newly generated index.json
-with LOCAL_REPO.joinpath("index.json").open(encoding="utf-8") as local_index_file:
-    local_index = json.load(local_index_file)
-
-if not isinstance(local_index, list):
-    raise RuntimeError("Generated index.json is invalid (expected a JSON array).")
-
-index = [
-    item
-    for item in remote_index
-    if not any(item["pkg"].endswith(f".{module}") for module in to_delete)
-]
-
-index.extend(local_index)
-
-# Remove duplicate packages (keep newest)
-index = {item["pkg"]: item for item in index}
-index = list(index.values())
-
-index.sort(key=lambda x: x["pkg"])
-
-with REMOTE_REPO.joinpath("index.json").open("w", encoding="utf-8") as index_file:
-    json.dump(index, index_file, ensure_ascii=False, indent=2)
-
 # Merge index.min.json
 remote_min_path = REMOTE_REPO.joinpath("index.min.json")
 
@@ -104,7 +66,7 @@ shutil.copy2(
 with REMOTE_REPO.joinpath("index.html").open("w", encoding="utf-8") as index_html_file:
     index_html_file.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
     for entry in index:
-        apk_escaped = 'apk/' + html.escape(entry["apk"])
+        apk_escaped = html.escape(entry["apk"])
         name_escaped = html.escape(entry["name"])
         index_html_file.write(f'<a href="{apk_escaped}">{name_escaped}</a>\n')
     index_html_file.write('</pre>\n</body>\n</html>\n')

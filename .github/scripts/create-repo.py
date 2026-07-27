@@ -27,7 +27,7 @@ with open("output.json", encoding="utf-8") as f:
 # Internal extension model
 extensions = []
 
-for apk in REPO_APK_DIR.iterdir():
+for apk in REPO_APK_DIR.glob("*.apk"):
     badging = subprocess.check_output(
         [
             ANDROID_BUILD_TOOLS / "aapt",
@@ -166,7 +166,7 @@ with REPO_DIR.joinpath("repo.json").open("w", encoding="utf-8") as f:
 with REPO_DIR.joinpath("index.html").open("w", encoding="utf-8") as f:
     f.write('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<title>apks</title>\n</head>\n<body>\n<pre>\n')
     for ext in index_data:
-        apk_escaped = 'apk/' + html.escape(ext["apk"])
+        apk_escaped = html.escape(ext["apk"])
         name_escaped = html.escape(ext["name"])
         f.write(f'<a href="{apk_escaped}">{name_escaped}</a>\n')
     f.write('</pre>\n</body>\n</html>\n')

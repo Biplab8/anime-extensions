@@ -82,9 +82,15 @@ if "extensionList" not in remote_repo_data:
         },
     }
 
-remote_repo_exts = remote_repo_data["extensionList"].get("extensions", [])
-local_repo_exts = local_repo_data["extensionList"].get("extensions", [])
+# Ensure extensionList exists
+remote_repo_data.setdefault("extensionList", {})
+remote_repo_data["extensionList"].setdefault("extensions", [])
 
+local_repo_data.setdefault("extensionList", {})
+local_repo_data["extensionList"].setdefault("extensions", [])
+
+remote_repo_exts = remote_repo_data["extensionList"]["extensions"]
+local_repo_exts = local_repo_data["extensionList"]["extensions"]
 repo_exts = [
     item
     for item in remote_repo_exts
@@ -94,6 +100,7 @@ repo_exts = [
 repo_exts.extend(local_repo_exts)
 repo_exts.sort(key=lambda x: x["packageName"])
 
+remote_repo_data.setdefault("extensionList", {})
 remote_repo_data["extensionList"]["extensions"] = repo_exts
 
 with repo_json_path.open("w", encoding="utf-8") as repo_file:

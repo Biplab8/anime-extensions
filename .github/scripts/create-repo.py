@@ -139,7 +139,7 @@ with REPO_DIR.joinpath("index.json").open("w", encoding="utf-8") as f:
 repo_data = {
     "name": "Animetail Extensions",
     "badgeLabel": "Animetail",
-    "signingKey": "SIGNING_KEY",
+    "signingKey": "cb6989feec8a90a43cc9359bc79b2ccdbf22dcbe955a6f39878c0c0bb25d6b99",
     "contact": {
         "website": "https://github.com/Biplab8/anime-extensions",
         "discord": None

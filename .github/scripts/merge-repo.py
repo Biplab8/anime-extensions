@@ -23,18 +23,33 @@ shutil.copytree(src=LOCAL_REPO.joinpath("apk"), dst=REMOTE_REPO.joinpath("apk"),
 shutil.copytree(src=LOCAL_REPO.joinpath("icon"), dst=REMOTE_REPO.joinpath("icon"), dirs_exist_ok=True)
 
 # Merge index.json and index.min.json
-# We read from index.min.json because the older remote index.json might be a metadata dict instead of a list
-with REMOTE_REPO.joinpath("index.min.json").open(encoding="utf-8") as remote_index_file:
-    remote_index = json.load(remote_index_file)
+# Try loading from index.min.json first as it's guaranteed to be a list
+remote_index = []
+try:
+    with REMOTE_REPO.joinpath("index.min.json").open(encoding="utf-8") as remote_index_file:
+        data = json.load(remote_index_file)
+        if isinstance(data, list):
+            remote_index = data
+except (FileNotFoundError, json.JSONDecodeError):
+    # Fallback if index.min.json doesn't exist or is invalid
+    try:
+        with REMOTE_REPO.joinpath("index.json").open(encoding="utf-8") as remote_index_file:
+            data = json.load(remote_index_file)
+            if isinstance(data, list):
+                remote_index = data
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
 
 with LOCAL_REPO.joinpath("index.min.json").open(encoding="utf-8") as local_index_file:
     local_index = json.load(local_index_file)
+    if not isinstance(local_index, list):
+        local_index = []
 
 index = [
     item for item in remote_index
-    if not any(item["pkg"].endswith(f".{module}") for module in to_delete)
+    if isinstance(item, dict) and "pkg" in item and not any(item["pkg"].endswith(f".{module}") for module in to_delete)
 ]
-index.extend(local_index)
+index.extend(item for item in local_index if isinstance(item, dict) and "pkg" in item)
 index.sort(key=lambda x: x["pkg"])
 
 with REMOTE_REPO.joinpath("index.json").open("w", encoding="utf-8") as index_file:

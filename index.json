@@ -236,6 +236,38 @@
     ]
   },
   {
+    "name": "Aniyomi: Jable",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.jable",
+    "apk": "aniyomi-all.jable-v14.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Jable",
+        "lang": "zh",
+        "id": "4927468808524123411",
+        "baseUrl": "https://jable.tv",
+        "versionId": 1
+      },
+      {
+        "name": "Jable",
+        "lang": "en",
+        "id": "889668913079212135",
+        "baseUrl": "https://jable.tv",
+        "versionId": 1
+      },
+      {
+        "name": "Jable",
+        "lang": "ja",
+        "id": "7335707215680841826",
+        "baseUrl": "https://jable.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: JavGG",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.javgg",
     "apk": "aniyomi-all.javgg-v14.19.apk",
@@ -1088,6 +1120,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Tuktuk Cinema",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ar.tuktukcinema",
+    "apk": "aniyomi-ar.tuktukcinema-v14.7.apk",
+    "lang": "ar",
+    "code": 7,
+    "version": "14.7",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "توك توك سينما",
+        "lang": "ar",
+        "id": "7363299109912773155",
+        "baseUrl": "https://tuktukhd.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: WIT ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.witanime",
     "apk": "aniyomi-ar.witanime-v14.61.apk",
@@ -1299,6 +1349,24 @@
         "lang": "de",
         "id": "5798377917298605009",
         "baseUrl": "http://186.2.175.5",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AllAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.allanime",
+    "apk": "aniyomi-en.allanime-v14.56.apk",
+    "lang": "en",
+    "code": 56,
+    "version": "14.56",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AllAnime",
+        "lang": "en",
+        "id": "4709139914729853090",
+        "baseUrl": "https://allmanga.to/anime",
         "versionId": 1
       }
     ]
@@ -1628,6 +1696,24 @@
     ]
   },
   {
+    "name": "Aniyomi: haho.moe",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.hahomoe",
+    "apk": "aniyomi-en.hahomoe-v14.10.apk",
+    "lang": "en",
+    "code": 10,
+    "version": "14.10",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "haho.moe",
+        "lang": "en",
+        "id": "3727306173180829340",
+        "baseUrl": "https://haho.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: hanime.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.hanime",
     "apk": "aniyomi-en.hanime-v14.21.apk",
@@ -1678,6 +1764,24 @@
         "id": "8787688252737895237",
         "baseUrl": "https://hexa.su",
         "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Hstream",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.hstream",
+    "apk": "aniyomi-en.hstream-v14.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "14.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hstream",
+        "lang": "en",
+        "id": "8733115911403916257",
+        "baseUrl": "https://hstream.moe",
+        "versionId": 2
       }
     ]
   },
@@ -1790,6 +1894,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeKai (Unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.kotokai",
+    "apk": "aniyomi-en.kotokai-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimeKai (Unoriginal)",
+        "lang": "en",
+        "id": "1571236147208399860",
+        "baseUrl": "https://animekaitv.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: LuciferDonghua",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.luciferdonghua",
     "apk": "aniyomi-en.luciferdonghua-v14.23.apk",
@@ -1844,6 +1966,24 @@
     ]
   },
   {
+    "name": "Aniyomi: MoviesMod",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.moviesmod",
+    "apk": "aniyomi-en.moviesmod-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Movies Mod",
+        "lang": "en",
+        "id": "2828515480418041073",
+        "baseUrl": "https://moviesmod.red",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Myanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.myanime",
     "apk": "aniyomi-en.myanime-v14.15.apk",
@@ -1857,6 +1997,24 @@
         "lang": "en",
         "id": "4364465995809265087",
         "baseUrl": "https://myanime.live",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: My Running Man",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.myrunningman",
+    "apk": "aniyomi-en.myrunningman-v14.12.apk",
+    "lang": "en",
+    "code": 12,
+    "version": "14.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "My Running Man",
+        "lang": "en",
+        "id": "6399273548157311628",
+        "baseUrl": "https://www.myrunningman.com",
         "versionId": 1
       }
     ]
@@ -3370,6 +3528,24 @@
     ]
   },
   {
+    "name": "Aniyomi: JetAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.fr.jetanime",
+    "apk": "aniyomi-fr.jetanime-v14.22.apk",
+    "lang": "fr",
+    "code": 22,
+    "version": "14.22",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "JetAnime",
+        "lang": "fr",
+        "id": "8914615515692839881",
+        "baseUrl": "https://ssl.jetanimes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: MyKdrama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.mykdrama",
     "apk": "aniyomi-fr.mykdrama-v14.16.apk",
@@ -3509,6 +3685,24 @@
         "lang": "id",
         "id": "4677878836897500878",
         "baseUrl": "https://v8.kuramanime.tel",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Kuronime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.kuronime",
+    "apk": "aniyomi-id.kuronime-v14.13.apk",
+    "lang": "id",
+    "code": 13,
+    "version": "14.13",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kuronime",
+        "lang": "id",
+        "id": "2083695115646974607",
+        "baseUrl": "https://tv1.kuronime.vip",
         "versionId": 1
       }
     ]
@@ -3690,6 +3884,24 @@
         "id": "9100732207446736332",
         "baseUrl": "https://aniplay.co",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Hentai Saturn",
+    "pkg": "eu.kanade.tachiyomi.animeextension.it.hentaisaturn",
+    "apk": "aniyomi-it.hentaisaturn-v14.5.apk",
+    "lang": "it",
+    "code": 5,
+    "version": "14.5",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "HentaiSaturn",
+        "lang": "it",
+        "id": "5832452298268268088",
+        "baseUrl": "https://www.hentaisaturn.com",
+        "versionId": 1
       }
     ]
   },
@@ -4378,6 +4590,49 @@
     ]
   },
   {
+    "name": "Aniyomi: Animevost",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ru.animevost",
+    "apk": "aniyomi-ru.animevost-v14.10.apk",
+    "lang": "ru",
+    "code": 10,
+    "version": "14.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animevost",
+        "lang": "ru",
+        "id": "6632887527758140506",
+        "baseUrl": "https://animevost.org",
+        "versionId": 1
+      },
+      {
+        "name": "Animevost Mirror",
+        "lang": "ru",
+        "id": "6851436110983735038",
+        "baseUrl": "https://v13.vost.pw",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: YummyAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ru.yummyanime",
+    "apk": "aniyomi-ru.yummyanime-v14.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "YummyAnime",
+        "lang": "ru",
+        "id": "6100431890263423378",
+        "baseUrl": "https://ru.yummyani.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimeBalkan",
     "pkg": "eu.kanade.tachiyomi.animeextension.sr.animebalkan",
     "apk": "aniyomi-sr.animebalkan-v14.15.apk",
@@ -4391,6 +4646,24 @@
         "lang": "sr",
         "id": "1322485891319274755",
         "baseUrl": "https://animebalkan.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Anime Srbija",
+    "pkg": "eu.kanade.tachiyomi.animeextension.sr.animesrbija",
+    "apk": "aniyomi-sr.animesrbija-v14.22.apk",
+    "lang": "sr",
+    "code": 22,
+    "version": "14.22",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anime Srbija",
+        "lang": "sr",
+        "id": "789279548118486310",
+        "baseUrl": "https://www.animesrbija.com",
         "versionId": 1
       }
     ]
@@ -4625,6 +4898,24 @@
         "lang": "zh",
         "id": "2853734405579058222",
         "baseUrl": "https://hanime1.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: iyf",
+    "pkg": "eu.kanade.tachiyomi.animeextension.zh.iyf",
+    "apk": "aniyomi-zh.iyf-v14.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "爱壹帆",
+        "lang": "zh",
+        "id": "3164438094592800620",
+        "baseUrl": "https://www.iyf.tv",
         "versionId": 1
       }
     ]

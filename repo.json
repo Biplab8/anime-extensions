@@ -51,6 +51,27 @@
         ]
       },
       {
+        "name": "Aniyomi: Anime Srbija",
+        "packageName": "eu.kanade.tachiyomi.animeextension.sr.animesrbija",
+        "resources": {
+          "apkUrl": "apk/aniyomi-sr.animesrbija-v14.22.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.sr.animesrbija.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 22,
+        "versionName": "14.22",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "789279548118486310",
+            "name": "Anime Srbija",
+            "language": "sr",
+            "homeUrl": "https://www.animesrbija.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Aniyomi: LaMovie",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.lamovie",
         "resources": {
@@ -67,6 +88,69 @@
             "name": "LaMovie",
             "language": "es",
             "homeUrl": "https://la.movie",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: My Running Man",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.myrunningman",
+        "resources": {
+          "apkUrl": "apk/aniyomi-en.myrunningman-v14.12.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.en.myrunningman.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 12,
+        "versionName": "14.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6399273548157311628",
+            "name": "My Running Man",
+            "language": "en",
+            "homeUrl": "https://www.myrunningman.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: JetAnime",
+        "packageName": "eu.kanade.tachiyomi.animeextension.fr.jetanime",
+        "resources": {
+          "apkUrl": "apk/aniyomi-fr.jetanime-v14.22.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.fr.jetanime.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 22,
+        "versionName": "14.22",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8914615515692839881",
+            "name": "JetAnime",
+            "language": "fr",
+            "homeUrl": "https://ssl.jetanimes.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: MoviesMod",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.moviesmod",
+        "resources": {
+          "apkUrl": "apk/aniyomi-en.moviesmod-v14.1.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.en.moviesmod.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 1,
+        "versionName": "14.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2828515480418041073",
+            "name": "Movies Mod",
+            "language": "en",
+            "homeUrl": "https://moviesmod.red",
             "mirrorUrls": []
           }
         ]
@@ -870,6 +954,27 @@
         ]
       },
       {
+        "name": "Aniyomi: Tuktuk Cinema",
+        "packageName": "eu.kanade.tachiyomi.animeextension.ar.tuktukcinema",
+        "resources": {
+          "apkUrl": "apk/aniyomi-ar.tuktukcinema-v14.7.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.ar.tuktukcinema.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 7,
+        "versionName": "14.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7363299109912773155",
+            "name": "توك توك سينما",
+            "language": "ar",
+            "homeUrl": "https://tuktukhd.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Aniyomi: Samehadaku",
         "packageName": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
         "resources": {
@@ -907,6 +1012,27 @@
             "name": "HentaiZM",
             "language": "tr",
             "homeUrl": "https://www.hentaizm6.online",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: YummyAnime",
+        "packageName": "eu.kanade.tachiyomi.animeextension.ru.yummyanime",
+        "resources": {
+          "apkUrl": "apk/aniyomi-ru.yummyanime-v14.1.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.ru.yummyanime.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 1,
+        "versionName": "14.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6100431890263423378",
+            "name": "YummyAnime",
+            "language": "ru",
+            "homeUrl": "https://ru.yummyani.me",
             "mirrorUrls": []
           }
         ]
@@ -1416,6 +1542,27 @@
         ]
       },
       {
+        "name": "Aniyomi: AllAnime",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.allanime",
+        "resources": {
+          "apkUrl": "apk/aniyomi-en.allanime-v14.56.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.en.allanime.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 56,
+        "versionName": "14.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4709139914729853090",
+            "name": "AllAnime",
+            "language": "en",
+            "homeUrl": "https://allmanga.to/anime",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Aniyomi: Anime Fire",
         "packageName": "eu.kanade.tachiyomi.animeextension.pt.animefire",
         "resources": {
@@ -1458,6 +1605,27 @@
         ]
       },
       {
+        "name": "Aniyomi: haho.moe",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hahomoe",
+        "resources": {
+          "apkUrl": "apk/aniyomi-en.hahomoe-v14.10.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.en.hahomoe.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 10,
+        "versionName": "14.10",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3727306173180829340",
+            "name": "haho.moe",
+            "language": "en",
+            "homeUrl": "https://haho.moe",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Aniyomi: Nivod",
         "packageName": "eu.kanade.tachiyomi.animeextension.zh.nivod",
         "resources": {
@@ -1495,6 +1663,41 @@
             "name": "AnimeVerse",
             "language": "en",
             "homeUrl": "https://animeverse.to",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: Jable",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.jable",
+        "resources": {
+          "apkUrl": "apk/aniyomi-all.jable-v14.2.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.all.jable.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 2,
+        "versionName": "14.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4927468808524123411",
+            "name": "Jable",
+            "language": "zh",
+            "homeUrl": "https://jable.tv",
+            "mirrorUrls": []
+          },
+          {
+            "id": "889668913079212135",
+            "name": "Jable",
+            "language": "en",
+            "homeUrl": "https://jable.tv",
+            "mirrorUrls": []
+          },
+          {
+            "id": "7335707215680841826",
+            "name": "Jable",
+            "language": "ja",
+            "homeUrl": "https://jable.tv",
             "mirrorUrls": []
           }
         ]
@@ -1663,6 +1866,27 @@
             "name": "Jkhentai",
             "language": "es",
             "homeUrl": "https://www.jkhentai.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: Hstream",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hstream",
+        "resources": {
+          "apkUrl": "apk/aniyomi-en.hstream-v14.11.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.en.hstream.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 11,
+        "versionName": "14.11",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8733115911403916257",
+            "name": "Hstream",
+            "language": "en",
+            "homeUrl": "https://hstream.moe",
             "mirrorUrls": []
           }
         ]
@@ -3376,6 +3600,27 @@
         ]
       },
       {
+        "name": "Aniyomi: iyf",
+        "packageName": "eu.kanade.tachiyomi.animeextension.zh.iyf",
+        "resources": {
+          "apkUrl": "apk/aniyomi-zh.iyf-v14.1.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.zh.iyf.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 1,
+        "versionName": "14.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3164438094592800620",
+            "name": "爱壹帆",
+            "language": "zh",
+            "homeUrl": "https://www.iyf.tv",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Aniyomi: Kinoking",
         "packageName": "eu.kanade.tachiyomi.animeextension.de.kinoking",
         "resources": {
@@ -4321,6 +4566,27 @@
         ]
       },
       {
+        "name": "Aniyomi: AnimeKai (Unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.kotokai",
+        "resources": {
+          "apkUrl": "apk/aniyomi-en.kotokai-v14.1.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.en.kotokai.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 1,
+        "versionName": "14.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1571236147208399860",
+            "name": "AnimeKai (Unoriginal)",
+            "language": "en",
+            "homeUrl": "https://animekaitv.to",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Aniyomi: AnimeWorld India",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.animeworldindia",
         "resources": {
@@ -4393,6 +4659,27 @@
             "name": "AnimeWorld India",
             "language": "te",
             "homeUrl": "https://anime-world.co",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: Hentai Saturn",
+        "packageName": "eu.kanade.tachiyomi.animeextension.it.hentaisaturn",
+        "resources": {
+          "apkUrl": "apk/aniyomi-it.hentaisaturn-v14.5.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.it.hentaisaturn.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 5,
+        "versionName": "14.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5832452298268268088",
+            "name": "HentaiSaturn",
+            "language": "it",
+            "homeUrl": "https://www.hentaisaturn.com",
             "mirrorUrls": []
           }
         ]
@@ -5140,6 +5427,34 @@
         ]
       },
       {
+        "name": "Aniyomi: Animevost",
+        "packageName": "eu.kanade.tachiyomi.animeextension.ru.animevost",
+        "resources": {
+          "apkUrl": "apk/aniyomi-ru.animevost-v14.10.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.ru.animevost.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 10,
+        "versionName": "14.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6632887527758140506",
+            "name": "Animevost",
+            "language": "ru",
+            "homeUrl": "https://animevost.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": "6851436110983735038",
+            "name": "Animevost Mirror",
+            "language": "ru",
+            "homeUrl": "https://v13.vost.pw",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Aniyomi: Serienstream",
         "packageName": "eu.kanade.tachiyomi.animeextension.de.serienstream",
         "resources": {
@@ -5408,6 +5723,27 @@
             "name": "desu-online",
             "language": "pl",
             "homeUrl": "https://desu-online.pl",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aniyomi: Kuronime",
+        "packageName": "eu.kanade.tachiyomi.animeextension.id.kuronime",
+        "resources": {
+          "apkUrl": "apk/aniyomi-id.kuronime-v14.13.apk",
+          "iconUrl": "icon/eu.kanade.tachiyomi.animeextension.id.kuronime.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 13,
+        "versionName": "14.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2083695115646974607",
+            "name": "Kuronime",
+            "language": "id",
+            "homeUrl": "https://tv1.kuronime.vip",
             "mirrorUrls": []
           }
         ]

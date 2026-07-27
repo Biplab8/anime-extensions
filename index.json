@@ -1,5 +1,5 @@
 {
-  "index_v2": "index.min.json",
+  "index_v2": "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime-repo/index.min.json",
   "meta": {
     "name": "Animetail Extensions",
     "shortName": "Animetail",

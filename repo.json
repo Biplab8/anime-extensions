@@ -21,7 +21,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "297628545340942341",
+            "id": 297628545340942341,
             "name": "AniList",
             "language": "en",
             "homeUrl": "https://anilist.co",
@@ -42,7 +42,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4383278740715532790",
+            "id": 4383278740715532790,
             "name": "AniWave (Unoriginal)",
             "language": "en",
             "homeUrl": "https://animewave.to",
@@ -63,7 +63,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "789279548118486310",
+            "id": 789279548118486310,
             "name": "Anime Srbija",
             "language": "sr",
             "homeUrl": "https://www.animesrbija.com",
@@ -84,7 +84,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5419283741928374105",
+            "id": 5419283741928374105,
             "name": "LaMovie",
             "language": "es",
             "homeUrl": "https://la.movie",
@@ -105,7 +105,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6399273548157311628",
+            "id": 6399273548157311628,
             "name": "My Running Man",
             "language": "en",
             "homeUrl": "https://www.myrunningman.com",
@@ -126,7 +126,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8914615515692839881",
+            "id": 8914615515692839881,
             "name": "JetAnime",
             "language": "fr",
             "homeUrl": "https://ssl.jetanimes.com",
@@ -147,7 +147,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2828515480418041073",
+            "id": 2828515480418041073,
             "name": "Movies Mod",
             "language": "en",
             "homeUrl": "https://moviesmod.red",
@@ -168,7 +168,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8402300441936118056",
+            "id": 8402300441936118056,
             "name": "Egy Dead",
             "language": "ar",
             "homeUrl": "https://egydead.space",
@@ -189,7 +189,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "661928073480792687",
+            "id": 661928073480792687,
             "name": "CineCalidad",
             "language": "es",
             "homeUrl": "https://www.cinecalidad.ec",
@@ -210,7 +210,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5503541725559168140",
+            "id": 5503541725559168140,
             "name": "Animeito",
             "language": "pt-BR",
             "homeUrl": "https://animesonline.io",
@@ -231,7 +231,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5750955808412743706",
+            "id": 5750955808412743706,
             "name": "DonghuaStream",
             "language": "en",
             "homeUrl": "https://donghuastream.org",
@@ -252,7 +252,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7490206640756700883",
+            "id": 7490206640756700883,
             "name": "Torrentio Anime (Torrent / Debrid)",
             "language": "all",
             "homeUrl": "https://torrentio.strem.fun",
@@ -273,7 +273,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2765997893095141044",
+            "id": 2765997893095141044,
             "name": "AnimeOnline.Ninja",
             "language": "es",
             "homeUrl": "https://ver.animeonline.ninja",
@@ -294,7 +294,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4364465995809265087",
+            "id": 4364465995809265087,
             "name": "Myanime",
             "language": "en",
             "homeUrl": "https://myanime.live",
@@ -315,7 +315,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7306944860534104910",
+            "id": 7306944860534104910,
             "name": "kissanime.com.ru",
             "language": "en",
             "homeUrl": "https://kissanime.com.ru",
@@ -336,7 +336,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6896649241746590059",
+            "id": 6896649241746590059,
             "name": "Gnula",
             "language": "es",
             "homeUrl": "https://gnula.life",
@@ -357,7 +357,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3103642053214293691",
+            "id": 3103642053214293691,
             "name": "Anizm",
             "language": "tr",
             "homeUrl": "https://anizm.net",
@@ -378,7 +378,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1853973586604481267",
+            "id": 1853973586604481267,
             "name": "Xnxx",
             "language": "all",
             "homeUrl": "https://www.xnxx.com",
@@ -399,7 +399,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "885919523581666049",
+            "id": 885919523581666049,
             "name": "Doramasyt",
             "language": "es",
             "homeUrl": "https://www.doramasyt.com",
@@ -420,7 +420,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3718439836617642466",
+            "id": 3718439836617642466,
             "name": "Animes CX",
             "language": "pt-BR",
             "homeUrl": "https://animescx.com.br",
@@ -441,7 +441,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2607995207802293539",
+            "id": 2607995207802293539,
             "name": "TR Anime Izle",
             "language": "tr",
             "homeUrl": "https://www.tranimeizle.io",
@@ -462,7 +462,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "203922289858257167",
+            "id": 203922289858257167,
             "name": "Kayoanime",
             "language": "en",
             "homeUrl": "https://kayoanime.com",
@@ -483,7 +483,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1449801594109278557",
+            "id": 1449801594109278557,
             "name": "EmpireStreaming",
             "language": "fr",
             "homeUrl": "https://empire-stream.net",
@@ -504,7 +504,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3000709501394043899",
+            "id": 3000709501394043899,
             "name": "Animes BR",
             "language": "pt-BR",
             "homeUrl": "https://animesbr.tv",
@@ -525,7 +525,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7409266434239021230",
+            "id": 7409266434239021230,
             "name": "Shabakaty Cinemana",
             "language": "all",
             "homeUrl": "https://cinemana.shabakaty.com",
@@ -546,7 +546,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1863212142777957799",
+            "id": 1863212142777957799,
             "name": "AnimeSaturn",
             "language": "it",
             "homeUrl": "https://www.anisaturn.net",
@@ -567,7 +567,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7160915998368939090",
+            "id": 7160915998368939090,
             "name": "SmartAnimes",
             "language": "pt-BR",
             "homeUrl": "https://smartanimes.net",
@@ -588,7 +588,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "6962698096138673113",
+            "id": 6962698096138673113,
             "name": "Animes Online Cloud",
             "language": "pt-BR",
             "homeUrl": "https://animesonline.cloud",
@@ -609,7 +609,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1539162878022626585",
+            "id": 1539162878022626585,
             "name": "Türk Anime TV",
             "language": "tr",
             "homeUrl": "https://www.turkanime.tv",
@@ -630,7 +630,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6601315231151625432",
+            "id": 6601315231151625432,
             "name": "ANIMEWORLD.tv",
             "language": "it",
             "homeUrl": "https://www.animeworld.ac",
@@ -651,7 +651,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2386616842414617638",
+            "id": 2386616842414617638,
             "name": "AnimeToast",
             "language": "de",
             "homeUrl": "https://www.animetoast.cc",
@@ -672,7 +672,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4419048029031752703",
+            "id": 4419048029031752703,
             "name": "PelisForte",
             "language": "es",
             "homeUrl": "https://www2.pelisforte.se",
@@ -693,7 +693,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7053678650145882822",
+            "id": 7053678650145882822,
             "name": "HDFilmCehennemi",
             "language": "tr",
             "homeUrl": "https://www.hdfilmcehennemi.nl",
@@ -714,7 +714,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "314593699490737069",
+            "id": 314593699490737069,
             "name": "Anime-Stream",
             "language": "de",
             "homeUrl": "https://anime-stream.to",
@@ -735,7 +735,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8868273686324481907",
+            "id": 8868273686324481907,
             "name": "稀饭动漫",
             "language": "zh",
             "homeUrl": "https://anime.xifanacg.com",
@@ -756,7 +756,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8394381853778573358",
+            "id": 8394381853778573358,
             "name": "Meus Animes",
             "language": "pt-BR",
             "homeUrl": "https://meusanimes.vip",
@@ -777,7 +777,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6830054141432094072",
+            "id": 6830054141432094072,
             "name": "Tiodonghua.com",
             "language": "es",
             "homeUrl": "https://anime.tiodonghua.com",
@@ -798,7 +798,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4928029692398241219",
+            "id": 4928029692398241219,
             "name": "次元城动漫",
             "language": "zh",
             "homeUrl": "https://www.cycani.org",
@@ -819,7 +819,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7386550303236826765",
+            "id": 7386550303236826765,
             "name": "Animes Online CC",
             "language": "pt-BR",
             "homeUrl": "https://animesonlinecc.to",
@@ -840,7 +840,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "6722573244246256733",
+            "id": 6722573244246256733,
             "name": "Animenosub",
             "language": "en",
             "homeUrl": "https://animenosub.to",
@@ -861,7 +861,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5602415922350710914",
+            "id": 5602415922350710914,
             "name": "Kool",
             "language": "de",
             "homeUrl": "https://www.kool.to",
@@ -882,7 +882,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2117238897122405265",
+            "id": 2117238897122405265,
             "name": "Cineplus123",
             "language": "es",
             "homeUrl": "https://cineplus123.org",
@@ -903,7 +903,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "9219401167730918156",
+            "id": 9219401167730918156,
             "name": "EstrenosDoramas",
             "language": "es",
             "homeUrl": "https://estrenosdoramas.es",
@@ -924,7 +924,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2083042094654392493",
+            "id": 2083042094654392493,
             "name": "Asia2TV",
             "language": "ar",
             "homeUrl": "https://ww1.asia2tv.pw",
@@ -945,7 +945,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4846722280190238047",
+            "id": 4846722280190238047,
             "name": "Movie4k",
             "language": "de",
             "homeUrl": "https://movie4k.stream",
@@ -966,7 +966,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7363299109912773155",
+            "id": 7363299109912773155,
             "name": "توك توك سينما",
             "language": "ar",
             "homeUrl": "https://tuktukhd.com",
@@ -987,7 +987,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7446063017613536202",
+            "id": 7446063017613536202,
             "name": "Samehadaku",
             "language": "id",
             "homeUrl": "https://v2.samehadaku.how",
@@ -1008,7 +1008,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "9058842310298227429",
+            "id": 9058842310298227429,
             "name": "HentaiZM",
             "language": "tr",
             "homeUrl": "https://www.hentaizm6.online",
@@ -1029,7 +1029,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6100431890263423378",
+            "id": 6100431890263423378,
             "name": "YummyAnime",
             "language": "ru",
             "homeUrl": "https://ru.yummyani.me",
@@ -1050,7 +1050,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2156984402743841841",
+            "id": 2156984402743841841,
             "name": "AnimeKhor",
             "language": "en",
             "homeUrl": "https://animekhor.org",
@@ -1071,7 +1071,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1938195875614354298",
+            "id": 1938195875614354298,
             "name": "Oppai Stream",
             "language": "en",
             "homeUrl": "https://oppai.stream",
@@ -1092,7 +1092,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7859804793032054884",
+            "id": 7859804793032054884,
             "name": "小宝影院",
             "language": "zh",
             "homeUrl": "https://xiaoxintv.cc",
@@ -1113,7 +1113,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4620219025406449669",
+            "id": 4620219025406449669,
             "name": "AnimeXin",
             "language": "all",
             "homeUrl": "https://animexin.dev",
@@ -1134,7 +1134,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1563723619853520901",
+            "id": 1563723619853520901,
             "name": "AnimeAv1",
             "language": "es",
             "homeUrl": "https://animeav1.com",
@@ -1155,7 +1155,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8766955949256845198",
+            "id": 8766955949256845198,
             "name": "Subsplease",
             "language": "all",
             "homeUrl": "https://subsplease.org",
@@ -1176,7 +1176,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2853734405579058222",
+            "id": 2853734405579058222,
             "name": "Hanime1.me",
             "language": "zh",
             "homeUrl": "https://hanime1.me",
@@ -1197,7 +1197,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8286900189409315836",
+            "id": 8286900189409315836,
             "name": "AniWorld",
             "language": "de",
             "homeUrl": "https://aniworld.to",
@@ -1218,7 +1218,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4144024127778211557",
+            "id": 4144024127778211557,
             "name": "WCOStream",
             "language": "en",
             "homeUrl": "https://www.wcostream.tv",
@@ -1239,7 +1239,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "6456382572881676651",
+            "id": 6456382572881676651,
             "name": "AnimePlayer",
             "language": "pt-BR",
             "homeUrl": "https://animeplayer.com.br",
@@ -1260,7 +1260,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1190488322033769414",
+            "id": 1190488322033769414,
             "name": "Donghua no Sekai",
             "language": "pt-BR",
             "homeUrl": "https://donghuanosekai.com",
@@ -1281,7 +1281,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7657190496536415953",
+            "id": 7657190496536415953,
             "name": "MyKdrama",
             "language": "fr",
             "homeUrl": "https://mykdrama.co",
@@ -1302,7 +1302,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "582068848290425167",
+            "id": 582068848290425167,
             "name": "UHD Movies",
             "language": "en",
             "homeUrl": "https://uhdmovies.vip",
@@ -1323,7 +1323,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "9168084761765988435",
+            "id": 9168084761765988435,
             "name": "123Anime",
             "language": "en",
             "homeUrl": "https://123anime.ru",
@@ -1344,7 +1344,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8639880285552928628",
+            "id": 8639880285552928628,
             "name": "ChineseAnime",
             "language": "all",
             "homeUrl": "https://www.chineseanime.vip",
@@ -1365,7 +1365,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7685749277599065785",
+            "id": 7685749277599065785,
             "name": "LocoPelis",
             "language": "es",
             "homeUrl": "https://www.locopelis.com",
@@ -1386,7 +1386,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8456322126210259639",
+            "id": 8456322126210259639,
             "name": "AnimeSogo",
             "language": "en",
             "homeUrl": "https://animesogo.to",
@@ -1407,7 +1407,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4812325950703384298",
+            "id": 4812325950703384298,
             "name": "MhdFlix",
             "language": "es",
             "homeUrl": "https://ww1.mhdflix.com",
@@ -1428,7 +1428,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7558489246571085102",
+            "id": 7558489246571085102,
             "name": "GoogleDriveIndex",
             "language": "all",
             "homeUrl": "",
@@ -1449,7 +1449,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "429519413057267556",
+            "id": 429519413057267556,
             "name": "Dattebayo BR",
             "language": "pt-BR",
             "homeUrl": "https://www.dattebayo-br.com",
@@ -1470,7 +1470,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6594370763071208431",
+            "id": 6594370763071208431,
             "name": "Animeler",
             "language": "tr",
             "homeUrl": "https://animeler.pw",
@@ -1491,7 +1491,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7257892387451890645",
+            "id": 7257892387451890645,
             "name": "Latanime",
             "language": "es",
             "homeUrl": "https://latanime.org",
@@ -1512,7 +1512,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8121834351495460193",
+            "id": 8121834351495460193,
             "name": "Anime1.me",
             "language": "zh-hant",
             "homeUrl": "https://anime1.me",
@@ -1533,7 +1533,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8167780943978050375",
+            "id": 8167780943978050375,
             "name": "VerPelisTop",
             "language": "es",
             "homeUrl": "https://www1.verpelis.top",
@@ -1554,7 +1554,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4709139914729853090",
+            "id": 4709139914729853090,
             "name": "AllAnime",
             "language": "en",
             "homeUrl": "https://allmanga.to/anime",
@@ -1575,7 +1575,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2914332399101546717",
+            "id": 2914332399101546717,
             "name": "Anime Fire",
             "language": "pt-BR",
             "homeUrl": "https://animefire.io",
@@ -1596,7 +1596,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8309061778249307518",
+            "id": 8309061778249307518,
             "name": "VVVVID",
             "language": "it",
             "homeUrl": "https://www.vvvvid.it",
@@ -1617,7 +1617,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3727306173180829340",
+            "id": 3727306173180829340,
             "name": "haho.moe",
             "language": "en",
             "homeUrl": "https://haho.moe",
@@ -1638,7 +1638,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1182396933972053592",
+            "id": 1182396933972053592,
             "name": "泥视频",
             "language": "zh",
             "homeUrl": "https://www.nivod.cc",
@@ -1659,7 +1659,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2210523582293472538",
+            "id": 2210523582293472538,
             "name": "AnimeVerse",
             "language": "en",
             "homeUrl": "https://animeverse.to",
@@ -1680,21 +1680,21 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4927468808524123411",
+            "id": 4927468808524123411,
             "name": "Jable",
             "language": "zh",
             "homeUrl": "https://jable.tv",
             "mirrorUrls": []
           },
           {
-            "id": "889668913079212135",
+            "id": 889668913079212135,
             "name": "Jable",
             "language": "en",
             "homeUrl": "https://jable.tv",
             "mirrorUrls": []
           },
           {
-            "id": "7335707215680841826",
+            "id": 7335707215680841826,
             "name": "Jable",
             "language": "ja",
             "homeUrl": "https://jable.tv",
@@ -1715,7 +1715,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "59748104323952005",
+            "id": 59748104323952005,
             "name": "DarkMahou (Torrent)",
             "language": "pt-BR",
             "homeUrl": "https://darkmahou.org",
@@ -1736,7 +1736,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1400819034564144238",
+            "id": 1400819034564144238,
             "name": "PelisPlusHD",
             "language": "es",
             "homeUrl": "https://pelisplushd.bz",
@@ -1757,7 +1757,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8569022244537791293",
+            "id": 8569022244537791293,
             "name": "PinoyMoviePedia",
             "language": "en",
             "homeUrl": "https://pinoymoviepedia.ru",
@@ -1778,7 +1778,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1898818943039425198",
+            "id": 1898818943039425198,
             "name": "AniSama",
             "language": "fr",
             "homeUrl": "https://v1.animesz.xyz",
@@ -1799,7 +1799,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1547119562002827048",
+            "id": 1547119562002827048,
             "name": "Animenix",
             "language": "es",
             "homeUrl": "https://animenix.com",
@@ -1820,7 +1820,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2012826325126448867",
+            "id": 2012826325126448867,
             "name": "AsyaAnimeleri",
             "language": "tr",
             "homeUrl": "https://asyaanimeleri.top",
@@ -1841,7 +1841,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3319373396687010408",
+            "id": 3319373396687010408,
             "name": "AnimeParadise",
             "language": "en",
             "homeUrl": "https://www.animeparadise.moe",
@@ -1862,7 +1862,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "5893372327521334179",
+            "id": 5893372327521334179,
             "name": "Jkhentai",
             "language": "es",
             "homeUrl": "https://www.jkhentai.net",
@@ -1883,7 +1883,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8733115911403916257",
+            "id": 8733115911403916257,
             "name": "Hstream",
             "language": "en",
             "homeUrl": "https://hstream.moe",
@@ -1904,7 +1904,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3666901064696818585",
+            "id": 3666901064696818585,
             "name": "AnimeQ",
             "language": "pt-BR",
             "homeUrl": "https://animeq.net",
@@ -1925,7 +1925,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1844040902149745273",
+            "id": 1844040902149745273,
             "name": "OtakuFR",
             "language": "fr",
             "homeUrl": "https://otakufr.cc",
@@ -1946,7 +1946,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1014227790860730234",
+            "id": 1014227790860730234,
             "name": "AV1Encodes",
             "language": "en",
             "homeUrl": "https://av1encodes.com",
@@ -1967,7 +1967,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5750872840863097496",
+            "id": 5750872840863097496,
             "name": "AsiaLiveAction",
             "language": "es",
             "homeUrl": "https://asialiveaction.com",
@@ -1988,7 +1988,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8142032927870763721",
+            "id": 8142032927870763721,
             "name": "French Anime",
             "language": "fr",
             "homeUrl": "https://french-anime.com",
@@ -2009,7 +2009,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4654371105831183338",
+            "id": 4654371105831183338,
             "name": "SuperStream",
             "language": "en",
             "homeUrl": "https://showbox.shegu.net/api/api_client/index/",
@@ -2030,7 +2030,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3378993382379910095",
+            "id": 3378993382379910095,
             "name": "JavGG",
             "language": "all",
             "homeUrl": "https://javgg.net",
@@ -2051,7 +2051,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1062606379654091909",
+            "id": 1062606379654091909,
             "name": "Muito Hentai",
             "language": "pt-BR",
             "homeUrl": "https://www.muitohentai.com",
@@ -2072,7 +2072,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6170936930338275444",
+            "id": 6170936930338275444,
             "name": "Anime-Sama",
             "language": "fr",
             "homeUrl": "https://anime-sama.to",
@@ -2093,7 +2093,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5805164799487731673",
+            "id": 5805164799487731673,
             "name": "WcoForever",
             "language": "en",
             "homeUrl": "https://www.wcoforever.net",
@@ -2114,7 +2114,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2275740574829569178",
+            "id": 2275740574829569178,
             "name": "Okanime",
             "language": "ar",
             "homeUrl": "https://www.okanime.xyz",
@@ -2135,7 +2135,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7694781769943581537",
+            "id": 7694781769943581537,
             "name": "ArabAnime",
             "language": "ar",
             "homeUrl": "https://www.arabanime.net",
@@ -2156,7 +2156,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1955566742338181506",
+            "id": 1955566742338181506,
             "name": "Doramasflix",
             "language": "es",
             "homeUrl": "https://doramasflix.in",
@@ -2177,21 +2177,21 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4473019365642465410",
+            "id": 4473019365642465410,
             "name": "SupJav",
             "language": "en",
             "homeUrl": "https://supjav.com",
             "mirrorUrls": []
           },
           {
-            "id": "3152122063691493374",
+            "id": 3152122063691493374,
             "name": "SupJav",
             "language": "ja",
             "homeUrl": "https://supjav.com",
             "mirrorUrls": []
           },
           {
-            "id": "2689098384082963484",
+            "id": 2689098384082963484,
             "name": "SupJav",
             "language": "zh",
             "homeUrl": "https://supjav.com",
@@ -2212,7 +2212,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8546813608934181796",
+            "id": 8546813608934181796,
             "name": "Jav Guru",
             "language": "all",
             "homeUrl": "https://jav.guru",
@@ -2233,7 +2233,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "6593176551595101740",
+            "id": 6593176551595101740,
             "name": "VoirCartoon",
             "language": "fr",
             "homeUrl": "https://voircartoon.com",
@@ -2254,7 +2254,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3206613581297348563",
+            "id": 3206613581297348563,
             "name": "HDS",
             "language": "fr",
             "homeUrl": "https://on1.hds.quest",
@@ -2275,7 +2275,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3333993424729096948",
+            "id": 3333993424729096948,
             "name": "Wbijam",
             "language": "pl",
             "homeUrl": "https://wbijam.pl",
@@ -2296,7 +2296,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "9061916959875958361",
+            "id": 9061916959875958361,
             "name": "Samato's Den: Videos",
             "language": "es",
             "homeUrl": "https://samatoden.blogspot.com",
@@ -2317,7 +2317,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6698339357657312694",
+            "id": 6698339357657312694,
             "name": "NeoNime",
             "language": "id",
             "homeUrl": "https://neonime.ink",
@@ -2338,7 +2338,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5743347900850233900",
+            "id": 5743347900850233900,
             "name": "أنمي بالكوم",
             "language": "ar",
             "homeUrl": "https://animeblkom.net",
@@ -2359,7 +2359,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3770577718621723403",
+            "id": 3770577718621723403,
             "name": "Cineby",
             "language": "en",
             "homeUrl": "https://www.cineby.at",
@@ -2380,7 +2380,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3082275639294081311",
+            "id": 3082275639294081311,
             "name": "Sushi Animes",
             "language": "pt-BR",
             "homeUrl": "https://sushianimes.com.br",
@@ -2401,7 +2401,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8425771932667600381",
+            "id": 8425771932667600381,
             "name": "Stremio",
             "language": "all",
             "homeUrl": "https://app.strem.io/shell-v4.4",
@@ -2422,7 +2422,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4435835034990361158",
+            "id": 4435835034990361158,
             "name": "Animerco",
             "language": "ar",
             "homeUrl": "https://zeta.animerco.org",
@@ -2443,7 +2443,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5412136569974245348",
+            "id": 5412136569974245348,
             "name": "AnimeLatinoHD",
             "language": "es",
             "homeUrl": "https://www.animelatinohd.com",
@@ -2464,7 +2464,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4877286181768246205",
+            "id": 4877286181768246205,
             "name": "Animes Digital",
             "language": "pt-BR",
             "homeUrl": "https://animesdigital.org",
@@ -2485,7 +2485,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7762808921754601430",
+            "id": 7762808921754601430,
             "name": "AnimeUnity",
             "language": "it",
             "homeUrl": "https://www.animeunity.so",
@@ -2506,7 +2506,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4697393375201558791",
+            "id": 4697393375201558791,
             "name": "Anikoto",
             "language": "en",
             "homeUrl": "https://anikototv.to",
@@ -2527,7 +2527,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6760309784631443658",
+            "id": 6760309784631443658,
             "name": "Moflix-Stream",
             "language": "de",
             "homeUrl": "https://moflix-stream.xyz",
@@ -2548,7 +2548,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8787688252737895237",
+            "id": 8787688252737895237,
             "name": "HexaWatch",
             "language": "en",
             "homeUrl": "https://hexa.su",
@@ -2569,7 +2569,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "975930199828232260",
+            "id": 975930199828232260,
             "name": "Anikage",
             "language": "en",
             "homeUrl": "https://anikage.cc",
@@ -2590,7 +2590,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6519826467833124450",
+            "id": 6519826467833124450,
             "name": "Animes Games",
             "language": "pt-BR",
             "homeUrl": "https://animesgames.cc",
@@ -2611,7 +2611,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8058040181507333420",
+            "id": 8058040181507333420,
             "name": "VerSeriesOnline",
             "language": "es",
             "homeUrl": "https://www.verseriesonline.net",
@@ -2632,7 +2632,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3422641844834047610",
+            "id": 3422641844834047610,
             "name": "MiniOppai",
             "language": "id",
             "homeUrl": "https://minioppai.org",
@@ -2653,7 +2653,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3556703948634317295",
+            "id": 3556703948634317295,
             "name": "AniDB",
             "language": "en",
             "homeUrl": "https://anidb.app",
@@ -2674,7 +2674,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2476297921251317481",
+            "id": 2476297921251317481,
             "name": "VerAni.me",
             "language": "es",
             "homeUrl": "https://verani.me",
@@ -2695,7 +2695,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1437838328434413410",
+            "id": 1437838328434413410,
             "name": "BLZone",
             "language": "en",
             "homeUrl": "https://blzone.net",
@@ -2716,7 +2716,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "9212790518101043860",
+            "id": 9212790518101043860,
             "name": "Rule34Video",
             "language": "en",
             "homeUrl": "https://rule34video.com",
@@ -2737,7 +2737,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1901838936011764172",
+            "id": 1901838936011764172,
             "name": "AnimeFenix",
             "language": "es",
             "homeUrl": "https://animefenix2.tv",
@@ -2758,7 +2758,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "302544302370133084",
+            "id": 302544302370133084,
             "name": "MetroSeries",
             "language": "es",
             "homeUrl": "https://www3.seriesmetro.net",
@@ -2779,7 +2779,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1705636111422561130",
+            "id": 1705636111422561130,
             "name": "PelisPlusTo",
             "language": "es",
             "homeUrl": "https://tioplus.app",
@@ -2800,7 +2800,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2514899426758091629",
+            "id": 2514899426758091629,
             "name": "PTorrent (Torrent)",
             "language": "all",
             "homeUrl": "https://www.ptorrents.com",
@@ -2821,7 +2821,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7117595939095792520",
+            "id": 7117595939095792520,
             "name": "Animeiat",
             "language": "ar",
             "homeUrl": "https://api.animeiat.co/v1",
@@ -2842,7 +2842,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1270541458457028378",
+            "id": 1270541458457028378,
             "name": "FanPelis",
             "language": "es",
             "homeUrl": "https://fanpelis.la",
@@ -2863,7 +2863,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "735529755877348598",
+            "id": 735529755877348598,
             "name": "AnimeLek",
             "language": "ar",
             "homeUrl": "https://animelek.me",
@@ -2884,7 +2884,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7487458127391606163",
+            "id": 7487458127391606163,
             "name": "Zonaleros",
             "language": "es",
             "homeUrl": "https://www.zona-leros.com",
@@ -2905,7 +2905,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "648702763126013078",
+            "id": 648702763126013078,
             "name": "WcoTv",
             "language": "en",
             "homeUrl": "https://www.wco.tv",
@@ -2926,7 +2926,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "734961575978606843",
+            "id": 734961575978606843,
             "name": "Animes ROLL",
             "language": "pt-BR",
             "homeUrl": "https://anroll.tv",
@@ -2947,28 +2947,28 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "665657603807796138",
+            "id": 665657603807796138,
             "name": "StreamingUnity (Movie)",
             "language": "en",
             "homeUrl": "https://streamingunity.biz/en",
             "mirrorUrls": []
           },
           {
-            "id": "502708102217708509",
+            "id": 502708102217708509,
             "name": "StreamingUnity (Movie)",
             "language": "it",
             "homeUrl": "https://streamingunity.biz/it",
             "mirrorUrls": []
           },
           {
-            "id": "349088835984594821",
+            "id": 349088835984594821,
             "name": "StreamingUnity (Tv)",
             "language": "en",
             "homeUrl": "https://streamingunity.biz/en",
             "mirrorUrls": []
           },
           {
-            "id": "7246470104959245892",
+            "id": 7246470104959245892,
             "name": "StreamingUnity (Tv)",
             "language": "it",
             "homeUrl": "https://streamingunity.biz/it",
@@ -2989,7 +2989,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2934893552535692335",
+            "id": 2934893552535692335,
             "name": "Animejl",
             "language": "es",
             "homeUrl": "https://www.anime-jl.net",
@@ -3010,7 +3010,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "865558085806297637",
+            "id": 865558085806297637,
             "name": "JPFilms",
             "language": "en",
             "homeUrl": "https://jp-films.com",
@@ -3031,7 +3031,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1915898919039572670",
+            "id": 1915898919039572670,
             "name": "UniqueStream",
             "language": "en",
             "homeUrl": "https://uniquestream.net",
@@ -3052,7 +3052,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2714169179278506077",
+            "id": 2714169179278506077,
             "name": "SoloLatino",
             "language": "es",
             "homeUrl": "https://sololatino.net",
@@ -3073,7 +3073,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "6447194598203666818",
+            "id": 6447194598203666818,
             "name": "Hentaila",
             "language": "es",
             "homeUrl": "https://hentaila.com",
@@ -3094,7 +3094,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "824133852049869443",
+            "id": 824133852049869443,
             "name": "Debrid Index",
             "language": "all",
             "homeUrl": "https://torrentio.strem.fun",
@@ -3115,14 +3115,14 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8064568253800947423",
+            "id": 8064568253800947423,
             "name": "Cuevana3Ch",
             "language": "es",
             "homeUrl": "https://ww1.cuevana3.ch",
             "mirrorUrls": []
           },
           {
-            "id": "1487248605713977697",
+            "id": 1487248605713977697,
             "name": "Cuevana3Eu",
             "language": "es",
             "homeUrl": "https://www.cuevana3.eu",
@@ -3143,7 +3143,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "594564153449456404",
+            "id": 594564153449456404,
             "name": "Docchi",
             "language": "pl",
             "homeUrl": "https://docchi.pl",
@@ -3164,7 +3164,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3892773447316414021",
+            "id": 3892773447316414021,
             "name": "AnimeMovil",
             "language": "es",
             "homeUrl": "https://animemeow.xyz",
@@ -3185,7 +3185,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5563793683192822639",
+            "id": 5563793683192822639,
             "name": "AnimeVostFr",
             "language": "fr",
             "homeUrl": "https://animevostfr.tv",
@@ -3206,7 +3206,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1202443264869837465",
+            "id": 1202443264869837465,
             "name": "Hackstore",
             "language": "es",
             "homeUrl": "https://www.hackstore.fo",
@@ -3227,7 +3227,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4361637123039891722",
+            "id": 4361637123039891722,
             "name": "Anikyuu",
             "language": "pt-BR",
             "homeUrl": "https://anikyuu.to",
@@ -3248,7 +3248,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4077428168272340843",
+            "id": 4077428168272340843,
             "name": "UFDub",
             "language": "uk",
             "homeUrl": "https://ufdub.com/anime",
@@ -3269,7 +3269,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7726637677864789742",
+            "id": 7726637677864789742,
             "name": "HentaiTk",
             "language": "es",
             "homeUrl": "https://hentaitk.net",
@@ -3290,7 +3290,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1192827176989085393",
+            "id": 1192827176989085393,
             "name": "VeoHentai",
             "language": "es",
             "homeUrl": "https://veohentai.com",
@@ -3311,7 +3311,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3688044905832724625",
+            "id": 3688044905832724625,
             "name": "Torrentio (Torrent / Debrid)",
             "language": "all",
             "homeUrl": "https://torrentio.strem.fun",
@@ -3332,7 +3332,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4544379135186887077",
+            "id": 4544379135186887077,
             "name": "عرب سيد",
             "language": "ar",
             "homeUrl": "https://m.asd.homes",
@@ -3353,7 +3353,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "431438597808105152",
+            "id": 431438597808105152,
             "name": "Cine24h",
             "language": "es",
             "homeUrl": "https://cine24h.online",
@@ -3374,7 +3374,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2649711761599612719",
+            "id": 2649711761599612719,
             "name": "hanime.tv",
             "language": "en",
             "homeUrl": "https://hanime.tv",
@@ -3395,7 +3395,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "9014633682469494124",
+            "id": 9014633682469494124,
             "name": "سيما ليك",
             "language": "ar",
             "homeUrl": "https://m.cimaleek.to",
@@ -3416,7 +3416,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6007374093317538838",
+            "id": 6007374093317538838,
             "name": "Jkanime",
             "language": "es",
             "homeUrl": "https://jkanime.net",
@@ -3437,7 +3437,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "6170414613821552199",
+            "id": 6170414613821552199,
             "name": "Animes Drive",
             "language": "pt-BR",
             "homeUrl": "https://animesdrive.online",
@@ -3458,7 +3458,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7149332646839704216",
+            "id": 7149332646839704216,
             "name": "Wiflix",
             "language": "fr",
             "homeUrl": "https://flemmix.best",
@@ -3479,7 +3479,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3947801646056600641",
+            "id": 3947801646056600641,
             "name": "NimeGami",
             "language": "id",
             "homeUrl": "https://nimegami.id",
@@ -3500,14 +3500,14 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "5310001068353260432",
+            "id": 5310001068353260432,
             "name": "Nyaa (Torrent)",
             "language": "all",
             "homeUrl": "https://nyaa.si/",
             "mirrorUrls": []
           },
           {
-            "id": "9136480360798112194",
+            "id": 9136480360798112194,
             "name": "Nyaa Sukebein (Torrent)",
             "language": "all",
             "homeUrl": "https://sukebei.nyaa.si/",
@@ -3528,7 +3528,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8622868574170180857",
+            "id": 8622868574170180857,
             "name": "WcoAnimeDub",
             "language": "en",
             "homeUrl": "https://www.wcoanimedub.tv",
@@ -3549,7 +3549,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4683784015054845419",
+            "id": 4683784015054845419,
             "name": "HomeCine",
             "language": "es",
             "homeUrl": "https://homecine.cc",
@@ -3570,7 +3570,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2256494309842770890",
+            "id": 2256494309842770890,
             "name": "UAKino",
             "language": "uk",
             "homeUrl": "https://uakino.best",
@@ -3591,7 +3591,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4616479108300191837",
+            "id": 4616479108300191837,
             "name": "Hentaijk",
             "language": "es",
             "homeUrl": "https://hentaijk.com",
@@ -3612,7 +3612,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3164438094592800620",
+            "id": 3164438094592800620,
             "name": "爱壹帆",
             "language": "zh",
             "homeUrl": "https://www.iyf.tv",
@@ -3633,7 +3633,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "996816978236636598",
+            "id": 996816978236636598,
             "name": "Kinoking",
             "language": "de",
             "homeUrl": "https://kinoking.cc",
@@ -3654,7 +3654,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5831315710159126556",
+            "id": 5831315710159126556,
             "name": "AsiaFlix",
             "language": "en",
             "homeUrl": "https://asiaflix.app",
@@ -3675,7 +3675,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "891780646468545269",
+            "id": 891780646468545269,
             "name": "Anime-Base",
             "language": "de",
             "homeUrl": "https://anime-base.net",
@@ -3696,7 +3696,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8596049504378147571",
+            "id": 8596049504378147571,
             "name": "Vostfree",
             "language": "fr",
             "homeUrl": "https://vostfree.ws",
@@ -3717,7 +3717,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7296222662412524790",
+            "id": 7296222662412524790,
             "name": "LMAnime",
             "language": "all",
             "homeUrl": "https://lmanime.com",
@@ -3738,7 +3738,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7460925030423755739",
+            "id": 7460925030423755739,
             "name": "AnimeTake",
             "language": "en",
             "homeUrl": "https://animetake.tv",
@@ -3759,7 +3759,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "168969881246615628",
+            "id": 168969881246615628,
             "name": "MissAV",
             "language": "all",
             "homeUrl": "https://missav.live",
@@ -3780,7 +3780,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2969482460524685571",
+            "id": 2969482460524685571,
             "name": "Q1N",
             "language": "pt-BR",
             "homeUrl": "https://q1n.net",
@@ -3801,7 +3801,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4917265654298497443",
+            "id": 4917265654298497443,
             "name": "PelisPlusPh",
             "language": "es",
             "homeUrl": "https://www.pelisplushd.la",
@@ -3822,7 +3822,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "528782559387795213",
+            "id": 528782559387795213,
             "name": "Anime4Up",
             "language": "ar",
             "homeUrl": "https://w1.anime4up.rest",
@@ -3843,7 +3843,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1179552672777572300",
+            "id": 1179552672777572300,
             "name": "SeriesKao",
             "language": "es",
             "homeUrl": "https://serieskao.top",
@@ -3864,7 +3864,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4677878836897500878",
+            "id": 4677878836897500878,
             "name": "Kuramanime",
             "language": "id",
             "homeUrl": "https://v8.kuramanime.tel",
@@ -3885,7 +3885,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "508651506167756898",
+            "id": 508651506167756898,
             "name": "LegionAnime",
             "language": "es",
             "homeUrl": "https://legionanime.club/api",
@@ -3906,7 +3906,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2407610655424858426",
+            "id": 2407610655424858426,
             "name": "BetterAnimeIo",
             "language": "pt-BR",
             "homeUrl": "https://betteranime.io",
@@ -3927,224 +3927,224 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4864082317433034574",
+            "id": 4864082317433034574,
             "name": "MyReadingManga",
             "language": "ar",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8842237058298566885",
+            "id": 8842237058298566885,
             "name": "MyReadingManga",
             "language": "id",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "2574695051338042046",
+            "id": 2574695051338042046,
             "name": "MyReadingManga",
             "language": "bg",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8791956266162443131",
+            "id": 8791956266162443131,
             "name": "MyReadingManga",
             "language": "zh-hk",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8339625080404115366",
+            "id": 8339625080404115366,
             "name": "MyReadingManga",
             "language": "zh",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "5845608986362292519",
+            "id": 5845608986362292519,
             "name": "MyReadingManga",
             "language": "zh-tw",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "7131955720858058783",
+            "id": 7131955720858058783,
             "name": "MyReadingManga",
             "language": "cs",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "5371514224509665564",
+            "id": 5371514224509665564,
             "name": "MyReadingManga",
             "language": "da",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "6318378620301107421",
+            "id": 6318378620301107421,
             "name": "MyReadingManga",
             "language": "en",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "3226915867864141356",
+            "id": 3226915867864141356,
             "name": "MyReadingManga",
             "language": "fil",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "849421505944509897",
+            "id": 849421505944509897,
             "name": "MyReadingManga",
             "language": "fi",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "4376917703158179535",
+            "id": 4376917703158179535,
             "name": "MyReadingManga",
             "language": "nl",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "437664019446265570",
+            "id": 437664019446265570,
             "name": "MyReadingManga",
             "language": "fr",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "2084769296792806394",
+            "id": 2084769296792806394,
             "name": "MyReadingManga",
             "language": "de",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8822988174773173078",
+            "id": 8822988174773173078,
             "name": "MyReadingManga",
             "language": "el",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "5231220639630323919",
+            "id": 5231220639630323919,
             "name": "MyReadingManga",
             "language": "he",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8926928666838596626",
+            "id": 8926928666838596626,
             "name": "MyReadingManga",
             "language": "hi",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8708782130191102760",
+            "id": 8708782130191102760,
             "name": "MyReadingManga",
             "language": "hu",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "3371822795753272045",
+            "id": 3371822795753272045,
             "name": "MyReadingManga",
             "language": "it",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "7616097631685192755",
+            "id": 7616097631685192755,
             "name": "MyReadingManga",
             "language": "ja",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8341594492961776810",
+            "id": 8341594492961776810,
             "name": "MyReadingManga",
             "language": "ko",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "1723826339924620549",
+            "id": 1723826339924620549,
             "name": "MyReadingManga",
             "language": "ms",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "8445980320294828568",
+            "id": 8445980320294828568,
             "name": "MyReadingManga",
             "language": "no",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "2019706989618234044",
+            "id": 2019706989618234044,
             "name": "MyReadingManga",
             "language": "pl",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "7097816699537539700",
+            "id": 7097816699537539700,
             "name": "MyReadingManga",
             "language": "pt-BR",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "1896532101387970682",
+            "id": 1896532101387970682,
             "name": "MyReadingManga",
             "language": "ro",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "4213491422253699699",
+            "id": 4213491422253699699,
             "name": "MyReadingManga",
             "language": "ru",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "3547244847403070407",
+            "id": 3547244847403070407,
             "name": "MyReadingManga",
             "language": "es",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "4833177807047559630",
+            "id": 4833177807047559630,
             "name": "MyReadingManga",
             "language": "sv",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "1912103614802930406",
+            "id": 1912103614802930406,
             "name": "MyReadingManga",
             "language": "th",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "164535712016830416",
+            "id": 164535712016830416,
             "name": "MyReadingManga",
             "language": "tr",
             "homeUrl": "https://myreadingmanga.info",
             "mirrorUrls": []
           },
           {
-            "id": "4129272632455883902",
+            "id": 4129272632455883902,
             "name": "MyReadingManga",
             "language": "vi",
             "homeUrl": "https://myreadingmanga.info",
@@ -4165,7 +4165,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "533096643049014020",
+            "id": 533096643049014020,
             "name": "Animes Online Vip",
             "language": "pt-BR",
             "homeUrl": "https://animesonlinefhd.vip",
@@ -4186,7 +4186,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1174869729090616971",
+            "id": 1174869729090616971,
             "name": "OgladajAnime",
             "language": "pl",
             "homeUrl": "https://ogladajanime.pl",
@@ -4207,7 +4207,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3074980924810171824",
+            "id": 3074980924810171824,
             "name": "FRAnime",
             "language": "fr",
             "homeUrl": "https://franime.fr",
@@ -4228,7 +4228,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3135577129954186978",
+            "id": 3135577129954186978,
             "name": "Animetsu",
             "language": "all",
             "homeUrl": "https://animetsu.net",
@@ -4249,7 +4249,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "913841527115486600",
+            "id": 913841527115486600,
             "name": "Doramogo",
             "language": "pt-BR",
             "homeUrl": "https://doramogo.com",
@@ -4270,7 +4270,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2089287837152010776",
+            "id": 2089287837152010776,
             "name": "zeroanime",
             "language": "es",
             "homeUrl": "https://www4.zeroanime.xyz",
@@ -4291,21 +4291,21 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1100359934660540567",
+            "id": 1100359934660540567,
             "name": "Jellyfin (1)",
             "language": "all",
             "homeUrl": "",
             "mirrorUrls": []
           },
           {
-            "id": "5716273013801838310",
+            "id": 5716273013801838310,
             "name": "Jellyfin (2)",
             "language": "all",
             "homeUrl": "",
             "mirrorUrls": []
           },
           {
-            "id": "7066619062139039107",
+            "id": 7066619062139039107,
             "name": "Jellyfin (3)",
             "language": "all",
             "homeUrl": "",
@@ -4326,7 +4326,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "655155856096",
+            "id": 655155856096,
             "name": "Anime-Loads",
             "language": "de",
             "homeUrl": "https://www.anime-loads.org",
@@ -4347,7 +4347,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2457282111412357647",
+            "id": 2457282111412357647,
             "name": "Pi Fansubs",
             "language": "pt-BR",
             "homeUrl": "https://pifansubs.club",
@@ -4368,7 +4368,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2486904751081872151",
+            "id": 2486904751081872151,
             "name": "YoMovies",
             "language": "hi",
             "homeUrl": "https://yomovies.town",
@@ -4389,7 +4389,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "665629163594938512",
+            "id": 665629163594938512,
             "name": "WcoAnimeSub",
             "language": "en",
             "homeUrl": "https://www.wcoanimesub.tv",
@@ -4410,7 +4410,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4356029013369426954",
+            "id": 4356029013369426954,
             "name": "MundoDonghua",
             "language": "es",
             "homeUrl": "https://www.mundodonghua.com",
@@ -4431,7 +4431,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4742118265598399159",
+            "id": 4742118265598399159,
             "name": "AnimeYT.es",
             "language": "es",
             "homeUrl": "https://animeyt.es",
@@ -4452,7 +4452,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6683521813386506618",
+            "id": 6683521813386506618,
             "name": "EnNovelas",
             "language": "es",
             "homeUrl": "https://l.ennovelas-tv.com",
@@ -4473,7 +4473,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "9099608567050495800",
+            "id": 9099608567050495800,
             "name": "AnimeCore",
             "language": "pt-BR",
             "homeUrl": "https://animecore.net",
@@ -4494,7 +4494,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4222017068256633289",
+            "id": 4222017068256633289,
             "name": "Google Drive",
             "language": "all",
             "homeUrl": "https://drive.google.com",
@@ -4515,7 +4515,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "93702975723668971",
+            "id": 93702975723668971,
             "name": "AnimeFLV",
             "language": "es",
             "homeUrl": "https://www3.animeflv.net",
@@ -4536,7 +4536,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7735188894368809510",
+            "id": 7735188894368809510,
             "name": "az-animex",
             "language": "es",
             "homeUrl": "https://www.az-animex.com",
@@ -4557,7 +4557,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1378291029586884571",
+            "id": 1378291029586884571,
             "name": "فاصل اعلاني",
             "language": "ar",
             "homeUrl": "https://www.faselhds.biz",
@@ -4578,7 +4578,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1571236147208399860",
+            "id": 1571236147208399860,
             "name": "AnimeKai (Unoriginal)",
             "language": "en",
             "homeUrl": "https://animekaitv.to",
@@ -4599,63 +4599,63 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2012957501886720048",
+            "id": 2012957501886720048,
             "name": "AnimeWorld India",
             "language": "all",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "1553651966725515829",
+            "id": 1553651966725515829,
             "name": "AnimeWorld India",
             "language": "bn",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "8052146309028882026",
+            "id": 8052146309028882026,
             "name": "AnimeWorld India",
             "language": "en",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "7823261278652377392",
+            "id": 7823261278652377392,
             "name": "AnimeWorld India",
             "language": "hi",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "2355355781711866618",
+            "id": 2355355781711866618,
             "name": "AnimeWorld India",
             "language": "ja",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "2763344039098801472",
+            "id": 2763344039098801472,
             "name": "AnimeWorld India",
             "language": "ml",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "7406666490782122257",
+            "id": 7406666490782122257,
             "name": "AnimeWorld India",
             "language": "mr",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "9003594241787941843",
+            "id": 9003594241787941843,
             "name": "AnimeWorld India",
             "language": "ta",
             "homeUrl": "https://anime-world.co",
             "mirrorUrls": []
           },
           {
-            "id": "8757775099454174589",
+            "id": 8757775099454174589,
             "name": "AnimeWorld India",
             "language": "te",
             "homeUrl": "https://anime-world.co",
@@ -4676,7 +4676,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "5832452298268268088",
+            "id": 5832452298268268088,
             "name": "HentaiSaturn",
             "language": "it",
             "homeUrl": "https://www.hentaisaturn.com",
@@ -4697,7 +4697,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8542735178285060053",
+            "id": 8542735178285060053,
             "name": "AnimeOnsen",
             "language": "all",
             "homeUrl": "https://www.animeonsen.xyz",
@@ -4718,7 +4718,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2400169316701597839",
+            "id": 2400169316701597839,
             "name": "FlixLatam",
             "language": "es",
             "homeUrl": "https://flixlatam.com",
@@ -4739,7 +4739,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4419717598017841435",
+            "id": 4419717598017841435,
             "name": "Mapple",
             "language": "en",
             "homeUrl": "https://mapple.uk",
@@ -4760,7 +4760,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8058423919997530503",
+            "id": 8058423919997530503,
             "name": "HentaiMama",
             "language": "en",
             "homeUrl": "https://hentaimama.io",
@@ -4781,7 +4781,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4976463260586484820",
+            "id": 4976463260586484820,
             "name": "DeTodo Peliculas",
             "language": "es",
             "homeUrl": "https://detodopeliculas.nu",
@@ -4802,7 +4802,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4467610354363305307",
+            "id": 4467610354363305307,
             "name": "Miruro.tv",
             "language": "en",
             "homeUrl": "https://www.miruro.tv",
@@ -4823,7 +4823,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2019695674801188380",
+            "id": 2019695674801188380,
             "name": "AnimeIndo",
             "language": "id",
             "homeUrl": "https://animeindo.skin",
@@ -4844,7 +4844,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3592180368623395225",
+            "id": 3592180368623395225,
             "name": "FilmPalast",
             "language": "de",
             "homeUrl": "https://filmpalast.to",
@@ -4865,7 +4865,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8233706727551070437",
+            "id": 8233706727551070437,
             "name": "AnimeBum",
             "language": "es",
             "homeUrl": "https://www.animebum.net",
@@ -4886,7 +4886,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "191823841242368911",
+            "id": 191823841242368911,
             "name": "Goyabu",
             "language": "pt-BR",
             "homeUrl": "https://goyabu.io",
@@ -4907,7 +4907,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1677488626877212634",
+            "id": 1677488626877212634,
             "name": "Wcofun",
             "language": "en",
             "homeUrl": "https://www.wcoflix.tv",
@@ -4928,7 +4928,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "27781270364033644",
+            "id": 27781270364033644,
             "name": "BeatZ Anime",
             "language": "es",
             "homeUrl": "https://www.beatz-anime.net",
@@ -4949,7 +4949,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4565983297271071094",
+            "id": 4565983297271071094,
             "name": "Aniweek",
             "language": "ko",
             "homeUrl": "https://aniweek.com",
@@ -4970,28 +4970,28 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7323052797979930552",
+            "id": 7323052797979930552,
             "name": "肉視頻",
             "language": "all",
             "homeUrl": "https://rou.video/home",
             "mirrorUrls": []
           },
           {
-            "id": "6055459097979921364",
+            "id": 6055459097979921364,
             "name": "肉視頻",
             "language": "zh",
             "homeUrl": "https://rou.video/home",
             "mirrorUrls": []
           },
           {
-            "id": "1757861758959207324",
+            "id": 1757861758959207324,
             "name": "肉視頻",
             "language": "en",
             "homeUrl": "https://rou.video/home",
             "mirrorUrls": []
           },
           {
-            "id": "8210438569455151012",
+            "id": 8210438569455151012,
             "name": "肉視頻",
             "language": "vi",
             "homeUrl": "https://rou.video/home",
@@ -5012,7 +5012,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1322485891319274755",
+            "id": 1322485891319274755,
             "name": "AnimeBalkan",
             "language": "sr",
             "homeUrl": "https://animebalkan.org",
@@ -5033,7 +5033,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5869353240534047560",
+            "id": 5869353240534047560,
             "name": "TRAnimeCI",
             "language": "tr",
             "homeUrl": "https://tranimaci.com",
@@ -5054,7 +5054,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7920607630206318931",
+            "id": 7920607630206318931,
             "name": "Fun Anime TV",
             "language": "pt-BR",
             "homeUrl": "https://betterclass.click",
@@ -5075,7 +5075,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8903679906651673401",
+            "id": 8903679906651673401,
             "name": "Toonitalia",
             "language": "it",
             "homeUrl": "https://toonitalia.green",
@@ -5096,7 +5096,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1105406593306973475",
+            "id": 1105406593306973475,
             "name": "Newgrounds",
             "language": "all",
             "homeUrl": "https://www.newgrounds.com",
@@ -5117,7 +5117,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3945696494710013768",
+            "id": 3945696494710013768,
             "name": "AnimeYT",
             "language": "es",
             "homeUrl": "https://ytanime.tv",
@@ -5138,7 +5138,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3757015232925755985",
+            "id": 3757015232925755985,
             "name": "AnimeID",
             "language": "es",
             "homeUrl": "https://www.animeid.tv/",
@@ -5159,7 +5159,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8290662435507939982",
+            "id": 8290662435507939982,
             "name": "Pandrama",
             "language": "es",
             "homeUrl": "https://pandrama.com",
@@ -5180,7 +5180,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "9163675745699695675",
+            "id": 9163675745699695675,
             "name": "AnimePahe",
             "language": "en",
             "homeUrl": "https://animepahe.pw",
@@ -5201,7 +5201,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "1484002441113474607",
+            "id": 1484002441113474607,
             "name": "Animelib",
             "language": "ru",
             "homeUrl": "https://animelib.org/ru",
@@ -5222,7 +5222,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2573103800968432770",
+            "id": 2573103800968432770,
             "name": "Oploverz",
             "language": "id",
             "homeUrl": "https://oploverz.media",
@@ -5243,7 +5243,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3974766726104260721",
+            "id": 3974766726104260721,
             "name": "Anime Play",
             "language": "pt-BR",
             "homeUrl": "https://animeplay.cloud",
@@ -5264,7 +5264,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6957694006954649296",
+            "id": 6957694006954649296,
             "name": "MonosChinos",
             "language": "es",
             "homeUrl": "https://monoschinos.st",
@@ -5285,7 +5285,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4124511684994754369",
+            "id": 4124511684994754369,
             "name": "LACartoons",
             "language": "es",
             "homeUrl": "https://www.lacartoons.com",
@@ -5306,7 +5306,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "9100732207446736332",
+            "id": 9100732207446736332,
             "name": "AniPlay",
             "language": "it",
             "homeUrl": "https://aniplay.co",
@@ -5327,14 +5327,14 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3109175441268108091",
+            "id": 3109175441268108091,
             "name": "TioAnime",
             "language": "es",
             "homeUrl": "https://tioanime.com",
             "mirrorUrls": []
           },
           {
-            "id": "754333127542778562",
+            "id": 754333127542778562,
             "name": "TioHentai",
             "language": "es",
             "homeUrl": "https://tiohentai.com",
@@ -5355,7 +5355,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "525433677388000141",
+            "id": 525433677388000141,
             "name": "Tokuzilla",
             "language": "en",
             "homeUrl": "https://tokuzilla.net",
@@ -5376,7 +5376,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3428487071093013526",
+            "id": 3428487071093013526,
             "name": "OtakuDesu",
             "language": "id",
             "homeUrl": "https://otakudesu.blog",
@@ -5397,7 +5397,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2081771513481539599",
+            "id": 2081771513481539599,
             "name": "KickAssAnime",
             "language": "en",
             "homeUrl": "https://kaa.lt",
@@ -5418,7 +5418,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8016727706963226859",
+            "id": 8016727706963226859,
             "name": "Xvideos",
             "language": "all",
             "homeUrl": "https://www.xvideos.com",
@@ -5439,14 +5439,14 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6632887527758140506",
+            "id": 6632887527758140506,
             "name": "Animevost",
             "language": "ru",
             "homeUrl": "https://animevost.org",
             "mirrorUrls": []
           },
           {
-            "id": "6851436110983735038",
+            "id": 6851436110983735038,
             "name": "Animevost Mirror",
             "language": "ru",
             "homeUrl": "https://v13.vost.pw",
@@ -5467,7 +5467,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5798377917298605009",
+            "id": 5798377917298605009,
             "name": "Serienstream",
             "language": "de",
             "homeUrl": "http://186.2.175.5",
@@ -5488,7 +5488,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "9152952750171112510",
+            "id": 9152952750171112510,
             "name": "Anitube",
             "language": "pt-BR",
             "homeUrl": "https://www.anitube.vip",
@@ -5509,7 +5509,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8940958730943730988",
+            "id": 8940958730943730988,
             "name": "WIT ANIME",
             "language": "ar",
             "homeUrl": "https://witanime.cyou",
@@ -5530,7 +5530,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2564532783405004779",
+            "id": 2564532783405004779,
             "name": "Katanime",
             "language": "es",
             "homeUrl": "https://katanime.net",
@@ -5551,7 +5551,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2434089544252410046",
+            "id": 2434089544252410046,
             "name": "KissKH",
             "language": "en",
             "homeUrl": "https://kisskh.ovh",
@@ -5572,7 +5572,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "1480485712825107891",
+            "id": 1480485712825107891,
             "name": "LuciferDonghua",
             "language": "en",
             "homeUrl": "https://luciferdonghua.in",
@@ -5593,7 +5593,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2247987965040486818",
+            "id": 2247987965040486818,
             "name": "AnimeGG",
             "language": "en",
             "homeUrl": "https://www.animegg.org",
@@ -5614,7 +5614,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5343978110335507456",
+            "id": 5343978110335507456,
             "name": "NoobSubs",
             "language": "en",
             "homeUrl": "https://noobftp1.noobsubs.com",
@@ -5635,7 +5635,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6262145028910416459",
+            "id": 6262145028910416459,
             "name": "VerAnimes",
             "language": "es",
             "homeUrl": "https://wwv.veranimes.net",
@@ -5656,7 +5656,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "954848840440936266",
+            "id": 954848840440936266,
             "name": "AniZone",
             "language": "all",
             "homeUrl": "https://anizone.to",
@@ -5677,7 +5677,7 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "5093529078954574163",
+            "id": 5093529078954574163,
             "name": "Hentai Torrent (Torrent)",
             "language": "all",
             "homeUrl": "https://www.hentaitorrents.com",
@@ -5698,7 +5698,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "6358473316829302267",
+            "id": 6358473316829302267,
             "name": "KimoiTV",
             "language": "en",
             "homeUrl": "https://kimoitv.com",
@@ -5719,7 +5719,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5996410160070658951",
+            "id": 5996410160070658951,
             "name": "desu-online",
             "language": "pl",
             "homeUrl": "https://desu-online.pl",
@@ -5740,7 +5740,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2083695115646974607",
+            "id": 2083695115646974607,
             "name": "Kuronime",
             "language": "id",
             "homeUrl": "https://tv1.kuronime.vip",

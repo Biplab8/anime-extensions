@@ -75,7 +75,7 @@ BASE_RAW_URL = "https://raw.githubusercontent.com/Biplab8/anime-extensions/anime
 
 for ext in extensions:
     min_data = {
-        "name": ext["app_label"]",
+        "name": ext["app_label"],
         "pkg": ext["package_name"],
         "apk": f"apk/{ext['apk_name']}",
         "lang": ext["language"],

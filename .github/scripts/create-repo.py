@@ -77,7 +77,7 @@ for ext in extensions:
     min_data = {
         "name": ext["app_label"],
         "pkg": ext["package_name"],
-        "apk": f"apk/{ext['apk_name']}",
+        "apk": ext["apk_name"],
         "lang": ext["language"],
         "code": ext["version_code"],
         "version": ext["version_name"],
